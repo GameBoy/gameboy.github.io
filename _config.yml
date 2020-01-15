@@ -1,0 +1,8 @@
+title: Game Boy Wiki
+description: The place for information about Nintendo's Game Boy handhelds, from accesories to modded consoles.
+
+timezone: Europe/London
+
+source: source
+sass:
+  sass_dir: assets/css/bulma
