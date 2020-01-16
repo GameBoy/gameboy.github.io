@@ -4,6 +4,5 @@ url: https://rgameboy.github.io
 
 timezone: Europe/London
 
-source: source
 sass:
   sass_dir: assets/css/bulma
