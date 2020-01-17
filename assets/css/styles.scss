@@ -9,20 +9,39 @@ $link: $primary;
 $navbar-height: 5rem;
 $navbar-bottom-box-shadow-size: 0 5px 0 0;
 
-$table-background-color: hsl(0, 0%, 98%);
-$table-cell-border: none;
-
+// Main Page
+body {
+    background-color: #f9f9f9;
+}
 .main {
+    background-color: #fff;
     padding: 2em 1.5em 1.5em 1.5em;
 }
 @media screen and (min-width: 1024px) {
     .main {
-        padding: 2em 0 0 0;
+        padding: 2em;
     }
 }
 
+// Nav
+@font-face {
+    font-family: "Manrope";
+    src: url("../fonts/Manrope-Regular.woff2");
+}
+@font-face {
+    font-family: "Manrope";
+    src: url("../fonts/Manrope-Medium.woff2");
+    font-weight: 500;
+}
+.navbar {
+    font-family: "Manrope", "sans-serif";
+    font-weight: 500;
+}
+
+// Infobox
 .infobox {
     width: 18em;
+    border-radius: .25em;
     float: none;
     margin: 0 auto;
 }
@@ -32,12 +51,28 @@ $table-cell-border: none;
         margin: 0 0 1em 1em;
     }
 }
-.table.infobox .infobox-image {
-    padding: 0 0 0 0;
+.table.infobox {
+    background-color: #f9f9f9;
+}
+.table.infobox td, .table.infobox th {
+    border: none;
 }
 .infobox-image.infobox-logo {
     background-color: #fff;
 }
+.table.infobox .infobox-image {
+    padding: 0 0 0 0;
+}
+.infobox-image.infobox-logo:hover {
+    background: url("../images/logos/GameBoyColorEyes.png") no-repeat;
+    background-size: 100%;
+    background-color: #fff;
+}
 
+
+// Content
+.main .content table {
+    width: auto;
+}
 
 @import "bulma.sass";

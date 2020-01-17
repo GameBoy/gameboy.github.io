@@ -3,7 +3,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"> -->
         <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto&display=swap">
         <title>{{ page.title }} - {{ site.title }}</title>
@@ -15,73 +14,15 @@
             <div class="main">
                 {% include breadcrumbs.html %}
                 
+                <h1 class="title">
+                    {{ page.title }}
+                </h1>
+
                 {% if page.category == "Consoles" or page.category == "Accessories" %}
-                <table class="table infobox is-narrow">
-                    <tbody>
-                        {% if page.logo %}
-                        <tr>
-                            <td colspan="2" class="infobox-image infobox-logo">
-                                <img src= "{{ site.url }}/assets/images/{{ page.logo }}">
-                            </td>
-                        </tr>
-                        {% endif %}
-                        {% if page.photo %}
-                        <tr>
-                            <td colspan="2" class="infobox-image infobox-photo">
-                                <img src= "{{ site.url }}/assets/images/{{ page.photo }}">
-                            </td>
-                        </tr>
-                        {% endif %}
-                        {% if page.model %}
-                        <tr>
-                            <th>Model Name</th>
-                            <td>{{ page.model }}</td>
-                        </tr>
-                        {% endif %}
-                        {% if page.release %}
-                        <tr>
-                            <th>Release Date</th>
-                            <td>
-                                <ul>
-                                    {% for item in page.release %}
-                                        <li>{{ item }}</li>
-                                    {% endfor %}
-                                </ul>
-                            </td>
-                        </tr>
-                        {% endif %}
-                        {% if page.sold %}
-                        <tr>
-                            <th>Units Sold</th>
-                            <td>{{ page.sold }}</td>
-                        </tr>
-                        {% endif %}
-                        {% if page.cpu %}
-                        <tr>
-                            <th>CPU</th>
-                            <td>{{ page.cpu }}</td>
-                        </tr>
-                        {% endif %}
-                        {% if page.memory %}
-                        <tr>
-                            <th>Memory</th>
-                            <td>{{ page.memory }}</td>
-                        </tr>
-                        {% endif %}
-                        {% if page.display %}
-                        <tr>
-                            <th>Display</th>
-                            <td>{{ page.display }}</td>
-                        </tr>
-                        {% endif %}
-                    </tbody>
-                </table>
+                {% include infobox.html %}
                 {% endif %}
 
                 <div class="content">
-                    <h1 class="title">
-                        {{ page.title }}
-                    </h1>
                     {{ content }}
                 </div>
             </div>
