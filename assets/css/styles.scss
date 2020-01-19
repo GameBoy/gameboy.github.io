@@ -6,12 +6,17 @@ $primary: #00acaa;
 $family-primary: "Roboto", sans-serif;
 $link: $primary;
 
-$navbar-height: 5rem;
+$navbar-height: 4rem;
 $navbar-bottom-box-shadow-size: 0 5px 0 0;
+
+$footer-background-color: #f9f9f9;
 
 // Main Page
 body {
     background-color: #f9f9f9;
+}
+body .container {
+    width: 100%;
 }
 .main {
     background-color: #fff;
@@ -36,6 +41,14 @@ body {
 .navbar {
     font-family: "Manrope", "sans-serif";
     font-weight: 500;
+}
+.dropdownIcon {
+    display: none;
+}
+@media screen and (min-width: 1024px) {
+    .dropdownIcon {
+        display: inline;
+    }
 }
 
 // Infobox
@@ -63,7 +76,7 @@ body {
 .table.infobox .infobox-image {
     padding: 0 0 0 0;
 }
-.infobox-image.infobox-logo:hover {
+.infobox-image.infobox-logo img[src*="logos/GameBoyColor.png"]:hover {
     background: url("../images/logos/GameBoyColorEyes.png") no-repeat;
     background-size: 100%;
     background-color: #fff;
@@ -74,5 +87,21 @@ body {
 .main .content table {
     width: auto;
 }
+
+// Footer
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+$footer-padding: 2rem 1.5rem 2rem;
+
+
+// 404
+.fourohfour {
+    padding-top: 2em;
+    height: 75vh;
+}
+
 
 @import "bulma.sass";

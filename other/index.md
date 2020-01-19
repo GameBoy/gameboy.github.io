@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Consoles
+title: Other
 ---
 Info here

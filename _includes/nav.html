@@ -1,29 +1,27 @@
 <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
     <div class="container">
         <div class="navbar-brand">
-            <a class="navbar-item">
+            <a class="navbar-item" href="{{ site.url }}">
                 <img src="{{ site.url }}/assets/images/site/logoText.png">
             </a>
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+            <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
             </a>
         </div>
-        <div class="navbar-menu">
+        <div class="navbar-menu" id="navMenu">
             <div class="navbar-start">
-                <a class="navbar-item" href="{{ site.url }}">
-                    Home
-                </a>
                 <div class="navbar-item has-dropdown is-hoverable">
                     <a class="navbar-link is-arrowless">
-                        Categories
+                        <span>Categories</span>
+                        <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
                     </a>
                     <div class="navbar-dropdown is-boxed">
                         <a class="navbar-item" href="{{ site.url }}/consoles">
                             Consoles
                         </a>
-                        <a class="navbar-item" href="{{ site.url }}/accesories">
+                        <a class="navbar-item" href="{{ site.url }}/accessories">
                             Accesories
                         </a>
                         <a class="navbar-item" href="{{ site.url }}/other">
@@ -31,7 +29,7 @@
                         </a>
                     </div>
                 </div>
-                <a class="navbar-item" href="https://discord.gg/J6zgkFN">
+                <a class="navbar-item" href="https://discord.gg/gameboy">
                     Discord
                 </a>
                 <a class="navbar-item" href="{{ site.url }}/about">
@@ -46,3 +44,18 @@
         </div>
     </div>
 </nav>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+if ($navbarBurgers.length > 0) {
+  $navbarBurgers.forEach( el => {
+    el.addEventListener('click', () => {
+      const target = el.dataset.target;
+      const $target = document.getElementById(target);
+      el.classList.toggle('is-active');
+      $target.classList.toggle('is-active');
+    });
+  });
+}
+});
+</script>
