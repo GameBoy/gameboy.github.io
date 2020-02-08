@@ -7,7 +7,7 @@
     {% assign title = " - " | append: site.title | prepend: page.title %}
 {% endif %}
 
-{% assign description = "Description" %}
+{% assign description = site.description %}
 
 {% assign colour = "#00ACAA" %}
 
@@ -22,6 +22,7 @@
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description }}">
 <meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ site.url }}/assets/images/site/icon.png">
 
 <meta name="twitter:url" content="{{ site.url }}">
 <meta name="twitter:title" content="{{ title }}">
