@@ -1,0 +1,30 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% if page.url == "/" %}
+    {% assign title = site.title %}
+{% else %}
+    {% assign title = " - " | append: site.title | prepend: page.title %}
+{% endif %}
+
+{% assign description = "Description" %}
+
+{% assign colour = "#00ACAA" %}
+
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+
+<link rel="icon" sizes="192x192" href="{{ site.url }}/assets/images/site/icon.png">
+<link rel="apple-touch-icon" href="{{ site.url }}/assets/images/site/icon.png">
+<link rel="mask-icon" href="{{ site.url }}/assets/images/site/iconMask.svg" color="{{ colour }}">
+
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:site_name" content="{{ site.title }}">
+
+<meta name="twitter:url" content="{{ site.url }}">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description }}">
+
+<meta name="theme-color" content="{{ colour }}">

@@ -1,49 +1,59 @@
-<nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
-    <div class="container">
-        <div class="navbar-brand">
-            <a class="navbar-item" href="{{ site.url }}">
-                <img src="{{ site.url }}/assets/images/site/logoText.png">
+<div class="container">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="{{ site.url }}">
+            <img src="{{ site.url }}/assets/images/site/logo.png">
+            <span class="logoText">{{ site.title }}</span>
+        </a>
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+        <div class="navbar-start">
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link is-arrowless">
+                    <span>Wiki</span>
+                    <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    <a class="navbar-item" href="{{ site.url }}/consoles">
+                        Consoles
+                    </a>
+                    <a class="navbar-item" href="{{ site.url }}/accessories">
+                        Accesories
+                    </a>
+                    <a class="navbar-item" href="{{ site.url }}/other">
+                        Other
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link is-arrowless">
+                    <span>Tools</span>
+                    <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
+                </a>
+                <div class="navbar-dropdown is-boxed">
+                    <a class="navbar-item" href="{{ site.url }}/gamechecker">
+                        Cartridge Checker
+                    </a>
+                </div>
+            </div>
+            <a class="navbar-item" href="https://discord.gg/gameboy">
+                Discord
             </a>
-            <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
+            <a class="navbar-item" href="{{ site.url }}/about">
+                About
             </a>
         </div>
-        <div class="navbar-menu" id="navMenu">
-            <div class="navbar-start">
-                <div class="navbar-item has-dropdown is-hoverable">
-                    <a class="navbar-link is-arrowless">
-                        <span>Categories</span>
-                        <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
-                    </a>
-                    <div class="navbar-dropdown is-boxed">
-                        <a class="navbar-item" href="{{ site.url }}/consoles">
-                            Consoles
-                        </a>
-                        <a class="navbar-item" href="{{ site.url }}/accessories">
-                            Accesories
-                        </a>
-                        <a class="navbar-item" href="{{ site.url }}/other">
-                            Other
-                        </a>
-                    </div>
-                </div>
-                <a class="navbar-item" href="https://discord.gg/gameboy">
-                    Discord
-                </a>
-                <a class="navbar-item" href="{{ site.url }}/about">
-                    About
-                </a>
-            </div>
-            <div class="navbar-end">
-                <a class="navbar-item" href="https://github.com/gameboy/gameboy.github.io">
-                    Edit on GitHub
-                </a>
-            </div>
+        <div class="navbar-end">
+            <a class="navbar-item" href="https://github.com/rgameboy/gameboy.github.io">
+                Edit on GitHub
+            </a>
         </div>
     </div>
-</nav>
+</div>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
 const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);

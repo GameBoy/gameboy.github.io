@@ -1,5 +1,6 @@
 ---
 layout: about
+title: About
 ---
 About page stuff.
     
