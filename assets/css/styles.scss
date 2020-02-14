@@ -2,7 +2,7 @@
 ---
 @charset "utf-8";
 
-$primary: #00ACAA;
+$primary: #00AAAA;
 $family-primary: "Roboto", sans-serif;
 $link: $primary;
 
@@ -123,8 +123,11 @@ $footer-padding: 2rem 1.5rem 2rem;
 
 // 404
 .fourohfour {
-    padding-top: 2em;
+    padding-top: 2rem;
     height: 75vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 // Homepage
@@ -150,6 +153,9 @@ $footer-padding: 2rem 1.5rem 2rem;
 .homeContainer .logoText {
     color: #FFF;
 }
+.curve {
+    fill: #F9F9F9;
+}
 @media screen and (min-width: 1024px) {
     .welcome .hero-body {
         padding-left: 8rem;
@@ -157,7 +163,7 @@ $footer-padding: 2rem 1.5rem 2rem;
     .welcome p {
         font-size: 2.5rem;
     }
-    .homeContainer svg {
+    .welcome .navbar-link svg {
         fill: #FFF;
     }
     .homeContainer .navbar-item,
@@ -169,6 +175,45 @@ $footer-padding: 2rem 1.5rem 2rem;
     .homeContainer .navbar-dropdown .navbar-item {
         color: #4A4A4A;
     }
+    .curve {
+        margin-top: -25px;
+    }
+}
+
+.iconCircle {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    background-color: #CCEEEE;
+    margin: 0 auto 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconCircle svg {
+    fill: #32BBBB;
+    width: 50%;
+    height: 50%;
+}
+
+.column .box {
+    font-family: "Manrope", "sans-serif";
+    text-align: center;
+}
+
+.discord .iconCircle {
+    background-color: #E2E7F7;
+}
+.discord .iconCircle svg {
+    fill: #7289DA;
+}
+.discord .button {
+    background-color: #7289DA;
+    color: #FFF;
+}
+.discord .button:hover {
+    background-color: #667BC4;
+    color: #FFF;
 }
 
 
