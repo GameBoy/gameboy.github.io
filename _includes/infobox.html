@@ -56,5 +56,23 @@
             <td>{{ page.display }}</td>
         </tr>
         {% endif %}
+		{% if page.maxrom %}
+		<tr>
+			<th>Max ROM Size</th>
+			<td>{{ page.maxrom }}</td>
+		</tr>
+		{% endif %}
+		{% if page.maxram %}
+		<tr>
+			<th>Max RAM Size</th>
+			<td>{{ page.maxram }}</td>
+		</tr>
+		{% endif %}
+		{% if page.features %}
+		<tr>
+			<th>Features</th>
+			<td>{{ page.features }}</td>
+		</tr>
+		{% endif %}
     </tbody>
 </table>
