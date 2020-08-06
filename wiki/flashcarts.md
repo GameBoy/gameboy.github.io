@@ -4,10 +4,9 @@ layout: wiki
 title: Game Boy Flash Carts
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
+**THIS SECTION IS STILL AN ACTIVE WORK IN PROGRESS**
+
 There are three different styles of flash cart for Game Boy consoles, both for Game Boy (Color) and Game Boy (Advance). Game Boy (Color) carts run on all models that can play original Game Boy games (so except the Game Boy Micro) and are used to run both Game Boy and Game Boy Color games. Game Boy Advance carts will only run on Game Boy Advance models and will only run Game Boy Advance Games.
 
 The three types are as follows, internal memory single ROM carts, internal memory multi ROM carts, and external memory multi ROM carts. 

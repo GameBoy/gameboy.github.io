@@ -4,9 +4,6 @@ layout: wiki
 title: Cart Readers
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
 Last Revision: 2020-07-08
 

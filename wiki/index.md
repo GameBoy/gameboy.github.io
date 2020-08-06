@@ -2,17 +2,12 @@
 layout: category
 title: Wiki Index
 ---
-# Welcome to r/Game_Boy
 
-![](%%logo%%) 
-
-## It's like r/GameBoy but the wiki is actually up to date.
-
-Welcome to the Game Boy wiki! This wiki aims to answer most of the common questions, list useful guides and tools, and various other things about playing, modding and maintaining your Game Boys. Some sections have been broken out into new pages to help with the readability of this wiki. 
+Welcome to the new Game Boy wiki! This wiki aims to answer most of the common questions, list useful guides and tools, and various other things about playing, modding and maintaining your Game Boys. Some sections have been broken out into new pages to help with the readability of this wiki. 
  
-Notice any mistakes or have any suggestions for improvement? Please submit [a pull request via github](https://github.com/RGameBoy/Wiki). 
+Notice any mistakes or have any suggestions for improvement? Please submit [a pull request via github](https://github.com/GameBoy/gameboy.github.io). 
  
-Last Revision: 2020-08-05
+Last Revision: 2020-08-06
 
 **NEW** Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
  
@@ -95,6 +90,10 @@ The go to section for reading and writing data to any Game Boy cart is [the cart
 The go to section [any aftermarket or custom flash carts (work in progress).](flashcarts) Your one stop for information on different hardware to play any* ROM on your actual hardware.
 
 * \*you'll need a cart reader to dump your games so you can get ROM files to actually use with your flash cart. 
+
+# [Tools](tools)
+
+This new page is to serve as a [quick reference for recommended tools](tools) to have.
  
  
 # FAQ
@@ -105,11 +104,11 @@ Lots of places sell old game systems. Retro gaming places have been popping up a
  
 **2. What is a flash cart? Where do I get one?**
  
-A flash cart is a Game Boy cartridge that allows you to download and play homebrew or backup ROM's of games from your computer on your Game Boy. They come in two different flavors, ROM carts that allow you to load a memory card (typically micro SD) with ROMs and choose the game from a menu or single ROM carts that need to be flashed with a game before use. Most bootleg games or "repros" as they are commonly referred to as are the latter type and it is not recommended to intentionally purchase these. For the other type of flash cart, three of the most recommended are [BennVenn's El Cheapo (for GB/C)](https://bennvenn.myshopify.com/collections/flash-carts), the [EZ Flash Omega (for GBA)](https://www.ezflash.cn/dealers/), and the [EverDrive (for either).](https://krikzz.com/store/)
+A flash cart is a Game Boy cartridge that allows you to download and play homebrew or backup ROM's of games from your computer on your Game Boy. They come in two different flavors, ROM carts that allow you to load a memory card (typically micro SD) with ROMs and choose the game from a menu or single ROM carts that need to be flashed with a game before use. Most bootleg games or "repros" as they are commonly referred to as are the latter type and it is not recommended to intentionally purchase these. For the other type of flash cart, three of the most recommended are [BennVenn's El Cheapo (for GB/C)](https://bennvenn.myshopify.com/collections/flash-carts), the [EZ Flash Omega (for GBA)](https://www.ezflash.cn/dealers/), and the [EverDrive (for either).](https://krikzz.com/store/) For more information, check out the [flash cart subsection.](flashcarts)
  
 **3. Where can I get a Game Boy Micro faceplate?**
  
-[Rose Colored Gaming](http://www.rosecoloredgaming.com/gameboy-micro.html) has custom faceplates, but they're frequently sold out. Amazon, eBay, and aliexpress also carry some stock. Quality varies greatly depending on the batch. [Bluishsquirrel](https://www.bluishsquirrel.com/page/game-boy-micro-faceplates) also stocks them on occasion. 
+[Rose Colored Gaming](http://www.rosecoloredgaming.com/gameboy-micro.html) has custom faceplates, but they're frequently sold out. Amazon, eBay, and aliexpress also carry some stock. Quality varies greatly depending on the batch. [Bluishsquirrel](https://www.bluishsquirrel.com/page/game-boy-micro-faceplates) also stocks them on occasion. Nintendo Australia still has OEM faceplates in their store but they do not ship internationally. 
  
 **4. Help! My ____ is broken/fake/missing, what do I do?**
  
@@ -145,20 +144,22 @@ With exception of "PIL", most "acronyms" are the model number of the console.
 
 # Helpful Links from the Game Boy Discord
 
-* Game Boy Discord: https://discord.gg/gameboy
-* Documentation and Tools for Nintendo systems (put together by u/MrHDR): https://nintenfo.github.io/
-* List of Game Boy dev resources: https://github.com/avivace/awesome-gbdev
-* Game Boy dev Discord: https://discord.gg/gpBxq85
-* InsideGadgets Discord: https://discord.gg/X2wS8eh
-* List of information on Game Boy carts: https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv
-* Hardware Database(by u/gekkio): https://gbhwdb.gekkio.fi/
-* AGB-101 40 pin ghosting fix: https://www.reddit.com/r/Gameboy/comments/5r8i0e/ags101_gba_mod_image_retention_fix_40pin_white
-* GBA cartridge battery replacement tutorial (by u/MrHDR): https://www.ifixit.com/Guide/Game+Boy+Advance+Cartridge+Battery+Replacement/103523
-* Replacement parts sheet (Work in progress): https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/
-* Adafruit soldering guide: https://learn.adafruit.com/adafruit-guide-excellent-soldering/
-* Information about de-yellowing plastic: http://hellcathq.com/breakdown-of-de-yellowing-techniques-for-retro-computers-and-consoles/
-* Fake Cartridge Thread 2019: https://www.reddit.com/r/Gameboy/comments/ep4s88/fake_cartridge_thread_2020_edition/
-* Open Game Boy Documentation Project(Has a lot of info on the hardware side of consoles and cart): https://mgba-emu.github.io/gbdoc/
+Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
+Game Boy dev Discord: [https://discord.gg/gpBxq85](https://discord.gg/gpBxq85)
+GBDev Website: [https://gbdev.io/](https://gbdev.io/)
+GBDev Resources: [https://gbdev.io/list.html](https://gbdev.io/list.html)
+InsideGadgets Discord: [http://discord.gg/X2wS8eh](http://discord.gg/X2wS8eh)
+List of information on Game Boy carts: [https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv](https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv)
+Hardware Database(by gekkio): [https://gbhwdb.gekkio.fi/](https://gbhwdb.gekkio.fi/)
+GBA cartridge battery replacement tutorial (by HDR): [https://www.ifixit.com/Guide/Game+Boy+Advance+Cartridge+Battery+Replacement/103523](https://www.ifixit.com/Guide/Game+Boy+Advance+Cartridge+Battery+Replacement/103523)
+Replacement parts sheet (Work in progress): [https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)
+Adafruit soldering guide: [https://learn.adafruit.com/adafruit-guide-excellent-soldering/](https://learn.adafruit.com/adafruit-guide-excellent-soldering/)
+Information on de-yellowing plastic: [http://hellcathq.com/breakdown-of-de-yellowing-techniques-for-retro-computers-and-consoles/](http://hellcathq.com/breakdown-of-de-yellowing-techniques-for-retro-computers-and-consoles/)
+Open Game Boy Documentation Project(Has a lot of info on the hardware side of consoles and carts): [https://mgba-emu.github.io/gbdoc/](https://mgba-emu.github.io/gbdoc/)
+GB/GBC Cartridge label template (by HappyCloud): [https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd](https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd)
+/r/gameverifying for verifying if your games are genuine [http://reddit.com/r/gameverifying](http://reddit.com/r/gameverifying)
+GameVerifying Discord: [https://discord.gg/Pshfpza](https://discord.gg/Pshfpza)
+Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 
 # Shops and Custom Sellers
 

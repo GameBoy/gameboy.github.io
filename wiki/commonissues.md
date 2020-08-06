@@ -4,15 +4,12 @@ layout: wiki
 title: Game Boy Common Issues
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
 All of these issues are covered in the [full wiki page](repairs) (most with more info) but this is just a quick document to detail the most common issues.
 
 ##**Game Pak Problems**
 
-Bootleg spotting: [Check out this visual guide](https://nintenfo.github.io/gamechecker/) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index)
+Bootleg spotting: [Check out this visual guide](gamechecker) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index)
 
 * [How to replace a battery in a Game Boy cartridge](https://www.youtube.com/watch?v=n3FsANHj300). If you use the "tape method" you will be shunned and made fun of, simultaneously. Solder and a tabbed CR1616 (must for GBA games) or tabbed CR2025/CR2032 are required. 
    

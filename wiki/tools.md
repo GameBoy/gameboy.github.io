@@ -4,10 +4,9 @@ layout: wiki
 title: Tools
 category: Wiiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
+**THIS SECTION IS STILL AN ACTIVE WORK IN PROGRESS**
+
 Looking to get started modding or repairing Game Boys? This page is to serve as a quick reference for recommended tools to have. This is by no means an exhaustive list or even a requirement.
 
 #**Hand Tools**

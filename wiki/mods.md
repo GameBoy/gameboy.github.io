@@ -4,15 +4,12 @@ layout: wiki
 title: Game Boy Mods
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
 Last Revision: 2020-07-17
 
 **NEW** Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
 
-Here at r/GameBoy, we have a much larger modding community than other retro-gaming subreddits. Mods are simply modifications to the Game Boy system. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here at r/GameBoy happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but PM ~~the mods~~ /u/Admiral_Butter_Crust directly or submit a pull request ([here](https://github.com/RGameBoy/Wiki)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
+The Game Boy community has one of the largest modding communities out of other retro gaming communities. Mods are simply any modifications to the Game Boy system to change it from stock. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here on [discord](discord.gg/gameboy) happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but submit a pull request ([here](https://github.com/GameBoy/gameboy.github.io)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
 
 * How to reverse shell discoloration (works also for clear consoles!) – [Instructables] (http://www.instructables.com/id/Retr0bright-how-to-turn-a-yellow-Gameboy-white-aga/)  
     * Works on carts too! – [Youtube](https://www.youtube.com/watch?v=s3uMlDgVbVw)
@@ -33,7 +30,7 @@ Here at r/GameBoy, we have a much larger modding community than other retro-gami
  
 ## **Original Game Boy Mods**
 
-Looking for a backlight mod? Why not check out [this guide](https://www.reddit.com/r/Game_boy/wiki/mods/backlightmods#wiki_dmg_-_game_boy) from /u/Admiral_Butter_Crust on all the different backlight kits for DMG. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for DMG. 
 
 * Backlight install (parts: [Regular kit from HandHeldLegend](https://handheldlegend.com/collections/dmg/products/game-boy-backlight-dmg-and-pocket) or [Retromodding](https://www.retromodding.com/collections/gameboy-pocket/products/game-boy-backlight?variant=12258355576855) or [EL Kit from Kitsh-Bent](https://store.kitsch-bent.com/product/el_dmg)) – [Instructables guide](http://www.instructables.com/id/Game-Boy-Backlight-DIY/)/[Video guide](https://www.youtube.com/watch?v=93iCzWmSK4Q)  
     * A note on potential issues -- Check the [Repairs wiki](https://www.reddit.com/r/Game_boy/wiki/repairs) for more info on "Newtonian Rings."
@@ -89,7 +86,7 @@ Looking for a backlight mod? Why not check out [this guide](https://www.reddit.c
 
 ## **Game Boy Pocket Mods**
 
-Looking for a backlight mod? Why not check out [this guide](https://www.reddit.com/r/Game_boy/wiki/mods/backlightmods#wiki_mgb_-_game_boy_pocket) from /u/Admiral_Butter_Crust on all the different backlight kits for MGB. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for MGB. 
  
 * Backlight (parts: [HHL](https://handheldlegend.com/collections/dmg/products/game-boy-backlight-dmg-and-pocket) or [Retromodding](https://www.retromodding.com/collections/gameboy-pocket/products/game-boy-backlight?variant=12258355576855)) – [Video Guide](https://www.youtube.com/watch?v=OezxcoxMWSc)/[Instructables guide.](http://www.instructables.com/id/Game-Boy-Backlight-DIY/) This is a similar process as the DMG  
     * A note on potential issues -- Check the [Repairs wiki](https://www.reddit.com/r/Gameboy/wiki/repairs) for more info on "Newtonian Rings."
@@ -117,7 +114,7 @@ Looking for a backlight mod? Why not check out [this guide](https://www.reddit.c
 
 ## **Game Boy Color Mods**
 
-Looking for a backlight mod? Why not check out [this guide](https://www.reddit.com/r/Game_boy/wiki/mods/backlightmods#wiki_cgb_-_game_boy_color) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
+Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
  
 * Backlight OEM LCD (?!) – [Step by step guide.](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) (This method is rather out of date and yields sub optimal results and [as of 2019-10-31, BennVenn is working on improving this process](https://www.facebook.com/BennVennElectronics/posts/2513453608768077))
 
@@ -163,7 +160,7 @@ Looking for a backlight mod? Why not check out [this guide](https://www.reddit.c
  
 ## **Game Boy Advance Mods**
 
-Looking for a backlight mod? Why not check out [this guide](https://www.reddit.com/r/Game_boy/wiki/mods/backlightmods#wiki_agb_-_game_boy_advance) from /u/Admiral_Butter_Crust on all the different backlight kits for AGB. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGB. 
  
 * TFT Frontlight/backlight (with AGS-101 LCD) – [Written guide and detailed video](https://gist.github.com/grantland/8c112548b44aa87dced2) (deprecated)
 
@@ -200,7 +197,7 @@ Looking for a backlight mod? Why not check out [this guide](https://www.reddit.c
  
 ## **Game Boy Advance SP Mods**
 
-Looking for a backlight mod? Why not check out [this guide](https://www.reddit.com/r/Game_boy/wiki/mods/backlightmods#wiki_ags_-_game_boy_advance_sp) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
  
 * AGS-001 increased brightness mod ("AGS-010") and extended life battery – [Written Guide](https://imgur.com/a/5Ptdh)
 

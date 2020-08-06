@@ -4,9 +4,6 @@ layout: wiki
 title: Game Boy Repairs
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
 Last Revision: 2020-07-26
 
@@ -20,7 +17,7 @@ There is also a section (directly below) on common issues related to specific Ga
  
 ##**Game Pak Problems**
 
-This section only really applies to OEM Game Paks and has little bearing on bootleg or aftermarket hardware. [Check out this visual guide](https://nintenfo.github.io/gamechecker/) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index) to find out how to spot bootleg hardware. 
+This section only really applies to OEM Game Paks and has little bearing on bootleg or aftermarket hardware. [Check out this visual guide](gamechecker/) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index) to find out how to spot bootleg hardware. 
 
 * [How to replace a battery in a Game Boy cartridge](https://www.youtube.com/watch?v=n3FsANHj300). If you use the "tape method" you will be shunned and made fun of, simultaneously. Solder and a tabbed CR1616 (must for GBA games) or tabbed CR2025/CR2032 are required. 
     * Recommend using Panasonic tabbed cells. You can get [tabbed CR1616 cells](https://www.digikey.com/product-detail/en/panasonic-bsg/CR-1616-F2N/P273-ND/301860) and [tabbed CR2032 cells](https://www.digikey.com/product-detail/en/panasonic-bsg/CR-2032-F2N/P657-ND/2404062) from digikey or [tabbed CR1616 cells](https://www.mortoffgames.com/gameboy-color/repair-and-replacement-parts35/game-repair-parts39/cr1616-coin-cell-battery-with-tabs-panasonic-) from Mortoff Games. These are equivalent to OEM parts and were actually the OEM for some carts. 
@@ -145,7 +142,7 @@ Each section may have multiple subsections. If using this as a troubleshooting g
  
 ##**Game Boy Pocket Problems**
 
-Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy/wiki/repairs#wiki_common_problems) also has more info, such as failure to power on or speaker issues. 
+Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
 * Lost game saves
  
@@ -165,7 +162,7 @@ Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy
  
 ##**Game Boy Color Problems**
 
-Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy/wiki/repairs#wiki_common_problems) also has more info, such as failure to power on or speaker issues. 
+Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
 * [Game Boy Color Speaker Replacement](https://www.youtube.com/watch?v=oTU46y6HnrA)
 
@@ -173,7 +170,7 @@ Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy
  
 ##**Game Boy Advance Problems**
 
-Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy/wiki/repairs#wiki_common_problems) also has more info, such as failure to power on or speaker issues. 
+Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
 * Cannot load games after AGS-101 screen install
  
@@ -189,7 +186,7 @@ Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy
  
 ##**Game Boy Advance SP Problems**
 
-Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy/wiki/repairs#wiki_common_problems) also has more info, such as failure to power on, speaker issues, or battery issues.
+Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on, speaker issues, or battery issues.
  
 * One or both shoulder buttons do not work
  
@@ -223,7 +220,7 @@ Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy
  
 ##**Game Boy Micro Problems**
 
-Don't forget that [the common problems section](https://www.reddit.com/r/Gameboy/wiki/repairs#wiki_common_problems) also has more info, such as failure to power on, speaker issues, or battery issues. 
+Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on, speaker issues, or battery issues. 
 
 * Faceplate does not clip in or does not stay clipped in when installed. 
 
