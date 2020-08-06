@@ -18,7 +18,7 @@ Well, manual tools. There's another section with electronic hand tools so I feel
 To even open the Game Boy, you need some screw drivers. No exceptions. Game Boy consoles are primarily assembled with JIS and Triwing screws, some models use both, some only use JIS. JIS IS NOT PHILLIPS! A Phillips driver will work on JIS screws but technically so will a flathead driver. Getting a good toolset in advance will significantly reduce the likelihood of stripped or sheared screws. As long as you use the proper driver, you will never strip a screw and have to drill it out. 
 
 * In most cases, the best bang/buck toolkit is the [iFixit Mako Set](https://www.ifixit.com/Store/Tools/Mako-Driver-Kit--64-Precision-Bits/IF145-299)
-    * A dedicated set of JIS drivers is only a few dollars cheaper than this multi set and this set comes with multiple sizes of triwing, gamebit, and various other tools for other things you might want to take apart. It's a fantastic kit for the money. Other vendors, like Wiha or Wera, also make fantastic tools but none with 
+    * A dedicated set of JIS drivers is only a few dollars cheaper than this multi set and this set comes with multiple sizes of triwing, gamebit, and various other tools for other things you might want to take apart. It's a fantastic kit for the money. Other vendors, like Wiha or Wera, also make fantastic tools but none with tripoint bits. 
 
 If you can't swing an ifixit or equivalent kit, these are some of the specific tools you would need otherwise. These tools are much lower quality and are not always the proper size (for example, the ifixit kit comes with four different triwing bits and three are all for different Game Boy models) or even properly hardened and are somewhat likely to strip or shear screws. You can get by doing one or two mods or repairs with these but it's not recommended. 
 
@@ -58,4 +58,26 @@ Hot air is also an option for soldering. While not useful for battery mods, batt
 
 ## Cutting Tools
 
-running out of time, will pick up later. Probably should have finished the outline at least instead of focusing on filling in the outline. Oops.
+running out of time, will pick up later. Probably should have finished the outline at least instead of focusing on filling in the outline. Oops. Just pretend this section is about a rotary tool 
+
+## Power Supplies
+
+USB Charger
+
+External power cable
+
+Power supply
+
+#**Consumables**
+
+Wire
+
+Tape
+
+Flux
+
+Heatshrink
+
+Solder
+
+Batteries

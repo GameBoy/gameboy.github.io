@@ -145,20 +145,35 @@ With exception of "PIL", most "acronyms" are the model number of the console.
 # Helpful Links from the Game Boy Discord
 
 Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
+
 Game Boy dev Discord: [https://discord.gg/gpBxq85](https://discord.gg/gpBxq85)
+
 GBDev Website: [https://gbdev.io/](https://gbdev.io/)
+
 GBDev Resources: [https://gbdev.io/list.html](https://gbdev.io/list.html)
+
 InsideGadgets Discord: [http://discord.gg/X2wS8eh](http://discord.gg/X2wS8eh)
+
 List of information on Game Boy carts: [https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv](https://github.com/gbdev/awesome-gbdev/blob/master/CartridgeList.csv)
+
 Hardware Database(by gekkio): [https://gbhwdb.gekkio.fi/](https://gbhwdb.gekkio.fi/)
+
 GBA cartridge battery replacement tutorial (by HDR): [https://www.ifixit.com/Guide/Game+Boy+Advance+Cartridge+Battery+Replacement/103523](https://www.ifixit.com/Guide/Game+Boy+Advance+Cartridge+Battery+Replacement/103523)
+
 Replacement parts sheet (Work in progress): [https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)
+
 Adafruit soldering guide: [https://learn.adafruit.com/adafruit-guide-excellent-soldering/](https://learn.adafruit.com/adafruit-guide-excellent-soldering/)
+
 Information on de-yellowing plastic: [http://hellcathq.com/breakdown-of-de-yellowing-techniques-for-retro-computers-and-consoles/](http://hellcathq.com/breakdown-of-de-yellowing-techniques-for-retro-computers-and-consoles/)
+
 Open Game Boy Documentation Project(Has a lot of info on the hardware side of consoles and carts): [https://mgba-emu.github.io/gbdoc/](https://mgba-emu.github.io/gbdoc/)
+
 GB/GBC Cartridge label template (by HappyCloud): [https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd](https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd)
+
 /r/gameverifying for verifying if your games are genuine [http://reddit.com/r/gameverifying](http://reddit.com/r/gameverifying)
+
 GameVerifying Discord: [https://discord.gg/Pshfpza](https://discord.gg/Pshfpza)
+
 Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 
 # Shops and Custom Sellers
