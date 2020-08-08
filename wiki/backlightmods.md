@@ -1,12 +1,9 @@
 ---
 layout: wiki
 
-title: Game Boy Advance SP
+title: makho's Backlight Mod Notes
 category: Wiki
 
-logo: logos/GameBoyAdvanceSP.png
-photo: consoles/GameBoyAdvanceSP.jpg
-model: AGS
 ---
 I, /u/Admiral_Butter_Crust or makho on discord or youtube, own *nearly* every backlight kit on the market right now for pretty much every console. I feel like that gives me a rather unique perspective on these things and it would be selfish to keep that to myself. I did actually end up making a video on just the GBC portion of this but it's a bit older and out of date now. I also ramble quite a bit so I figure that limiting myself to just text and a few pictures here and there will let me try and *succinctify* myself a bit. 
 
