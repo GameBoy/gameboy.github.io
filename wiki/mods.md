@@ -234,7 +234,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 	
 ## **Game Boy Micro Mods**
 
-* "Makho Battery Mod," a cheap, high capacity (800+mAh), and 100% reversable battery mod – [Youtube](https://www.youtube.com/watch?v=L2095F4UELI)
-    * Do note that the video uses a lower capacity cell. For better battery life, a 802535 battery is recommended (but will require removing the foam on the inside of the battery door). 602535 also works but is lower capacity but will be perfectly drop-in. 
+* "Makho Battery Mod," a cheap, high capacity (800+mAh*), and 100% reversable battery mod – [Youtube](https://www.youtube.com/watch?v=I0BywDS7Wq4)
+    * Do note that the video uses a lower quality cell. For better battery life, a more reputable 802535 battery vendor is recommended. 602535 also works but is lower capacity but will be perfectly drop-in and will not require removing the foam from the battery door. 
 
 * Overclock mod - [written guide with images](http://www.modd3d.com/articles/item/overclock-your-game-boy-micro)
