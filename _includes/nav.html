@@ -1,7 +1,7 @@
 <div class="container">
     <div class="navbar-brand">
-        <a class="navbar-item" href="{{ site.url }}">
-            <img src="{{ site.url }}/assets/images/site/logo.png">
+        <a class="navbar-item" href="/">
+            <img src="/assets/images/site/logo.png">
             <span class="logoText">{{ site.title }}</span>
         </a>
         <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
@@ -13,19 +13,31 @@
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start">
             <div class="navbar-item has-dropdown is-hoverable">
-                <a class="navbar-link is-arrowless" href="{{ site.url }}/wiki">
+                <a class="navbar-link is-arrowless" href="/wiki">
                     <span>Wiki</span>
                     <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
                 </a>
                 <div class="navbar-dropdown is-boxed">
-                    <a class="navbar-item" href="{{ site.url }}/consoles">
+                    <a class="navbar-item" href="/wiki/consoles">
                         Consoles
                     </a>
-                    <a class="navbar-item" href="{{ site.url }}/accessories">
+                    <a class="navbar-item" href="/wiki/accessories">
                         Accesories
                     </a>
-                    <a class="navbar-item" href="{{ site.url }}/other">
-                        Other
+                    <a class="navbar-item" href="/wiki/games">
+                        Games
+                    </a>
+                    <a class="navbar-item" href="/wiki/mods">
+                        Modifications
+                    </a>
+                    <a class="navbar-item" href="/wiki/cartreaders">
+                        Cartridge Readers
+                    </a>
+                    <a class="navbar-item" href="/wiki/flashcarts">
+                        Flash Cartridges
+                    </a>
+                    <a class="navbar-item" href="/wiki/repairs">
+                        Repairs
                     </a>
                 </div>
             </div>
@@ -35,7 +47,7 @@
                     <svg width="24" height="24" viewBox="0 0 24 24" class="dropdownIcon"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
                 </a>
                 <div class="navbar-dropdown is-boxed">
-                    <a class="navbar-item" href="{{ site.url }}/gamechecker">
+                    <a class="navbar-item" href="/gamechecker">
                         Cartridge Checker
                     </a>
                 </div>
