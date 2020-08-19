@@ -13,27 +13,29 @@ Last Revision: 2020-08-18
  
 # Contents
 
-* [Systems](https://gameboy.github.io/wiki/#systems) 
+**Bolded** items go to separate pages within this wiki whereas the rest of the links go to items on this page. 
+
+* [Systems](#systems) 
 
 * [Games](#games) 
 
-* [*Repairs And Damage*](repairs)
-    * [*Common Issues*](commonissues)
+* [**Repairs And Damage**](repairs)
+    * [**Common Issues**](commonissues)
  
-* [*Mods*](mods) 
-    * [*Backlight Kits Notes*](backlightmods)
+* [**Mods**](mods) 
+    * [**Backlight Kits Notes**](backlightmods)
 	
-* [*Cartridge Readers*](cartreaders)
+* [**Cartridge Readers**](cartreaders)
 
-* [*Flash Carts*](flashcarts)
+* [**Flash Carts**](flashcarts)
 
-* [*Tools (hardware)*](tools)
+* [**Tools (hardware)**](tools)
 
-* [FAQ](https://gameboy.github.io/wiki/#faq)
+* [FAQ](#faq)
 
-* [Helpful Links](https://gameboy.github.io/wiki/#links)
+* [Helpful Links](#links)
 
-* [Shops and Part Stores](https://gameboy.github.io/wiki/#stores)
+* [Shops and Part Stores](#stores)
  
 # Systems
  
