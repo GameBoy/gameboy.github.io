@@ -3,13 +3,37 @@ layout: category
 title: Wiki Index
 ---
 
-Welcome to the new Game Boy wiki! This wiki aims to answer most of the common questions, list useful guides and tools, and various other things about playing, modding and maintaining your Game Boys. Some sections have been broken out into new pages to help with the readability of this wiki. 
+Welcome to the Game Boy wiki! This wiki aims to answer most of the common questions, list useful guides and tools, and various other things about playing, modding and maintaining your Game Boys. Some sections have been broken out into separate pages to help with the readability of this wiki. 
  
 Notice any mistakes or have any suggestions for improvement? Please submit [a pull request via github](https://github.com/GameBoy/gameboy.github.io). 
  
-Last Revision: 2020-08-06
+Last Revision: 2020-08-18
 
 **NEW** Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
+ 
+# Contents
+
+* [Systems](https://gameboy.github.io/wiki/#systems) 
+
+* [Games](#games) 
+
+* [*Repairs And Damage*](repairs)
+    * [*Common Issues*](commonissues)
+ 
+* [*Mods*](mods) 
+    * [*Backlight Kits Notes*](backlightmods)
+	
+* [*Cartridge Readers*](cartreaders)
+
+* [*Flash Carts*](flashcarts)
+
+* [*Tools (hardware)*](tools)
+
+* [FAQ](https://gameboy.github.io/wiki/#faq)
+
+* [Helpful Links](https://gameboy.github.io/wiki/#links)
+
+* [Shops and Part Stores](https://gameboy.github.io/wiki/#stores)
  
 # Systems
  
@@ -142,7 +166,9 @@ With exception of "PIL", most "acronyms" are the model number of the console.
 
 * OXY - Game Boy Micro
 
-# Helpful Links from the Game Boy Discord
+# Links
+
+Shamelessly stolen from the Game Boy Discord
 
 Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
 
@@ -176,7 +202,7 @@ GameVerifying Discord: [https://discord.gg/Pshfpza](https://discord.gg/Pshfpza)
 
 Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 
-# Shops and Custom Sellers
+# Stores
 
 *While shops and sellers are sorted by their location, the bigger stores and some sellers usually ship internationally. Check with each store for shipping rates.*
 
