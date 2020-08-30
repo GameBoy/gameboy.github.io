@@ -9,7 +9,25 @@ I, /u/Admiral_Butter_Crust or makho on discord or youtube, own *nearly* every ba
 
 There are a few kits I am missing and I don't have any immediate plans to acquire all of them but the ones that I do have, I want to spend a few minutes to talk about. Some kits I only have older revisions of and that may make a difference so please feel free to chime in with your experiences. Where relevant, I will mention which version I have. 
 
-# **DMG** - Game Boy
+Each system section has a summary with my recommended kit listed there. 
+
+# Contents
+
+
+* [Original Game Boy (DMG)](#dmg) 
+
+* [Game Boy Pocket (MGB)](#mgb) 
+
+* [Game Boy Color (CGB)](#cgb)
+ 
+* [Game Boy Advance (AGB)](#agb) 
+	
+* [Game Boy Advance SP (AGS)](#ags)
+ 
+
+# DMG
+
+## Original Game Boy
 
 I actually own most of the DMG kits now. I have three different recommendations for "best" kit as each kit seems to have different strengths or weaknesses. Overall cheapest would be an inexpensive LED panel for modifying the OEM LCD (item #1). This is certainly a good option if you like the OEM style screen but is not an option if your LCD is missing or damaged (cracked, screen rot, horizontal lines, etc). You can go a long way in improving the contrast but the original screens are still pretty low quality and have severe ghosting issues or other display artifacts. Alternatively, a total replacement kit is also (finally) an option. My pick for ease of install, performance, and function is definitely the taobao Moon Screen (item #6). This kit gives you more features than every other kit in this list and requires absolutely zero permanent modification to your DMG. No shell modding, no permanent adhesive (to the DMG), and, aside from adding a speaker, no soldering required. Since that kit can be a bit hard to get outside China though, the Funnyplaying 'Retro Pixel' kit (item #7) is also a fantastic option. While the install is a bit more involved, the actual display image itself is bigger (slightly larger than OEM which requires shell modification) and looks proportionally better than the Moon Screen kit when installed on the DMG. 
 
@@ -37,7 +55,9 @@ I actually own most of the DMG kits now. I have three different recommendations 
 
 12. [Freckleshack v2.5 "Aioli" TFT kit](https://www.facebook.com/BennVennElectronics/posts/2606963102750460) -- this kit should be pretty similar to the AIO kit above in both performance and install but should be a lot better on power usage and will actually have the proper framerate. It's hard to say anything else until people start getting these kits in hand with DMG ribbons. The Palm Centro 690 LCD that this kit uses is transflective which means that with the backlight off, the LCD is perfectly viewable in direct sunlight, just like OEM LCDs. 
 
-# **MGB** - Game Boy Pocket
+# MGB
+
+## Game Boy Pocket
 
 Like the DMG section, I have three different recommendations for "best" kit as each kit seems to have different strengths or weaknesses. Overall cheapest would be an inexpensive LED panel for modifying the OEM LCD (item #1). This is certainly a good option if you like the OEM style screen but is not an option if your LCD is missing or damaged (cracked, screen rot, vertical lines etc). You can go a long way in improving the contrast but the original screens are still pretty low quality and have severe ghosting issues or other display artifacts. Alternatively, a total replacement kit is also an option. My pick for ease of install, performance, and function is definitely the 'One Chip' version of the AIO TFT kit (item #3). This kit is pretty light on features but requires absolutely zero permanent modification to your MGB and is one of the cheapest in the list (of total replacement kits). It requires no shell modding and no permanent adhesive. If you're fine with cutting up your shell, the Funnyplaying IPS kit (item #4) is also a fantastic option. While the install is a bit more involved, the actual display image itself is bigger (slightly larger than OEM) and looks proportionally better on the MGB with the thin bezels and huge LCD.  
 
@@ -59,7 +79,9 @@ Like the DMG section, I have three different recommendations for "best" kit as e
 
 9. Other kits -- No new kits are being worked on that aren't already listed above but I'm sure that will change soon so I'll leave this item. 
 
-# **CGB** - Game Boy Color
+# CGB
+
+## Game Boy Color
 
 This is going to be a long section. There are a lot of kits. My pick for ease of install, performance, and function is definitely the 'One Chip' version of the AIO TFT kit (item #8). This kit is pretty light on features but requires absolutely zero permanent modification to your CGB and is one of the cheapest in the list (of total replacement kits). It requires no shell modding, no permanent adhesive, and no soldering. If you're fine with cutting up your shell, the Funnyplaying IPS kit (item #9) is also a fantastic option. While the install is a bit more involved, the actual display image itself is bigger (same size as OEM) and looks proportionally better on the CGB with the thin bezels and huge LCD. At least, I like the FP IPS kit until the OC IPS kit (item #10) gets those kinks worked out.
 
@@ -89,7 +111,9 @@ This is going to be a long section. There are a lot of kits. My pick for ease of
 
 12. Other kits -- No new kits are being worked on that aren't already listed above but I'm sure that will change soon so I'll leave this item. There are some unconfirmed kits though. BennVenn mentioned that he was working on a "GBC XL" and an OLED kit. I don't know the details of either and I don't know if they will ever make it to market. There is also yet another kit on the way from the "One chip" makers that uses a different LCD than the BB Curve 9380 LCD. Allegedly the end result should be similar but because the new (unknown) LCD is smaller, the trimming and install is easier. I'm also hoping to talk them into using the Blackberry Q5 LCD (Funnyplaying Game Boy Pocket kit) to make a GBC XL kit but, again, that's not confirmed. 
 
-# **AGB** - Game Boy Advance
+# AGB
+
+## Game Boy Advance
 
 There are a few options here that work on both GBA and GBA SP but I'm going to keep these sections separate as there are some different considerations for certain mods I believe. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS v2 kit (item #7). It does require a bit of shell modification but pre modified shells are available from several vendors now. I don't think the AGS-101 TFT LCD (item #2) really holds up compared to a more modern LCD but it is still a worthwhile mention. The new taobao ('c screen') kit looks pretty promising. 
 
@@ -117,7 +141,9 @@ There are a few options here that work on both GBA and GBA SP but I'm going to k
 
 12. Other kits -- so BennVenn announced that he was making two kits for AGB and neither have come out yet. I'll have to wait to have an opinion on either until they are out but one is an adapter for NDSL LCDs to install in an AGB. If all goes as planned, it would be similar to the AIO kits in GBC but without the linear scaling. It should fit without irreversible mods and the image will be smaller but it will still likely be an improvement over stock. Another kit was his version of the funnyplaying **v1** kit. I don't know how likely the NDSL kit is after the funnyplaying kit came out or if BV's other kit is still in development ever since the funnyplaying v2 kit came out, but it's just always worth consideration that something else is always on the horizon. Because BennVenn knows what he's doing with this hardware, both kits would work with all models of Game Boy Advance (32 pin, 40 pin, and both AGS-001 and AGS-101 models) unlike the taobao kit that only works on 40 pin models. The one chip kits are also getting a new revision. I'm not sure what features are planned (if any) but the difference will be that the main electronics for the adapter will be on a rigid PCB instead of a flex PCB. See the one chip GBC IPS kit for an example of that. 
 
-# **AGS** - Game Boy Advance SP
+# AGS
+
+## Game Boy Advance SP
 
 I could leave this section empty because the GBA SP already comes in both frontlit and backlit variants. Nonetheless, there are still some mods that I know about or have done so I can still talk about them. Though, I guess I do have a lot to say about SP consoles. I like the Funnyplaying SP IPS kits  (item #4) or even just (clean) stock AGS-001s. Yeah, that's right. I like the frontlit ones. I think the AGS-101 consoles are highly over-rated. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS kit.
 

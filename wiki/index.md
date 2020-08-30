@@ -7,9 +7,9 @@ Welcome to the Game Boy wiki! This wiki aims to answer most of the common questi
  
 Notice any mistakes or have any suggestions for improvement? Please submit [a pull request via github](https://github.com/GameBoy/gameboy.github.io). 
  
-Last Revision: 2020-08-18
+Last Content Revision: 2020-08-18
 
-**NEW** Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
+**NEW** Confused/intimidated by the sheer amount of information in this wiki? I don't blame you. I've tried diving in to other hobbies only to be turned off by the type of information available. There's a new section of the wiki that has a more beginner oriented look at Game Boys: [New Users](newusers)
  
 # Contents
 

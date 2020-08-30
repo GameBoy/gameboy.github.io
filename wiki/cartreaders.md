@@ -8,6 +8,7 @@ category: Wiki
 Last Revision: 2020-07-08
 
 This section will go over the various methods available to interface directly with Game Boy Game Paks. Cartridge readers are useful as they allow you to back up the ROM and RAM (save data) or restore the RAM of nearly any game. This is useful because some games use a battery for save data retention and when this battery dies or is replaced, the save data will be wiped. With a cartridge reader, you can backup the save before this happens and restore the save after the battery is replaced. All Game Boy and Game Boy Color games that save use battery backed RAM but [only a handful of Game Boy Advance games use a battery backed save.](https://gbatemp.net/threads/gameboy-advance-gba-games-requiring-batteries.322803/) Another useful feature of a cartridge reader is that if you backup the ROM of your game, you can then play this game on an emulator on your PC or other device (but this is outside the scope of this wiki). Finally, some modified or custom games may reflashed with other ROMs or even common bootleg or reproduction games may be reflashed (though compatibility with these varies depending on the specific revision and cart reader and reliability or save compatibility can be lacking). Bolded devices are standalone readers whereas the rest of the devices are typically modified consoles.
+ 
 
 ## Game Boy, Game Boy Color, and Game Boy Advance Game Pak devices: 
  

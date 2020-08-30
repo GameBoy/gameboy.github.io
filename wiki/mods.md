@@ -5,11 +5,32 @@ title: Game Boy Mods
 category: Wiki
 
 ---
-Last Revision: 2020-07-17
+Last Content Revision: 2020-07-17
 
-**NEW** Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
+Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
 
 The Game Boy community has one of the largest modding communities out of other retro gaming communities. Mods are simply any modifications to the Game Boy system to change it from stock. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here on [discord](discord.gg/gameboy) happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but submit a pull request ([here](https://github.com/GameBoy/gameboy.github.io)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
+
+# Contents
+
+* [Multiple Systems](#common)
+
+* [Original Game Boy (DMG)](#dmg) 
+
+* [Game Boy Pocket (MGB)](#mgb) 
+
+* [Game Boy Color (CGB)](#cgb)
+ 
+* [Game Boy Advance (AGB)](#agb) 
+	
+* [Game Boy Advance SP (AGS)](#ags)
+
+* [Game Boy Micro (OXY)](#oxy)
+
+# Common
+
+Items in this section apply to all consoles or otherwise don't fit into one of the sections this page is split in to. 
+ 
 
 * How to reverse shell discoloration (works also for clear consoles!) – [Instructables] (http://www.instructables.com/id/Retr0bright-how-to-turn-a-yellow-Gameboy-white-aga/)  
     * Works on carts too! – [Youtube](https://www.youtube.com/watch?v=s3uMlDgVbVw)
@@ -28,6 +49,10 @@ The Game Boy community has one of the largest modding communities out of other r
 
 * Batteryless saving for Game Boy Advance games (SRAM -> FRAM, does NOT apply to Pokemon) - [Youtube video](https://www.youtube.com/watch?v=OUO6ohZbQbU)
  
+ 
+ 
+# DMG 
+
 ## **Original Game Boy Mods**
 
 Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for DMG. 
@@ -83,6 +108,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 
 
 
+# MGB
 
 ## **Game Boy Pocket Mods**
 
@@ -111,6 +137,9 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 
 * USB Rechargeable battery mod – [Step by step guide](https://www.reddit.com/r/Gameboy/comments/63npzo/tutorial_gameboy_pocket_usb_rechargeable_mod/)
 
+
+
+# CGB
 
 ## **Game Boy Color Mods**
 
@@ -158,6 +187,10 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 * Boxy Pixel aluminum shell ([parts](https://www.boxypixel.com/collections/game-boy-color/products/game-boy-color-ags-101-machined-aluminum-shells-anodized-colored)) - [Assembly Guide for El Clono modded CGB](https://www.boxypixel.com/pages/game-boy-color-assembly-ags-101) (no guides available for other supported mods but install process is very similar)
 
  
+ 
+# AGB
+ 
+ 
 ## **Game Boy Advance Mods**
 
 Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGB. 
@@ -195,6 +228,11 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 
 * LED Battery Gauge (for LiPo modded consoles) – [Youtube](https://www.youtube.com/watch?v=7A705K_WF-E)
  
+ 
+ 
+# AGS
+ 
+ 
 ## **Game Boy Advance SP Mods**
 
 Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
@@ -231,6 +269,9 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 * USB Type C Charge Port Mod - [Listing with instructions](https://www.tindie.com/products/rorosaurus/game-boy-advance-sp-mod-usb-c-charging-port/)
     * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
 	
+	
+	
+# OXY	
 	
 ## **Game Boy Micro Mods**
 

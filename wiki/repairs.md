@@ -5,7 +5,7 @@ title: Game Boy Repairs
 category: Wiki
 
 ---
-Last Revision: 2020-07-26
+Last Content Revision: 2020-07-26
 
 Game Boys are old and getting older. There are some common problems that many systems have, or some more specific to one model. It is highly recommended that any issues with the system be fixed before installing mods. Keep in mind that these suggestions are just guidelines and are by no means requirements for fixing issues. 
 
@@ -13,7 +13,26 @@ Game Boys are old and getting older. There are some common problems that many sy
 
 There is also a section (directly below) on common issues related to specific Game Paks such as garbled "Nintendo" logos or battery related issues. 
  
+# Contents
 
+* [Games](#games)
+
+* [Common issues that affect multiple systems](#common)
+
+* [Original Game Boy (DMG)](#dmg) 
+
+* [Game Boy Pocket (MGB)](#mgb) 
+
+* [Game Boy Color (CGB)](#cgb)
+ 
+* [Game Boy Advance (AGB)](#agb) 
+	
+* [Game Boy Advance SP (AGS)](#ags)
+
+* [Game Boy Micro (OXY)](#oxy)
+ 
+ 
+# Games
  
 ##**Game Pak Problems**
 
@@ -52,6 +71,9 @@ BOBdotEXE sums up these troubleshooting steps nicely](https://www.youtube.com/wa
     * What is it? When playing the game, ["large" sprites will appear with data missing (corrupt) or just as a black square.](https://www.reddit.com/r/Gameboy/comments/fxfnku/whats_wrong_with_oak/) This is especially apparent in the opening scene with Prof Oak or in Pokemon battles in the Pokemon games. Some games will use a portion of the save RAM to cache data and this issue occurs when the save ram is missing or otherwise not working properly. 
     * How do I fix it? Well, the most common fix is actually the exact same as the above fixes mentioned in the "game does not boot" section. Walk through the same fixes recommended there in order. Specifically, try cleaning the pins and if that does not work, you'll need to work your way up to touching up the solder joints on the SRAM chip (bottom left) and/or the MBC chip (top left). 
 
+
+
+# Common
 
 ## **Common problems**
 
@@ -110,6 +132,8 @@ Each section may have multiple subsections. If using this as a troubleshooting g
 
 
 
+# DMG
+
 ##**Original Game Boy Problems**
  
 * [Dead Vertical Lines on DMG](http://www.instructables.com/id/Game-Boy-DMG-Vertical-Line-Repair/)
@@ -139,6 +163,9 @@ Each section may have multiple subsections. If using this as a troubleshooting g
   * What are they? Circles under the LCD that looks like trapped liquid. See [this image for an example.](https://i.redd.it/wsvc4e42n7u41.jpg) This phenomenon is called "Newtonian Rings" and is common in these circumstances. 
   * How do I fix it? The fix will involve either completely separating the glass LCD from the plastic polarizer layer (air gap) or completely joining them together (adhesive polarizer). See this video from /u/esotericsean for [a method of air gapping the polarizer.](https://www.youtube.com/watch?v=-6_s_kNVT0o) If you want to join the polarizer to the LCD OEM style, you'll need a polarizer with pre-applied adhesive. Air gapping is the preferred method. This also applied to Game Boy Pocket. 
 
+
+
+# MGB
  
 ##**Game Boy Pocket Problems**
 
@@ -160,6 +187,9 @@ Don't forget that [the common problems section](commonissues) also has more info
   * How do I fix it? The fix will involve either completely separating the glass LCD from the plastic polarizer layer (air gap) or completely joining them together (adhesive polarizer). See this video from /u/esotericsean for [a method of air gapping the polarizer.](https://www.youtube.com/watch?v=-6_s_kNVT0o) If you want to join the polarizer to the LCD OEM style, you'll need a polarizer with pre-applied adhesive. Air gapping is the preferred method. This also applied to the original Game Boy (DMG). 
   
  
+ 
+# CGB 
+ 
 ##**Game Boy Color Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
@@ -167,6 +197,11 @@ Don't forget that [the common problems section](commonissues) also has more info
 * [Game Boy Color Speaker Replacement](https://www.youtube.com/watch?v=oTU46y6HnrA)
 
 * Do note that speaker failures are often accompanied by the capacitors failing. See [this video and the description](https://www.youtube.com/watch?v=hD1J6rPH40E) for more information. 
+
+
+
+
+# AGB
  
 ##**Game Boy Advance Problems**
 
@@ -183,6 +218,11 @@ Don't forget that [the common problems section](commonissues) also has more info
  
   * What is it? Both of these issues are usually caused by the same problem. The power switch on the console tends to accumulate dirt and gunk and will make poor contact. This will result in your Game Boy getting worse battery life and it will significantly decrease the reliability.
   * How do I fix it? You'll need to clean or replace the power switch. Please see the "Common Problems" section for more info.
+ 
+ 
+ 
+# AGS
+ 
  
 ##**Game Boy Advance SP Problems**
 
@@ -217,6 +257,9 @@ Don't forget that [the common problems section](commonissues) also has more info
 
   * What is it? The shells of some late model AGS consoles are made with defective plastics that tend to get extremely brittle over time. This issue seems most prevalent with Pearl Blue AGS-101 consoles but may affect Graphite AGS-101 consoles or other late model units. [See this imgur album](https://imgur.com/a/dhfax) for more information. 
   * How do I fix it? Well, unfortunately, there is know currently known fix for this issue. If the console is already broken, you can try to glue it back together but the structural damage to the plastic has already been done and this will likely be temporary at best. The only way to "fix" this is to reshell the console in either a new aftermarket shell or with a salvaged OEM shell from another SP. 
+ 
+ 
+# OXY 
  
 ##**Game Boy Micro Problems**
 

@@ -6,6 +6,7 @@ category: Wiki
 
 ---
 All of these issues are covered in the [full wiki page](repairs) (most with more info) but this is just a quick document to detail the most common issues.
+ 
 
 ##**Game Pak Problems**
 
