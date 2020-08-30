@@ -17,11 +17,11 @@ Looking to get started modding or repairing Game Boys? This page is to serve as 
 * [Hand Tools](#handtools) 
     * [Screwdrivers](#screwdrivers)
     * [Cutting Tools](#cuttingtools)
-	* [Holding/Gripping Tools](#workholding)
+	* [Holding/Gripping Tools](#holdinggrippingtools)
 	
 * [Electric Tools](#electrictools)
     * [Soldering Irons](#solderingtools)
-    * [Cutting Tools](#cuttingtools)
+    * [Cutting Tools](#electriccuttingtools)
 	* [Power Supplies](#powersupploes)
 
 * [Consumables](#consumables)
@@ -75,7 +75,7 @@ Hot air is also an option for soldering. While not useful for battery mods, batt
 
 While not technically an electronic tool, a desoldering pump can be very useful to have. While a bit pricier than other models, the [Engineer SS-02](https://www.amazon.com/Engineer-SS-02-Solder-Sucker/dp/B002MJMXD4) is one of the best tools for this job. There are [more expensive desoldering irons](https://www.amazon.com/Hakko-FR-301-Desoldering-Tool/dp/B07BKSLLG9) that would replace this tool but unless your day job involves desoldering constantly, it's likely not worth the high price. 
 
-# CuttingTools
+# ElectricCuttingTools
 
 Any cutting tools that run on electricity are just more expensive versions of the hand tools but will do the job quicker and, with practice, a much better finish. Tired of trimming shells by hand for a screen mod? Why not get a rotary tool? If you look into this, you'll likely be overwhelmed with choice, even just locally. Dremel is a popular brand (and in this case, for good reason). Speed control is recommended but not required. Battery powered tools offer more convenience over their plug in brethren but will not be as powerful. For plastic cutting, this might just mean you have to cut slower but for metal cutting, this will be a deal breaker. Check local hardware stores or even pawn shops. 
 

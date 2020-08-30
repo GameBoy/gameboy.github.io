@@ -34,7 +34,7 @@ There is also a section (directly below) on common issues related to specific Ga
  
 # Games
  
-##**Game Pak Problems**
+## **Game Pak Problems**
 
 This section only really applies to OEM Game Paks and has little bearing on bootleg or aftermarket hardware. [Check out this visual guide](gamechecker/) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index) to find out how to spot bootleg hardware. 
 
@@ -134,7 +134,7 @@ Each section may have multiple subsections. If using this as a troubleshooting g
 
 # DMG
 
-##**Original Game Boy Problems**
+## **Original Game Boy Problems**
  
 * [Dead Vertical Lines on DMG](http://www.instructables.com/id/Game-Boy-DMG-Vertical-Line-Repair/)
  
@@ -167,7 +167,7 @@ Each section may have multiple subsections. If using this as a troubleshooting g
 
 # MGB
  
-##**Game Boy Pocket Problems**
+## **Game Boy Pocket Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
@@ -190,7 +190,7 @@ Don't forget that [the common problems section](commonissues) also has more info
  
 # CGB 
  
-##**Game Boy Color Problems**
+## **Game Boy Color Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
@@ -203,7 +203,7 @@ Don't forget that [the common problems section](commonissues) also has more info
 
 # AGB
  
-##**Game Boy Advance Problems**
+## **Game Boy Advance Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
  
@@ -224,7 +224,7 @@ Don't forget that [the common problems section](commonissues) also has more info
 # AGS
  
  
-##**Game Boy Advance SP Problems**
+## **Game Boy Advance SP Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on, speaker issues, or battery issues.
  
@@ -261,7 +261,7 @@ Don't forget that [the common problems section](commonissues) also has more info
  
 # OXY 
  
-##**Game Boy Micro Problems**
+## **Game Boy Micro Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on, speaker issues, or battery issues. 
 

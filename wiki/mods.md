@@ -55,7 +55,7 @@ Items in this section apply to all consoles or otherwise don't fit into one of t
 
 ## **Original Game Boy Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for DMG. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods#dmg) from /u/Admiral_Butter_Crust on all the different backlight kits for DMG. 
 
 * Backlight install (parts: [Regular kit from HandHeldLegend](https://handheldlegend.com/collections/dmg/products/game-boy-backlight-dmg-and-pocket) or [Retromodding](https://www.retromodding.com/collections/gameboy-pocket/products/game-boy-backlight?variant=12258355576855) or [EL Kit from Kitsh-Bent](https://store.kitsch-bent.com/product/el_dmg)) – [Instructables guide](http://www.instructables.com/id/Game-Boy-Backlight-DIY/)/[Video guide](https://www.youtube.com/watch?v=93iCzWmSK4Q)  
     * A note on potential issues -- Check the [Repairs wiki](https://www.reddit.com/r/Game_boy/wiki/repairs) for more info on "Newtonian Rings."
@@ -112,7 +112,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 
 ## **Game Boy Pocket Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for MGB. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods#mgb) from /u/Admiral_Butter_Crust on all the different backlight kits for MGB. 
  
 * Backlight (parts: [HHL](https://handheldlegend.com/collections/dmg/products/game-boy-backlight-dmg-and-pocket) or [Retromodding](https://www.retromodding.com/collections/gameboy-pocket/products/game-boy-backlight?variant=12258355576855)) – [Video Guide](https://www.youtube.com/watch?v=OezxcoxMWSc)/[Instructables guide.](http://www.instructables.com/id/Game-Boy-Backlight-DIY/) This is a similar process as the DMG  
     * A note on potential issues -- Check the [Repairs wiki](https://www.reddit.com/r/Gameboy/wiki/repairs) for more info on "Newtonian Rings."
@@ -143,7 +143,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
 
 ## **Game Boy Color Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
+Looking for a backlight mod? Why not check out [this guide](backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
  
 * Backlight OEM LCD (?!) – [Step by step guide.](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) (This method is rather out of date and yields sub optimal results and [as of 2019-10-31, BennVenn is working on improving this process](https://www.facebook.com/BennVennElectronics/posts/2513453608768077))
 
@@ -193,7 +193,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
  
 ## **Game Boy Advance Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGB. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) from /u/Admiral_Butter_Crust on all the different backlight kits for AGB. 
  
 * TFT Frontlight/backlight (with AGS-101 LCD) – [Written guide and detailed video](https://gist.github.com/grantland/8c112548b44aa87dced2) (deprecated)
 
@@ -235,7 +235,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods) from 
  
 ## **Game Boy Advance SP Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
+Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
  
 * AGS-001 increased brightness mod ("AGS-010") and extended life battery – [Written Guide](https://imgur.com/a/5Ptdh)
 
