@@ -2,7 +2,7 @@
 layout: wiki
 
 title: Tools
-category: Wiiki
+category: Wiki
 
 ---
 
