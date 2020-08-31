@@ -10,6 +10,8 @@ There are many advantages to using a flash cart for a Game Boy. One such advanta
 
 There are **three different styles of flash cart** for Game Boy consoles, both for Game Boy (Color) and Game Boy Advance. Game Boy (Color) carts run on all models that can play original Game Boy games (so except the Game Boy Micro) and are used to run both Game Boy and Game Boy Color games. Game Boy Advance carts will only run on Game Boy Advance models and will only run Game Boy Advance Games. Even with a flash cart, you cannot run Game Boy Color games on an original Game Boy but a Game Boy flash cart will run Game Boy Color games on a Game Boy Color or original Game Boy games. For a more comprehensive list of known carts, please see [flashcartdb from insideGadgets.](https://flashcartdb.com)
 
+It's worth noting that most of the carts listed here can be underclocked on consoles that are capable of such. None support overclocking, however. 
+
 # A note on bootlegs
 
 Typically, hardware from insideGadgets or RetroStage or the like are designed to emulate OEM in hardware functionality and compatibility, however, most bootlegs work a little bit differently. Bootleg carts are built down to a price and to get them as cheap as possible, most use salvaged memory components or parts that otherwise are not suitable for this kind of use. One such example is that most bootleg Game Boy and Game Boy Color carts are built using parts designed for 3.3v systems and are then overdriven at 5v for use with the system. While this does not offer an risk of permanent damage to the console itself, this does make the cart use significantly more battery than it would otherwise. Additionally, this will reduce the usable life of the cart itself. 
@@ -23,6 +25,11 @@ There are two more considerations. This write operation to the flash chip takes 
 Because of the behavior mentioned above, this also makes save data manipulation rather difficult. To back up a save on these carts, you would have to dump the entire ROM and then boot that dump in an emulator, load the game in that emulator, and then back up *that* save (and if you try and save while playing the dumped game in an emulator, the game will likely crash and not recover). Restoring save files is even more difficult as it requires dumping the ROM, rooting around in a hex editor until you find where the save is stored, and then overwriting the save within the ROM itself. Once overwritten, you then have to flash this modified ROM back to the cart. 
 
 Most bootlegs can be flashed with normal Game Boy games as long as the game is compatible with MBC5 for Game Boy and Game Boy Color bootlegs or as long as the game is compatible with SRAM (and the cart has a big enough SRAM chip) for Game Boy Advance. Saving will work as expected on a normal cart as long as your bootleg game has a working save battery installed. 
+
+# External Memory Multi ROM Carts
+
+These are carts that use an external memory card, usually Micro SD, for the game and save storage. The hardware is not at all reminiscent of OEM games but it allows you to build and coordinate a library of all the games you want to play and is much more reliable than the internal memory versions. Common vendors for these types of carts are [Krikzz Everdrive (GB and GBA)](https://krikzz.com/store/), [EzFlash (GB and GBA)](http://www.ezflash.cn/), and [BennVenn's El Cheapo (GB only).](https://bennvenn.myshopify.com/collections/flash-carts) These carts are the easist to use, offer the greatest compatibility, and the most features. They are, however, more expensive and can use quite a bit more battery life compared to playing the original game on original hardware. 
+
 
 # Internal Memory Single ROM Carts
 
@@ -47,8 +54,3 @@ SRAM is typically limited to 256K and some games store up to 1M. Games may be pa
 # Internal Memory Multi ROM Carts
 
 These carts usually have custom controllers in the hardware to allow the menu in the software to interact with the much higher memory that these carts come with. These are more common in bootlegs, e.g. 369in1 carts. Even though there is software that allows you to combine multiple ROMs for use with a single ROM cart, the distinction with these types of cart is the custom interface that allows the Game Boy to access more memory (though not all at once) than it would normally be allowed to. An OEM style cart with full compatibility will only allow up to 8MB of ROM on a Game Boy or Game Boy Color or 32MB on a Game Boy Advance (64MB for the video carts but those are non-standard). These carts have been known to map 2GB (though rarely is it every fully used). These are not recommended as every one works differently and not all of them work well. Long term reliability is often less than desired. 
-
-# External Memory Multi ROM Carts
-
-These are carts that use an external memory card, usually Micro SD, for the game and save storage. The hardware is not at all reminiscent of OEM games but it allows you to build and coordinate a library of all the games you want to play and is much more reliable than the internal memory versions. Common vendors for these types of carts are [Krikzz Everdrive (GB and GBA)](https://krikzz.com/store/), [EzFlash (GB and GBA)](http://www.ezflash.cn/), and [BennVenn's El Cheapo (GB only)](https://bennvenn.myshopify.com/collections/flash-carts)
-
