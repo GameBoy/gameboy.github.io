@@ -129,19 +129,6 @@ This is going to be a long section. There are a lot of kits. My pick for ease of
 |11. Freckleshack v2.5 "Aioli" TFT kit|Much Smaller|Recommended|No|No|2x|No|No|Button|No|
 
 
-|CGB|1. Backlighting the OEM LCD|2. AGS-101 / El Clono TFT adapter|3. Taobao kit IPS LCD kit ("Galaxy Screen")|4. Freckleshack v1/v2 TFT kit|5. McWill TFT kit|6. MidWest Embedded TFT kit|7. HiVision TFT kits (AIO)|8. One Chip TFT kits (AIO)|9. Funnyplaying IPS kit v1|10. One Chip IPS kit v1|11. Freckleshack v2.5 "Aioli" TFT kit|
-:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|Full Size|Yes|Much Smaller|Yes|Much Smaller|Much Smaller|Much Smaller|Much Smaller|Much Smaller|Yes|Yes|Much Smaller|
-|Custom Lens|No|Recommended|No|Recommended|Recommended|Recommended|Recommended|Recommended|No|No|Recommended|
-|Soldering|Required|No|Required|No|V1, Yes, V1.1, No|Recommended|No|No|No|No|No|
-|Cutting|No|Shell Milling Required|Yes|Yes|No|Yes|No|No|Yes|Yes|No|
-|Integer Scaling|1x|1x|2x|2x|2x|2x|2x|2x|2x|2x|2x|
-|Pixel Grid|Yes|Yes|No|No|No|No|No|No|No|No|No|
-|Color Palettes|No|No|No|No|No|No|Yes|Yes|No|Yes|No|
-|Adjustable Brightness|No|Button|Button|Button|No|Button|Button or Touch|Button or Touch|Touch|Button or Touch|Button|
-|Stuttering or Tearing|No|No|No|v1 yes, v2 no|Frame Drops|Screen Jitter|Frame Drops|No|See notes|Frame Drops|No|
-
-
 1. [Backlighting the OEM LCD](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) --  I've never tried this but I've never liked the results I've seen in images. It looks like it *can* work nicely but someone just needs to find the right combo.
 
 2. AGS-101 / El Clono TFT adapter ([console](https://i.imgur.com/jYtWSM6.jpg) and [kit](https://cdn.shopify.com/s/files/1/0804/0095/products/IMG20181213111442_ea7f665d-8f3d-47ca-b914-39c85d61f3c4_360x.jpg)) -- all around not a great mod. Don't get me wrong, it was effectively the first backlight kit so of course we all went nuts for it but compared to the other options, it's not a good idea at all to build a new one with all the newer alternatives. The LCD *and* adapter ribbon are both very expensive (though the new PCB adapter has gotten cheaper, the LCD pricing has more than made up for this). The install process is one of the most difficult as it requires precisely milling out the shell to fit the huge LCD. Due to the increased DPI of GBA LCDs, the actual image on the GBC is smaller than stock as well. Finally, battery life plummets with this mod, especially compared to other kits. One of the few pros is that the colors and image quality itself is pretty good. I ended up building a GBC using BennVenn's v2.3 ribbon. I believe that the actual clones of this adapter use an older version of the firmware that is buggy with certain model GBCs but I had zero issues with my legit ribbon. (I assembled mine before I started filming youtube videos)
@@ -173,6 +160,21 @@ This is going to be a long section. There are a lot of kits. My pick for ease of
 ## Game Boy Advance
 
 There are a few options here that work on both GBA and GBA SP but I'm going to keep these sections separate as there are some different considerations for certain mods I believe. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS v2 kit (item #7). It does require a bit of shell modification but pre modified shells are available from several vendors now. I don't think the AGS-101 TFT LCD (item #2) really holds up compared to a more modern LCD but it is still a worthwhile mention. The new taobao ('c screen') kit looks pretty promising. 
+
+|AGB|Full Size|Custom Lens|Soldering|Cutting|Integer Scaling|Pixel Grid|Color Palettes|Adjustable Brightness|Stuttering or Tearing|
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|1. Front light|Yes|No|Yes|No|1x|Yes|No|No|No|
+|2. AGS-101 TFT mod|Yes|No|Recommended|Yes|1x|Yes|No|Some|No|
+|3. Fake AGS-101 IPS LCD|Yes|No|Recommended|Yes|2x|No|No|Some|No|
+|4. Taobao IPS kit ("Galaxy Screen")|Slightly Larger|Recommended|Yes|Yes|2x|No|No|Button Control|No|
+|5. Taobao IPS kit ("C Screen")|Yes|No|Unknown|No|Unknown|No|Yes|Unknown|Unknown|
+|6. Funnyplaying IPS kit (v1)|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|Major Frame Tearing|
+|7. Funnyplaying IPS kit (v2)|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|No|
+|8. "One chip" IPS v1|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|Frame Dropping|
+|9. "One chip" IPS v2|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|No|
+|10. "One chip" IPS "2 in 1"|Slightly Larger|Recommended|No|Yes|2x|No|Yes|Button or Touch|No|
+|11. insideGadgets Micro TFT adapter|Much Smaller|Recommended|No|Yes|1x|No|No|No|No|
+
 
 1. Front light -- Of course you can just frontlight your console. I suppose I should have included this in the GBC section but I never frontlit a GBC before. I did do a [NGPC](https://i.imgur.com/P7cK3Rj.jpg) but that's another story for another time. It's technically an option and I am just now realizing that it's one I should include in my wiki. Honestly though? Don't seriously consider it unless you are weird like me and just want one of every mod. There are two different types of frontlight panels. The first are [salvaged from older devices](https://i.imgur.com/9mUS8sQ.jpg) (like say an AGS-001 or Palm Pilot) or there are [new aftermarket panels.](http://i.imgur.com/8qU1AtJ.jpg). My experience should be pretty obvious from those images since both of those consoles are mine. If you really want a frontlight, and you cannot find a legitimate afterburner kit, just swap in a whole AGS-001 LCD. Don't bother trying to salvage the panel only. They are absurdly delicate and nearly impossible to clean (so touching it with bare fingers will ruin it). The new aftermarket kits *can* look good, so I hear, but I've yet to see one that looked as good or better than an old salvaged panel. 
 
