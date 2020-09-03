@@ -9,7 +9,7 @@ I, /u/Admiral_Butter_Crust or makho on discord or youtube, own *nearly* every ba
 
 There are a few kits I am missing and I don't have any immediate plans to acquire all of them but the ones that I do have, I want to spend a few minutes to talk about. Some kits I only have older revisions of and that may make a difference so please feel free to chime in with your experiences. Where relevant, I will mention which version I have. 
 
-Each system section has a summary with my recommended kit listed there. 
+Each system section has a summary with my recommended kit listed there. **New** I also added a chart to be used a quick summary for the kits. You should check out the notes below or the full video for more information but it should be pretty easy to understand. Any field that has "recommended" in it should be interpreted as "yes" if you want the full experience with all features. For some kits this means full brightness control or hiding the edges of the LCD panel with a new lens but for actual funcitonality soldering is not required. 
 
 # Contents
 
@@ -173,7 +173,7 @@ There are a few options here that work on both GBA and GBA SP but I'm going to k
 |8. "One chip" IPS v1|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|Frame Dropping|
 |9. "One chip" IPS v2|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|No|
 |10. "One chip" IPS "2 in 1"|Slightly Larger|Recommended|No|Yes|2x|No|Yes|Button or Touch|No|
-|11. insideGadgets Micro TFT adapter|Much Smaller|Recommended|No|Yes|1x|No|No|No|No|
+|11. insideGadgets Micro TFT adapter|Much Smaller|Recommended|No|No|1x|No|No|No|No|
 
 
 1. Front light -- Of course you can just frontlight your console. I suppose I should have included this in the GBC section but I never frontlit a GBC before. I did do a [NGPC](https://i.imgur.com/P7cK3Rj.jpg) but that's another story for another time. It's technically an option and I am just now realizing that it's one I should include in my wiki. Honestly though? Don't seriously consider it unless you are weird like me and just want one of every mod. There are two different types of frontlight panels. The first are [salvaged from older devices](https://i.imgur.com/9mUS8sQ.jpg) (like say an AGS-001 or Palm Pilot) or there are [new aftermarket panels.](http://i.imgur.com/8qU1AtJ.jpg). My experience should be pretty obvious from those images since both of those consoles are mine. If you really want a frontlight, and you cannot find a legitimate afterburner kit, just swap in a whole AGS-001 LCD. Don't bother trying to salvage the panel only. They are absurdly delicate and nearly impossible to clean (so touching it with bare fingers will ruin it). The new aftermarket kits *can* look good, so I hear, but I've yet to see one that looked as good or better than an old salvaged panel. 
@@ -206,6 +206,19 @@ There are a few options here that work on both GBA and GBA SP but I'm going to k
 
 I could leave this section empty because the GBA SP already comes in both frontlit and backlit variants. Nonetheless, there are still some mods that I know about or have done so I can still talk about them. Though, I guess I do have a lot to say about SP consoles. I like the Funnyplaying SP IPS kits  (item #4) or even just (clean) stock AGS-001s. Yeah, that's right. I like the frontlit ones. I think the AGS-101 consoles are highly over-rated. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS kit.
 
+|AGS|Full Size|Custom Lens|Soldering|Cutting|Integer Scaling|Pixel Grid|Color Palettes|Adjustable Brightness|Stuttering or Tearing|
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|1. AGB 32P Screen|Yes|No|No|No|1x|Yes|No|No light to adjust|No|
+|2. AGS-101 TFT mod|Yes|No|Required|No|1x|Yes|No|Some|No|
+|2. Fake AGS-101 IPS LCD|Yes|No|Required|No|2x|No|No|Some|No|
+|3. Funnyplaying IPS kit (AGB v1)|Slightly Larger|Recommended|Recommended|Yes|2x|No|No|Button Control|Major Frame Tearing|
+|4. Funnyplaying IPS kit (AGS v1)|Slightly Larger|Recommended|Recommended|Yes|2x|No|No|Button Control|No|
+|5. "One chip" IPS v1|Slightly Larger|Recommended|Recommended|Yes|2x|No|No|Button Control|Frame Dropping|
+|6. "One chip" IPS v2|Slightly Larger|Recommended|Recommended|Yes|2x|No|No|Button Control|No|
+|7. "One chip" IPS "2 in 1"|Slightly Larger|Recommended|No|Yes|2x|No|Yes|Button or Touch|No|
+|8. insideGadgets Micro TFT adapter|Much Smaller|Recommended|No|No|1x|No|No|No|No|
+
+
 1. Unpimp your SP ([adapter](https://i.imgur.com/PWauMf2.jpg)) -- I still don't really know why someone made this adapter. I've managed to repurpose it for another mod that I'll get to in a sec but this adapter came WELL before that other mod did. You can use it to install a non-lit 32 pin AG**B** LCD in your AGS. It works on both AGS (AGS-001) and AGT (AGS-101) motherboards. I guess you can use it to make a functional console out of that AGS-101 you shamefully cannibalized for your AGB? Nonetheless, it's there and, well, it *does* work. 
 
 2. AGS-101 mod for AGS-001 -- Ok, I actually don't have one of these. I have regular AGS-101s though. My main complaint about those consoles is the brightness levels and this mod fixes that. If you use a brightness controller (and a voltage regulator), you can actually get much better control over brightness levels in this mod over a stock AGS-101. Otherwise, all other things are the same between a modded AGS-001 and an AGS-101. Mostly. I hear that AGS-001 consoles modded with AGS-101 screens have less ghosting but I think that has more to due with the actual LCD in the unit (the "2018" LCDs seem to perform much better than the OEM or other repro LCDs) than the mod. Seems like it could be a good option if you like AGS consoles but can't get an AGS-101 normally (like for those outside the US and select areas of EU). 
@@ -219,6 +232,9 @@ I could leave this section empty because the GBA SP already comes in both frontl
 6. "One chip" IPS v2 ([kit](https://i.imgur.com/pjZ0xAY.jpg)) -- ~~In typical "one chip" fashion, they quietly released a revision without actually marking it as such. This is a software revision only so visually the kit is indistinguishable from v1. Allegedly this release fixes the stuttering that I noticed on the v1 kit and improves some of the flickering artifacts in some games. I do not have one of these kits to verify. Everything else should be identical to v1.~~ I'm actually not so sure anymore because the new "2 in 1" kit is also marked as v2. I think the "v2" designation on the kits that look like v1 is purely for marketing reasons. There may actually be a software revision for this kit that fixes the stuttering and frame dropping but I've been unable to acquire one for verification. It should be assumed that any "one chip" ribbon cable kit that is marked as "v2" should be assumed to be the initial version that I reviewed above. 
 
 7. "One chip" IPS "2 in 1" ([kit](https://i.imgur.com/f3fUyf5.jpg)) -- This is the exact same kit as the AGB "2 in 1" version (hence the name) but with an AGS ribbon cable (34 pin) and a laminated LCD. The "2 in 1" versions of this kit are actually shipping with [a new brand of LCD which is considered lower quality than the original.](https://youtu.be/-1Gcq7mMjPw) The old LG LCD is still 100% compatible but these come with Toppoly LCDs instead. Install and performance are actually pretty damn similar to the v2 version and the funnyplaying version. Both kits will show some flickering sprites in some games and both kits even have that odd image retention on NES games. However, it looks like the frame dropping issue has been resolved on this version (from v1) and [a new color palette/filter feature](https://imgur.com/a/wYgLPUt) has been introduced. This kit comes with both wired control support and touch sensor control support for solderless installs. Unlike the funnyplaying version, this kit will store the last used brightness level and color filter and restore that next time you boot it up. If you have a choice, I think the funnyplaying version is the better buy for now but this kit is not a bad option either. (see [my install here](https://youtu.be/4gL-f7mTw5I))
+
+8. insideGadgets Micro TFT adapter ([console](https://shop.insidegadgets.com/wp-content/uploads/2020/02/IMG_6392.jpg) and [kit](https://shop.insidegadgets.com/wp-content/uploads/2020/02/IMG_6425-2.jpg)) -- Yeah, that's pretty much exactly what it looks like. 100% reversable and when all is said and done, probably the cheapest backlight kit right now. It does require using a Game Boy Micro LCD, but those are still available on the aftermarket and for reasonably cheap. This kit would go well with a custom screen lens to hide the massive gaps with bezels. The install is rather difficult due to the extreme thickness of the stacked components. It requires bending ribbon cables to a degree that makes most people (well, me at least) uncomfortable. The brightness is very low to start but it can be modded to be brighter. When installed in an AGS-001, the system power consumption actually went down which means using this LCD in place of the frontlit screen (with the light on) will result in better battery life. This is the only kit on the list that you can say that with. For installing, you probably want [this bracket/bezel](https://www.thingiverse.com/thing:4581497) and one of these [ribbon cables.](https://www.aliexpress.com/item/32531674174.html)(see [my install here](https://youtu.be/0Sy1KXxUtWM))
+
 
 Sorry about the pillar of text but don't act like you have anything better to do than talk about Game Boy mods ;)
 
@@ -255,3 +271,5 @@ edit 2020-08-05: moved existing one chip v2 kits to v3 section and added entries
 edit 2020-08-07: revised the OC IPS v2 section again because it appears that this is just a marketing stunt and not an actual hardware revision
 
 edit 2020-08-18: added notes on new one chip q5 IPS kits for DMG and MGB. Also added new AIO XL kit for MGB. Since compatibility is only assumed and not yet confirmed, kit has only been added to MGB section. 
+
+edit 2020-09-02: Added tables for each section and copied the Micro TFT from the AGB section to AGS since that's where I ultimately installed it. 
