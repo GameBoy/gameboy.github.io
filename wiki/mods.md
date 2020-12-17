@@ -5,7 +5,7 @@ title: Game Boy Mods
 category: Wiki
 
 ---
-Last Content Revision: 2020-07-17
+Last Content Revision: 2020-12-16
 
 Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
 
@@ -275,7 +275,10 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
 	
 ## **Game Boy Micro Mods**
 
-* "Makho Battery Mod," a cheap, high capacity (800+mAh*), and 100% reversable battery mod – [Youtube](https://www.youtube.com/watch?v=I0BywDS7Wq4)
+* "Makho Battery Mod," a cheap, high capacity (750+mAh*), and 100% reversable battery mod – [Youtube](https://www.youtube.com/watch?v=I0BywDS7Wq4)
     * Do note that the video uses a lower quality cell. For better battery life, a more reputable 802535 battery vendor is recommended. 602535 also works but is lower capacity but will be perfectly drop-in and will not require removing the foam from the battery door. 
 
 * Overclock mod - [written guide with images](http://www.modd3d.com/articles/item/overclock-your-game-boy-micro)
+
+* USB C / Micro USB Charge Port Replacement - [Example USB C images from sammy.sam](https://imgur.com/a/SNGIauF)
+	* Do note that you lose link port functionality with a mod like this
