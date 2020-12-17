@@ -76,6 +76,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#dmg) f
     * v1 kits have a color palette bug and will need a secondary mod as well. See this [imagur album](https://imgur.com/a/DDlowE5) or [video](https://www.youtube.com/watch?v=cFpnUGuXtbY) for more info. Issue is corrected in v2.
     * v2 kits are reported to have faulty dpad inputs when installed in some shells with some buttons. Issue is corrected in v3
     * v3 is the currently shipping version and is identified by the BLACK PCB and "RIPS V3" markings on the PCB. The LCD is slightly different and such is not compatible with brackets designed for V1 or V2. 
+	
+* One Chip OSD Q5 IPS Kit ("RIPS v4", from [RGRS](https://retrogamerepairshop.com/products/dmg-game-boy-dmg-rips-osd-backlight-mod-kit)) - [Youtube](https://youtu.be/_qVffKBdELI)
 
 * Bivert module install (parts: [HandHeldLegend](https://handheldlegend.com/collections/dmg/products/game-boy-bivert-biversion-module)) – [Video Guide](https://www.youtube.com/watch?v=xS8NQ3dds2k)  
 
@@ -120,12 +122,12 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#mgb) f
 
 * One Chip / HiVision Replacement transflective LCD kit (AIO kit, smaller than stock, found on [aliexpress](https://www.aliexpress.com/item/4000277929265.html)) - [Video Guide](https://www.youtube.com/watch?v=gT1XbwIfRYk)
 
-* BennVenn Replacement transflective LCD kit (**Freckleshack v2.5 - Aioli** parts from [BennVenn](https://bennvenn.myshopify.com/collections/aftermarket-lcds/products/freckleshack-pre-orders-batch-7?variant=29881069535335)) – Kits not yet shipped but install should be similar to AIO kit above due to the reduced PCB size and addition of touch sensor for brightness control
-
-* Replacement stock sized kit from BennVenn - [coming soon^^^TM](https://www.facebook.com/BennVennElectronics/posts/2482250121888426)
+* BennVenn Replacement transflective LCD kit (**Freckleshack v2.5 - Aioli** parts from [BennVenn](https://bennvenn.myshopify.com/collections/aftermarket-lcds/products/freckleshack-pre-orders-batch-7?variant=29881069535335))
 
 * Funnyplaying Replacement IPS LCD kit (from [Funnyplaying](https://funnyplaying.com/collections/product/products/gbp-retro-pixel-ips-lcd-kit)) - [Youtube](https://www.youtube.com/watch?v=lWLE5fMPz7Y)
     * First batch has buggy firmware that will affect the sound on some consoles and [funnyplaying has several options to remedy this.](https://www.instagram.com/p/CBKP7ftHI_9/) Subsequent batches include the fix already (if you're reading this and you haven't ordered a kit yet, the kit will already be fixed). 
+	
+* One Chip OSD Q5 IPS Kit (from [RGRS](https://retrogamerepairshop.com/collections/game-boy-pocket/products/gbp-game-boy-pocket-osd-backlight-mod-kit?variant=32560949297226)) - [Youtube](https://youtu.be/Z5tfjz52N5A)
 
 * Bivert DMG module install (parts: [HandHeldLegend](https://handheldlegend.com/collections/dmg/products/game-boy-bivert-biversion-module)) – [Video Guide](https://www.youtube.com/watch?v=lqOtKcprt7Y)  
 
@@ -143,7 +145,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#mgb) f
 
 ## **Game Boy Color Mods**
 
-Looking for a backlight mod? Why not check out [this guide](backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
+Looking for a backlight mod? Why not check out [this more comprehensive guide](backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
  
 * Backlight OEM LCD (?!) – [Step by step guide.](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) (This method is rather out of date and yields sub optimal results and [as of 2019-10-31, BennVenn is working on improving this process](https://www.facebook.com/BennVennElectronics/posts/2513453608768077))
 
@@ -159,14 +161,12 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#cgb) f
 
 * Midwest Embedded Replacement transflective LCD kit (**Midwest Embedded**, similar to Freckleshack v2, parts from [MWE](https://www.mw-embedded.com/product/gameboy-color-replacement-lcd-module/)) - [Video Guide](https://www.youtube.com/watch?v=6aQMkU88j_M)
 
-* BennVenn Replacement IPS LCD kit (Freckleshack v3, stock sized) - [coming soon^^^TM](https://www.facebook.com/BennVennElectronics/photos/a.1005265796253540/2441252762654829)
-
-* BennVenn Replacement IPS LCD kit (Freckleshack XL?, larger than stock) - [in development](https://www.facebook.com/BennVennElectronics/posts/2280491595397614)
-
 * Funnyplaying Replacement IPS LCD kit (stock sized, now [stocked on funnyplaying.com](https://funnyplaying.com/collections/gameboy-color/products/for-gbc-ips-high-light-backlight-lcd-kits) and on [Retromodding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-ips-lcd)): [Video install](https://www.youtube.com/watch?v=PySvT126Loo)
 
 * One Chip Replacement IPS LCD Kit (parts from [RGRS](https://retrogamerepairshop.com/products/game-boy-color-ips-backlight-with-colored-palettes?variant=32102468026442)) - [Video](https://www.youtube.com/watch?v=-fw7zpxhU8I), see listing for image guide. Trim will be identical to funnyplaying version. 
     * This kit uses the same LCD as the funnyplaying version but has additional functionality in the form of custom override color palettes. 
+	
+* One Chip OSD Q5 IPS Kit (much larger than stock, from [RGRS](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd)) - [Youtube](https://youtu.be/6u5ol_wDfp0)
 
 * Frontlight mod (parts: [HHL](https://handheldlegend.com/collections/gbc/products/game-boy-color-frontlight))– [Video Guide (LOCA highly recommended)](https://www.youtube.com/watch?v=jWZhsYP9IZQ)/[Instructables Guide](http://www.instructables.com/id/How-to-add-a-frontlight-to-your-Gameboy-Color/) or [Video Guide V2 (no LOCA required)](https://www.youtube.com/watch?v=rrmoYjko0i0)
 
@@ -203,11 +203,14 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 
 * "Galaxy Screen" IPS(*) replacement LCD kit (there is a TFT and IPS version, both from [taobao](https://item.taobao.com/item.htm?id=530840180732)) – [Video](https://www.youtube.com/watch?v=oXXyuFz8bzU)
 
+* C LCD Backlight kit (from [aliexpress](https://www.aliexpress.com/item/1005001446765017.html) and [taobao](https://2.taobao.com/item.htm?id=624478927621)) - [Youtube](https://youtu.be/ieJb4AnIPqE)
+
 * BennVenn TFT Replacement NDSL LCD kit (From BennVenn, smaller than stock): [coming soon^^^TM](https://www.facebook.com/BennVennElectronics/posts/2448976045215834)
 
 * USB rechargeable batteries – [DIY guide](http://imgur.com/a/2653q)  
+	* Do this mod at your own caution. Be sure to familiarize yourself with proper Lithium Ion safety tips and proper handling. Also be aware that when using this mod, you should never let your console run flat as it will take the battery down well past normal safe limits. 
 
-* Rechargeable Battery (listed vendors ship US only, parts: [Retromodding kit](https://www.retromodding.com/collections/gameboy-advance/products/gameboy-advance-rechargeable-battery-pack) or [Modmatic kit](https://handheldlegend.com/products/powerup-advance-rechargeable-gba-battery-module)) – [Image Guide](https://www.retromodding.com/blogs/tutorials/gameboy-advance-rechargeable-battery-pack-installation-guide)
+* Rechargeable Battery (listed vendors ship NA only, parts: [Retromodding kit](https://www.retromodding.com/collections/gameboy-advance/products/gameboy-advance-rechargeable-battery-pack) or [Modmatic kit](https://handheldlegend.com/products/powerup-advance-rechargeable-gba-battery-module)) – [Image Guide](https://www.retromodding.com/blogs/tutorials/gameboy-advance-rechargeable-battery-pack-installation-guide)
 
 * Speaker upgrade – [Very detailed guide](https://www.ifixit.com/Guide/Game+Boy+Advance+Speakers+Replacement/2004)  
 
@@ -268,6 +271,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
 	
 * USB Type C Charge Port Mod - [Listing with instructions](https://www.tindie.com/products/rorosaurus/game-boy-advance-sp-mod-usb-c-charging-port/)
     * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
+	
+* Makho/RetroCNC Machined Aluminum replacement shell - coming soon^tm
 	
 	
 	
