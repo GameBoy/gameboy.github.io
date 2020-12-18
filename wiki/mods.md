@@ -139,6 +139,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#mgb) f
 
 * USB Rechargeable battery mod – [Step by step guide](https://www.reddit.com/r/Gameboy/comments/63npzo/tutorial_gameboy_pocket_usb_rechargeable_mod/)
 
+* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)) 
+
 
 
 # CGB
@@ -186,6 +188,8 @@ Looking for a backlight mod? Why not check out [this more comprehensive guide](b
 
 * Boxy Pixel aluminum shell ([parts](https://www.boxypixel.com/collections/game-boy-color/products/game-boy-color-ags-101-machined-aluminum-shells-anodized-colored)) - [Assembly Guide for El Clono modded CGB](https://www.boxypixel.com/pages/game-boy-color-assembly-ags-101) (no guides available for other supported mods but install process is very similar)
 
+* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)) 
+
  
  
 # AGB
@@ -230,6 +234,10 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 * HDMI out (**Woozle's Consolizer**, parts from [GameTech](https://www.game-tech.us/product/gba-consolizer/)) – [Video Guide (LONG)](https://youtu.be/_TxVRt-11B0)
 
 * LED Battery Gauge (for LiPo modded consoles) – [Youtube](https://www.youtube.com/watch?v=7A705K_WF-E)
+
+* Helder's "Power Cleaner" flex PCB for improved audio (parts from [Helder's site](https://www.heldergametech.com/shop/gba/game-boy-advance-power-cleaner-flex-pcb/)) - [Youtube](https://www.youtube.com/watch?v=m85yG4Ku08A)
+
+* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gba/gba-power-switch/)) 
  
  
  
@@ -273,6 +281,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
     * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
 	
 * Makho/RetroCNC Machined Aluminum replacement shell - coming soon^tm
+
+* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gba/gbasp-power-switch/)) 
 	
 	
 	
