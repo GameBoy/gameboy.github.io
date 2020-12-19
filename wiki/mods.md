@@ -173,6 +173,7 @@ Looking for a backlight mod? Why not check out [this more comprehensive guide](b
 * Frontlight mod (parts: [HHL](https://handheldlegend.com/collections/gbc/products/game-boy-color-frontlight))– [Video Guide (LOCA highly recommended)](https://www.youtube.com/watch?v=jWZhsYP9IZQ)/[Instructables Guide](http://www.instructables.com/id/How-to-add-a-frontlight-to-your-Gameboy-Color/) or [Video Guide V2 (no LOCA required)](https://www.youtube.com/watch?v=rrmoYjko0i0)
 
 * Prosound – [Written guide](http://www.littlesounddj.com/lsd/prosound/)/[Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
+	* Helder's improved wiring - [Imgur](https://imgur.com/a/68JkSrJ)
 
 * LED Case/button mod – [Instructables guide](http://www.instructables.com/id/LED-Mod-Your-Gameboy-Color/)  
 
