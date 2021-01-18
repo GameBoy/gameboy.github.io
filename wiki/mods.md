@@ -234,6 +234,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 
 * HDMI out (**Woozle's Consolizer**, parts from [GameTech](https://www.game-tech.us/product/gba-consolizer/)) – [Video Guide (LONG)](https://youtu.be/_TxVRt-11B0)
 
+* HDMI out (**gbaHD** from zwenergy) - [Text Guide from Mogi_codemasterv](https://www.reddit.com/r/Gameboy/comments/kzgrjw/full_guide_gbahd_build/)
+
 * LED Battery Gauge (for LiPo modded consoles) – [Youtube](https://www.youtube.com/watch?v=7A705K_WF-E)
 
 * Helder's "Power Cleaner" flex PCB for improved audio (parts from [Helder's site](https://www.heldergametech.com/shop/gba/game-boy-advance-power-cleaner-flex-pcb/)) - [Youtube](https://www.youtube.com/watch?v=m85yG4Ku08A)
@@ -296,5 +298,5 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
 
 * Overclock mod - [written guide with images](http://www.modd3d.com/articles/item/overclock-your-game-boy-micro)
 
-* USB C / Micro USB Charge Port Replacement - [Example USB C images from sammy.sam](https://imgur.com/a/SNGIauF)
+* USB C / Micro USB Charge Port Replacement - [Example 1 USB C images from sammy.sam](https://imgur.com/a/SNGIauF) and [example 2 USB C reddit thread from u/nataliethenerd](https://www.reddit.com/r/Gameboy/comments/kn0855/usb_c_micro/)
 	* Do note that you lose link port functionality with a mod like this
