@@ -27,6 +27,9 @@ The Game Boy community has one of the largest modding communities out of other r
 
 * [Game Boy Micro (OXY)](#oxy)
 
+* [Game Boy Macro (NTR, USG, and more)](#macro)
+
+
 # Common
 
 Items in this section apply to all consoles or otherwise don't fit into one of the sections this page is split in to. 
@@ -280,7 +283,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
 
 * Internal headphone jack mod – [Github repo with multiple installs documented](https://github.com/rorosaurus/gba-sp-headphone-jack)
 	
-* USB Type C Charge Port Mod - [Listing with instructions](https://www.tindie.com/products/rorosaurus/game-boy-advance-sp-mod-usb-c-charging-port/)
+* USB Type C Charge Port Mod - [Design files/instructions](https://github.com/rorosaurus/gba-sp-usb-c) - [Purchase (USA)](https://smile.amazon.com/dp/B08L72TZWD) - [Purchase (non-USA)](https://www.tindie.com/products/rorosaurus/usb-c-mod-for-game-boy-advance-sp/)
     * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
 	
 * Makho/RetroCNC Machined Aluminum replacement shell - coming soon^tm
@@ -300,3 +303,22 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#ags) f
 
 * USB C / Micro USB Charge Port Replacement - [Example 1 USB C images from sammy.sam](https://imgur.com/a/SNGIauF) and [example 2 USB C reddit thread from u/nataliethenerd](https://www.reddit.com/r/Gameboy/comments/kn0855/usb_c_micro/)
 	* Do note that you lose link port functionality with a mod like this
+
+
+
+# Macro
+
+Some people like to remove the top screen from a Nintendo DS or DS Lite, to create a larger Game Boy Micro we affectionately named "Macro". While this obviously isn't an official product, we've compiled some videos, guides, and mods here to help consolidate information. If you're okay with emulation, you can even perform these mods on a DSi or 3DS as well.
+
+## **Game Boy Macro Mods**
+
+* [The Retro Future - Giving the Nintendo DS one screen for no reason](https://www.youtube.com/watch?v=_xaj4wa4l54)
+* [Spawn Wave - I Turned A Broken Nintendo DS Lite Into A Gameboy Advance](https://www.youtube.com/watch?v=Yf9IpYw-Qfs)
+* [makho - Making a BoxyPixel Game Boy Macro (Nintendo DS Lite)](https://www.youtube.com/watch?v=AMseRlitHWk)
+* [makho - Building a Dual Screen Game Boy Macro](https://www.youtube.com/watch?v=sb7xcf8dwS8)
+* [gibe_shrugs - New 3DSXL Macro](https://www.instagram.com/p/CCCfGnFni2S/)
+* [Zach Lambert - Gameboy Macro - DSLite vs Iphone Speakers](https://www.youtube.com/watch?v=9kU4NlDxYss)
+
+* [USB-C Mod for original Nintendo DS](https://github.com/rorosaurus/gba-sp-usb-c/)
+* [USB-C Mod for Nintendo DS Lite](https://github.com/rorosaurus/nds-lite-usb-c/)
+* [USB-C Mod for Nintendo 3DS XL](https://github.com/rorosaurus/3ds-xl-usb-c/)
