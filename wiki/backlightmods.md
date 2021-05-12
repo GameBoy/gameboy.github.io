@@ -7,9 +7,9 @@ category: Wiki
 ---
 I, /u/Admiral_Butter_Crust or makho on discord or youtube, own *nearly* every backlight kit on the market right now for pretty much every console. I feel like that gives me a rather unique perspective on these things. I did actually end up making a video on just the GBC portion of this but it's a bit older and out of date now. I also ramble quite a bit so I figure that limiting myself to just text and a few pictures here and there will let me try and *succinctify* myself a bit. If you're new to the hobby and just looking for a recommendation on what you should get and find that this document is information overload, just pick your console (new there too? Look at a [GBA](#agb) or [GBA SP](#ags)) and just stick with the summary at the top of the section. 
 
-There are a few kits I am missing and I don't have any immediate plans to acquire all of them but the ones that I do have, I want to spend a few minutes to talk about. Some kits I only have older revisions of and that may make a difference so please feel free to chime in with your experiences. Where relevant, I will mention which version I have. 
+Each system section has a summary with my recommended kit listed there. I also added a chart to be used a quick summary for the kits. You should check out the notes below or the full video for more information but it should be pretty easy to understand. Any field that has "recommended" in it should be interpreted as "yes" if you want the full experience with all features. For some kits this means full brightness control or hiding the edges of the LCD panel with a new lens but for core functionality, soldering is (usually) not required. 
 
-Each system section has a summary with my recommended kit listed there. **New** I also added a chart to be used a quick summary for the kits. You should check out the notes below or the full video for more information but it should be pretty easy to understand. Any field that has "recommended" in it should be interpreted as "yes" if you want the full experience with all features. For some kits this means full brightness control or hiding the edges of the LCD panel with a new lens but for actual funcitonality soldering is not required. 
+Finally, if you're using this list as a vector for picking "the best" <x>, you should understand that the "the best" console or kit or w/e will always be the one you already have. Sure, the new kit from funnyplaying may have this cool new feature but it does NOT invalidate your existing build. The purpose of this page is to document the different offerings and the primary differences between each item, not to create a hierarchy of options to dismiss the inferior kits. The order of options within each section is largely arbitrary. Newer options tend to be closer to the bottom with similar options grouped together. 
 
 # Foreword on Display Types
 
@@ -329,4 +329,4 @@ edit 2021-02-28: added FP CGB Retro Pixel Q5 notes
 
 edit 2021-05-04: added CGS AGS notes and placeholder for new FP GBA screen and placeholder for OC TV Out kit 
 
-edit 2021-05-11: filled in notes for OC TV Out kit
+edit 2021-05-11: filled in notes for OC TV Out kit and updated opening section
