@@ -199,11 +199,11 @@ There are a few options here that work on both GBA and GBA SP but I'm going to k
 |6. "Cloud Game Store" "Drop In" IPS kit|Yes|No|No|Recommended|2x|No|No|Touch|No|
 |7. Funnyplaying 9380 IPS kit (v1)|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|Major Frame Tearing|
 |8. Funnyplaying 9380 IPS kit (v2)|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|No|
-|9. Funnyplaying 'ITA' (DSi) TFT LCD kit|Yes|No|Unk.|Unk.|1x|Actual|Unk.|Unk.|Unk.|
+|9. Funnyplaying 'ITA' (DSi) TFT LCD kit|Yes|No|No|Yes|1x|Yes|No|Button or Touch|No|
 |10. "One chip" 9380 IPS v1|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|Frame Dropping|
 |11. "One chip" 9380 IPS v2|Slightly Larger|Recommended|No|Yes|2x|No|No|Button Control|No|
 |12. "One chip" 9380 IPS "2 in 1"|Slightly Larger|Recommended|No|Yes|2x|No|Yes|Button or Touch|No|
-|13. "One chip" 9380 IPS "TV Version"|Yes|No|No|Yes|1x|Yes|No|Button or Touch|No|
+|13. "One chip" 9380 IPS "TV Version"|Slightly Larger|Recommended|Recommended|Yes|2x|No|Yes|Button or Touch|No|
 |14. "One chip" IPS "TV Version"|Yes|No|Recommended|Recommended|2x|No|Yes|Button or Touch|No|
 |15. insideGadgets Micro TFT adapter|Much Smaller|Recommended|No|No|1x|No|No|No|No|
 
