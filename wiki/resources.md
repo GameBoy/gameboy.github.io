@@ -53,6 +53,7 @@ Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 * [Gamebox Systems](https://gamebox.systems/collections/all) - Home of the DMG Consolizer and some other cool mods
 * [Hand Held Legend](http://handheldlegend.com/) - Screen modification parts (backlights, bivert mod, replacement screen shields) Game Boy Builder
     * Do note that this seller has a history of intentionally misleading blog posts or item listings. Shop with caution. 
+* [Helder Game Tech](https://www.heldergametech.com/) - Game Boy Advance (SP) batteries, replacement power switches, and cap kits
 * [J-Bit Retro](https://www.instagram.com/jbitretro/?hl=en) - Full custom builds, chiptune
 * [Kitsch-Bent](http://kitsch-bent.com) - Custom parts, mods, flash carts, etc.
 * [Mortoff Games](https://mortoffgames.com/) - Replacement parts, etc.
@@ -64,10 +65,12 @@ Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 ## Europe, including UK and Russia
 * [Bluish Squirrel](https://www.bluishsquirrel.com) - Custom UV printed shells and lenses
 * [Deadpan Robot](https://www.deadpanrobot.co.uk/)
-* [Jellybelly Customs](https://www.jellybellycustoms.com/) - Custom UV printed lenses and DMG form factor GBA builds
+* [Jellybelly Customs](https://www.jellybellycustoms.com/) - Custom epoxy resin cast buttons and DMG form factor GBA builds
 * [GameBoyKingdom](https://www.etsy.com/shop/GameBoyKingdom) - Custom UV-printed shells and builds
+* [ZedLabz](https://www.zedlabz.com/)
 
 ## Asia and Oceania
 * [BennVenn](https://bennvenn.myshopify.com) - First-party-designed mods, including replacement displays and flash carts
 * [insideGadgets](https://shop.insidegadgets.com/) - Cart readers, custom flash carts, wireless GB controller kits, GBA VGA kits, and other cool misc. electronics
 * [Funny Playing](https://funnyplaying.com) - LCD replacement mods, custom builds
+* [Natalie The Nerd](https://www.nataliethenerd.com/shop) = LED Bling kits 
