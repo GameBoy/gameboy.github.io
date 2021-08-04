@@ -10,12 +10,7 @@ model: CGB
 ---
 The Game Boy Color was the first major hardware revision to the Game Boy line, with improved hardware and a full colour screen. This system had full backward compatibility with all original [Game Boy](gameboy) games, with the ability to apply some basic colour palettes to different elements. When starting original Game Boy games, the player can use different button combinations to change the colours on the screen, or to the original greyscale. This does not apply to Game Boy Color games. Below is a list of combinations:
 
-:--|:--|:--|:--|
-|**D-Pad&nbsp;
-**|**None (Default)&nbsp;
-**|**A&nbsp;
-**|**B&nbsp;
-**|
+|**D-Pad**|**None (Default)**|**A**|**B**|
 |Up|Brown|Red|Dark Brown|
 |Down|Pastel Mix|Orange|Yellow|
 |Left|Blue|Dark Blue|Grayscale|
@@ -23,7 +18,7 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 
 ## **Game Boy Color Problems**
 
-Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on or speaker issues. 
+Don't forget that [the common problems section](../wiki/commonissues) also has more info, such as failure to power on or speaker issues. 
  
 * [Game Boy Color Speaker Replacement](https://www.youtube.com/watch?v=oTU46y6HnrA)
 
@@ -31,7 +26,7 @@ Don't forget that [the common problems section](commonissues) also has more info
 
 ## **Game Boy Color Mods**
 
-Looking for a backlight mod? Why not check out [this more comprehensive guide](backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
+Looking for a backlight mod? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
  
 * Backlight OEM LCD (?!) – [Step by step guide.](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) (This method is rather out of date and yields sub optimal results and [as of 2019-10-31, BennVenn is working on improving this process](https://www.facebook.com/BennVennElectronics/posts/2513453608768077))
 
