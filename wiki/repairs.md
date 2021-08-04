@@ -5,63 +5,27 @@ title: Game Boy Repairs
 category: Wiki
 
 ---
-Last Content Revision: 2020-07-26
+
+This section has been merged with the "Consoles" pages for better organization. Please go there instead as this page will be deleted eventually. 
  
 # Contents
 
-* [Games](#games)
+* [Games](../consoles/index)
 
-* [Common issues that affect multiple systems](#common)
+* [Common issues that affect multiple systems](../consoles/index)
 
-* [Original Game Boy (DMG)](#dmg) 
+* [Original Game Boy (DMG)](../consoles/gameboy) 
 
-* [Game Boy Pocket (MGB)](#mgb) 
+* [Game Boy Pocket (MGB)](../consoles/pocket) 
 
-* [Game Boy Color (CGB)](#cgb)
+* [Game Boy Light (MGL)](../consoles/light) 
+
+* [Game Boy Color (CGB)](../consoles/color)
  
-* [Game Boy Advance (AGB)](#agb) 
+* [Game Boy Advance (AGB)](../consoles/advance) 
 	
-* [Game Boy Advance SP (AGS)](#ags)
+* [Game Boy Advance SP (AGS)](../consoles/advancesp)
 
-* [Game Boy Micro (OXY)](#oxy)
+* [Game Boy Micro (OXY)](../consoles/micro)
  
- 
-# Games
- 
-
-
-
-
-# Common
-
-
-
-
-
-# DMG
-
-
-
-
-
-# MGB
- 
-
-  
- 
- 
-# CGB 
- 
-
-
-# AGB
- 
-
- 
- 
-# AGS
- 
-
- 
-# OXY 
- 
+* [Other Game Boy Consoles (Macro)](../consoles/others)

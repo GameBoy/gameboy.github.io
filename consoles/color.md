@@ -16,7 +16,7 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
-Last Content Revision: 2020-07-26
+Last Content Revision: 2020-12-16
 
 ## **Game Boy Color Problems**
 

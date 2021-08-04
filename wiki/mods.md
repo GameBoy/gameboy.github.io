@@ -5,66 +5,32 @@ title: Game Boy Mods
 category: Wiki
 
 ---
-Last Content Revision: 2020-12-16
 
 Confused/intimidated by the sheer number of backlight kits now? I don't blame you. I had to create an image based guide just to keep everything straight myself. There's a new section of the wiki that has a more subjective look at all the different kits: [Backlight Mods](backlightmods) (please [give feedback here](https://www.reddit.com/r/Gameboy/comments/grrsrn/my_notes_on_all_game_boy_backlight_kits/))
 
-
-
+This section has been merged with the "Consoles" pages for better organization. Please go there instead as this page will be deleted eventually. 
+ 
 # Contents
 
-* [Multiple Systems](#common)
+* [Games](../consoles/index)
 
-* [Original Game Boy (DMG)](#dmg) 
+* [Common issues that affect multiple systems](../consoles/index)
 
-* [Game Boy Pocket (MGB)](#mgb) 
+* [Original Game Boy (DMG)](../consoles/gameboy) 
 
-* [Game Boy Color (CGB)](#cgb)
+* [Game Boy Pocket (MGB)](../consoles/pocket) 
+
+* [Game Boy Light (MGL)](../consoles/light) 
+
+* [Game Boy Color (CGB)](../consoles/color)
  
-* [Game Boy Advance (AGB)](#agb) 
+* [Game Boy Advance (AGB)](../consoles/advance) 
 	
-* [Game Boy Advance SP (AGS)](#ags)
+* [Game Boy Advance SP (AGS)](../consoles/advancesp)
 
-* [Game Boy Micro (OXY)](#oxy)
+* [Game Boy Micro (OXY)](../consoles/micro)
 
-* [Game Boy Macro (NTR, USG, and more)](#macro)
-
-
-# Common
-
- 
- 
- 
-# DMG 
-
-
-
-
-# MGB
-
-
-
-
-
-# CGB
-
-
- 
- 
-# AGB
- 
- 
- 
- 
-# AGS
- 
- 
-	
-	
-# OXY	
-	
-
-
+* [Other Game Boy Consoles (Macro)](../consoles/others)
 
 
 # Macro

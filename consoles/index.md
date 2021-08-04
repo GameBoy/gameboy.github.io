@@ -3,18 +3,39 @@ layout: category
 title: Consoles
 ---
 
-Last Content Revision: 2020-07-26
-
 Game Boys are old and getting older. There are some common problems that many systems have, or some more specific to one model. It is highly recommended that any issues with the system be fixed before installing mods. Keep in mind that these suggestions are just guidelines and are by no means requirements for fixing issues. 
 
 [Feel free to start here for the most common issues (which are also listed below).](../wiki/commonissues)
 
 There is also a section (directly below) on common issues related to specific Game Paks such as garbled "Nintendo" logos or battery related issues. 
 
-Console Specific sections
-* inserted
-* list
-* here
+Last Content Revision: 2020-12-16
+
+# Contents
+
+* [Games Problems and Repair](#games)
+
+* [Common issues that affect multiple systems](#commonproblems)
+
+* [Common mods for any system](#commonmods)
+
+* [**Original Game Boy (DMG)**](gameboy) 
+
+* [**Game Boy Pocket (MGB)**](pocket) 
+
+* [**Game Boy Light (MGL)**](light) 
+
+* [**Game Boy Color (CGB)**](color)
+ 
+* [**Game Boy Advance (AGB)**](advance) 
+	
+* [**Game Boy Advance SP (AGS)**](advancesp)
+
+* [**Game Boy Micro (OXY)**](micro)
+
+* [**Other Gane Boy Consoles**](others)
+
+# games
 
 ## **Game Pak Problems**
 
@@ -52,6 +73,8 @@ BOBdotEXE sums up these troubleshooting steps nicely](https://www.youtube.com/wa
 * Corrupt or missing sprites (especially in Pokemon RBYGSC)
     * What is it? When playing the game, ["large" sprites will appear with data missing (corrupt) or just as a black square.](https://www.reddit.com/r/Gameboy/comments/fxfnku/whats_wrong_with_oak/) This is especially apparent in the opening scene with Prof Oak or in Pokemon battles in the Pokemon games. Some games will use a portion of the save RAM to cache data and this issue occurs when the save ram is missing or otherwise not working properly. 
     * How do I fix it? Well, the most common fix is actually the exact same as the above fixes mentioned in the "game does not boot" section. Walk through the same fixes recommended there in order. Specifically, try cleaning the pins and if that does not work, you'll need to work your way up to touching up the solder joints on the SRAM chip (bottom left) and/or the MBC chip (top left). 
+	
+#commonproblems
 
 ## **Common problems**
 
@@ -111,6 +134,7 @@ Each section may have multiple subsections. If using this as a troubleshooting g
   
 The Game Boy community has one of the largest modding communities out of other retro gaming communities. Mods are simply any modifications to the Game Boy system to change it from stock. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here on [discord](discord.gg/gameboy) happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but submit a pull request ([here](https://github.com/GameBoy/gameboy.github.io)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
   
+#commonmods
  
 ## **Common Mods**
 

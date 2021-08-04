@@ -13,7 +13,7 @@ The first major redesign of the [Game Boy Advance](advance) changed the system t
 ## 101 Revision
 Nearly Identical to the original Game Boy Advance SP, the revised 101 model finally added the much sought after backlit screen to the Game Boy line. Interestingly, this model debuted almost a full year after the release of the Nintendo DS but mainly in North America, European/Australian systems are extremely rare and Japan never got the revision. Although sold in large numbers, the backlit screen of this SP makes this model one of the most sought-after models of Game Boy, consequently its current price is usually higher than that of other Game Boy models. Exacerbating this price increase is the fact that many systems have been taken apart for their valuable screens.
 
-Last Content Revision: 2020-07-26
+Last Content Revision: 2020-12-16
  
 ## **Game Boy Advance SP Problems**
 
