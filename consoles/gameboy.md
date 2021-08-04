@@ -10,7 +10,18 @@ model: DMG
 ---
 Later nicknamed “DMG” after its product code “Dot Matrix Game”. The original “grey brick” was released in 1989. In 1995 the “Play It Loud” series released. The PI" series only added new shell colours and was not full a hardware revision. PIL consoles use "chip on board" package components and thus the PCBs are covered in epoxy blobs.
 
-Last Content Revision: 2020-12-16
+Table of Contents:
+<!--ts-->
+* [**Original Game Boy Problems**](--original-game-boy-problems--)
+  * [Dead Vertical Lines on DMG](--dead-vertical-lines-on-dmg--)
+  * [Screen Rot](--screen-rot--)
+  * [Vertical lines in the LCD](--vertical-lines-in-the-lcd--)
+  * [Horizontal lines in the LCD](--horizontal-lines-in-the-lcd--)
+  * [Splotchy circles in LCD (after backlight/bivert install)](--splocthy-circles-in-lcd--)
+* [**Original Game Boy Mods**](--original-game-boy-mods--)
+<!--te-->
+
+Last Content Revision: 2021-09-05
 
 ## **Original Game Boy Problems**
 
