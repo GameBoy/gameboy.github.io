@@ -5,7 +5,7 @@ title: Other Game Boy Consoles
 category: Consoles
 
 logo: logos/GameBoyPlayer.png
-photo: consoles/others.jpg
+photo: consoles/Others.jpg
 model: Other
 ---
 For shit like Macros, the Visteon, Game Boy Player, Super Game Boy, and hell, lets add mentions for tangential common consoles like Anbernics. 
