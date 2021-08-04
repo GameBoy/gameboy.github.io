@@ -73,4 +73,4 @@ Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 * [BennVenn](https://bennvenn.myshopify.com) - First-party-designed mods, including replacement displays and flash carts
 * [insideGadgets](https://shop.insidegadgets.com/) - Cart readers, custom flash carts, wireless GB controller kits, GBA VGA kits, and other cool misc. electronics
 * [Funny Playing](https://funnyplaying.com) - LCD replacement mods, custom builds
-* [Natalie The Nerd](https://www.nataliethenerd.com/shop) = LED Bling kits 
+* [Natalie The Nerd](https://www.nataliethenerd.com/shop) - LED Bling kits 
