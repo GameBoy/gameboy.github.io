@@ -33,7 +33,9 @@ Let's get started with some basics, Game Boy consoles. There are three generatio
 	
 # Games
 	
-The reason for mentioning generations is that each new generation introduced new, more complex games and each generation is fully backwards compatible with a couple of per game exceptions here and there and with the exception of the Game Boy Micro console which is not backwards compatible at all. That console is ONLY compatible with Game Boy Advance games. For example, a Game Boy Advance can play Game Boy Advance games as well as Game Boy Color games and original Game Boy Games. A Game Boy Color may play Game Boy Color games and original Game Boy games. A Game Boy Pocket may only play original Game Boy games. 
+The reason for mentioning generations is that each new generation introduced new, more complex games and each generation is fully backwards compatible. For example, a Game Boy Advance can play Game Boy Advance games as well as Game Boy Color games and original Game Boy Games. A Game Boy Color may play Game Boy Color games and original Game Boy games. A Game Boy Pocket may only play original Game Boy games.
+
+One significant exception to this rule is the Game Boy Micro, which will only run Game Boy Advance games. There are also handful of per-game exceptions which will be addressed further down.
 
 ||Game Boy Games|Game Boy Color Games|Game Boy Advance Games|
 :--|:--|:--|:--|
@@ -51,7 +53,12 @@ The reason for mentioning generations is that each new generation introduced new
 x = game plays on console
 
 
-The consoles are pretty unique as far as identification goes but the games are pretty easy too as long as you know what to look for. Original Game Boy compatible games may be identified by their gray or black color, the notch in the top right corner, and the "Nintendo GAME BOY" text imprinted in the plastic. Some games were a different color like Pokemon Red (red cart) but this game is still compatible with all systems. Aside from bootleg games, there are very few games that have that notch in the corner that are not compatible (Perfect Dark and Kirby's Tilt and Tumble). If you look for "DMG" in the model number on the lable, you can still identify the game. Game Boy Color games may be identified by their clear plastic casing and the "Game Boy Color" text imprinted in the casing. Some games again are different color, like Pokemon Crystal (sparkly blue case) but if you look for "CGB" in the model number on the label, you can still identify the game. Last, Game Boy Advance games are half the height of the last two carts and physically will not fit in older consoles due to the change in length of the cart. Older games will stick out of the newer consoles but are still compatible. You can look for the text "AGB" in the model number on the label to identify these games. 
+The consoles are pretty unique as far as identification goes but the games are pretty easy too as long as you know what to look for.
+
+* Original Game Boy compatible games may be identified by their gray or black color, the notch in the top right corner, and the "Nintendo GAME BOY" text imprinted in the plastic. Some games were a different color like Pokemon Red (red cart) but this game is still compatible with all systems. Aside from bootleg games, there are very few games that have that notch in the corner that are not compatible (Perfect Dark and Kirby's Tilt and Tumble). If you look for "DMG" in the model number on the lable, you can still identify the game.
+ * Additionally, there are Game Boy Color-Enhanced games which may identified by their black color, with few exceptions. These are games that will run on first generation Game Boys, but provide additional or improved content when played on a second generation or higher Game Boy.
+* Game Boy Color games may be identified by their clear plastic casing and the "Game Boy Color" text imprinted in the casing. Some games again are different color, like Pokemon Crystal (sparkly blue case) but if you look for "CGB" in the model number on the label, you can still identify the game. 
+* Game Boy Advance games are half the height of the last two carts and physically will not fit in older consoles due to the change in length of the cart. Older games will stick out of the newer consoles but are still compatible. You can look for the text "AGB" in the model number on the label to identify these games. 
 
 Game Boy consoles are completely region free. You can play any Game Boy game from any region on any console from any other region. Cross region multiplayer *generally* does not work though. The region for the Game Boy does not matter at all but, for example, Pokemon Red may only link with other Pokemon games from the same region. The language for the game is built into the game itself and not the Game Boy. 
 
@@ -71,7 +78,7 @@ Now, I'm not saying the AGS-001 has a good screen in it. It's definitely not goi
 
 # Quirks
 
-Due to the relatively low complexity of Game Boy hardware, usually there are very few issues. There are some common problems with all models and unfortunately, the AGS-001 is no exception. The biggest issue these days is the console's rechargeable battery. The OEM cell in the console is going to be nearing two decades old and likely only holds a fraction of it's total charge, if at all. You can skim the [common issues](commonissues) page or the [full repairs](repairs) page for some more info and some ideas on what issues these consoles have. It's up to you if you want to spend less now and buy a fixer upper or spend more and get a better condition or previously repaired console. Most of the vendors linked in the main wiki page will carry SP batteries. 
+Due to the relatively low complexity of Game Boy hardware, usually there are very few issues. There are some common problems with all models and unfortunately, the AGS-001 is no exception. The biggest issue these days is the console's rechargeable battery. The OEM cell in the console is going to be nearing two decades old and likely only holds a fraction of its total charge, if at all. You can skim the [common issues](commonissues) page or the [full repairs](repairs) page for some more info and some ideas on what issues these consoles have. It's up to you if you want to spend less now and buy a fixer upper or spend more and get a better condition or previously repaired console. Most of the vendors linked in the main wiki page will carry SP batteries. 
 
 # Picking Games
 
