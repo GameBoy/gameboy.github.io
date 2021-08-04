@@ -16,9 +16,11 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
+Last Content Revision: 2020-07-26
+
 ## **Game Boy Color Problems**
 
-Don't forget that [the common problems section](../wiki/commonissues) also has more info, such as failure to power on or speaker issues. 
+Don't forget that [the common problems section](index) also has more info, such as failure to power on or speaker issues. 
  
 * [Game Boy Color Speaker Replacement](https://www.youtube.com/watch?v=oTU46y6HnrA)
 
