@@ -33,7 +33,7 @@ Last Content Revision: 2020-12-16
 
 * [**Game Boy Micro (OXY)**](micro)
 
-* [**Other Gane Boy Consoles**](others)
+* [**Other Game Boy Consoles**](others)
 
 # games
 
