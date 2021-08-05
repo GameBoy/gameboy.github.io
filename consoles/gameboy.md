@@ -21,7 +21,7 @@ Table of Contents:
 * [**Original Game Boy Mods**](--original-game-boy-mods--)
 <!--te-->
 
-Last Content Revision: 2021-09-05
+Last Content Revision: 2020-12-16
 
 ## **Original Game Boy Problems**
 
