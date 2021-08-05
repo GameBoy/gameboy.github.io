@@ -18,7 +18,7 @@ Table of Contents:
 * [**Game Boy Advance Mods**](--game-boy-advance-mods--)
 <!--te-->
 
-Last Content Revision: 2021-08-05
+Last Content Revision: 2020-12-16
 
 ## **Game Boy Advance Problems**
 
