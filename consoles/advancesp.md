@@ -13,7 +13,17 @@ The first major redesign of the [Game Boy Advance](advance) changed the system t
 ## 101 Revision
 Nearly Identical to the original Game Boy Advance SP, the revised 101 model finally added the much sought after backlit screen to the Game Boy line. Interestingly, this model debuted almost a full year after the release of the Nintendo DS but mainly in North America, European/Australian systems are extremely rare and Japan never got the revision. Although sold in large numbers, the backlit screen of this SP makes this model one of the most sought-after models of Game Boy, consequently its current price is usually higher than that of other Game Boy models. Exacerbating this price increase is the fact that many systems have been taken apart for their valuable screens.
 
-Last Content Revision: 2020-12-16
+Table of Contents:
+<!--ts-->
+* [**Game Boy Advance SP Problems**](--game-boy-advance-sp-problems--)
+  * [One or both shoulder buttons do not work](--one-or-both-shoulder-buttons-do-not-work--)
+  * [Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted](--game-boy-advance-sp-power-led-is-always-red-even-on-new-batteries-or-led-will-flicker--)
+  * [When charging the console, the charge light does not come on at all/only comes on for a second before turning off](--when-charging-the-console,-the-charge-light--)
+  * [Shell is cracked or broken in multiple places](--the-shell-is-cracked-or-broken-in-multiple-places--)
+* [**Game Boy Advance SP Mods**](--game-boy-advance-sp-problems--)
+<!--te-->
+
+Last Content Revision: 2021-08-05
  
 ## **Game Boy Advance SP Problems**
 
@@ -24,16 +34,12 @@ Don't forget that [the common problems section](index) also has more info, such 
   * What is it? When pressing either the L or R button, sometimes or always the input is not registered by the console. Like the power switch, the buttons internally tend to gather dirt and gunk and no longer make electrical contact when actuated.
   * How do I fix it? The console will need to be disassembled and the switch cleaned or replaced. Replacement switches can be sourced on places like Mouser, Digikey, or RetroModding, but usually cleaning the button is sufficient. Occasionally the buttons can be cleaned without disassembling by soaking in rubbing alcohol or electrical contact cleaner (please allow sufficient time to dry before reassembly), but disassembling the switch or replacing it entirely may yield the best results.
   
-* Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker
- 
-* Game Boy Advance SP will restart randomly or if jolted
+* Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted
  
   * What is it? Both of these issues are usually caused by the same problem. The power switch on the console tends to accumulate dirt and gunk and will make poor contact. This will result in your Game Boy getting worse battery life and it will significantly decrease the reliability.
   * How do I fix it? You'll need to clean or replace the power switch. Please see the "Common Problems" section for more info.
   
-* When charging the console, the charge light does not come on at all
-  
-* When charging the console, the charge light only comes on for a second before turning off
+* When charging the console, the charge light does not come on at all/ only comes on for a second before turning off
 
   * What is it? These two problems are a symptom of greater issues. In most cases, this issue requires disassembly and soldering to repair. 
   * How do I fix it? If the light does not come on at all, double check that your charger works. If you do not have another console to test it with, try picking up a cheap USB charging cable for only a few dollars. You can find them on aliexpress or ebay or from your usual parts places. If the light comes on for a second and then shuts off, the first thing to check is the battery. If you have a multimeter, check to make sure the voltage on the battery is over 3.4 volts. If it is under 3 volts, recycle the battery and purchase a new one. If it is over 3 volts, you likely have another issue but the console will not boot unless the battery is at least 3.4 volts. If you do not have a multimeter, you can try to purchase a new battery but do be aware that the aftermarket cells are usually only 400-700 mAh despite what they may claim. If neither of these fixes resolve your issues, then you'll have to disassemble to console.
