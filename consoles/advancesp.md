@@ -18,7 +18,7 @@ Table of Contents:
 * [**Game Boy Advance SP Problems**](--game-boy-advance-sp-problems--)
   * [One or both shoulder buttons do not work](--one-or-both-shoulder-buttons-do-not-work--)
   * [Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted](--game-boy-advance-sp-power-led-is-always-red-even-on-new-batteries-or-led-will-flicker--)
-  * [When charging the console, the charge light does not come on at all/only comes on for a second before turning off](--when-charging-the-console,-the-charge-light--)
+  * [When charging the console, the charge light does not come on at all/ only comes on for a second before turning off](--when-charging-the-console,-the-charge-light--)
   * [Shell is cracked or broken in multiple places](--the-shell-is-cracked-or-broken-in-multiple-places--)
 * [**Game Boy Advance SP Mods**](--game-boy-advance-sp-problems--)
 <!--te-->
