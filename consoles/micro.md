@@ -17,13 +17,20 @@ The last Game Boy, released around the same time as the 101 revision of the [Gam
 
 Be careful when opening silver systems as we're aware of cases where the plastic frame is extremely brittle, this doesn't seem to be an issue for other colours though.
 
-Last Content Revision: 2021-08-04
+Table of Contents:
+<!--ts-->
+* [**Game Boy Micro Problems**](----)
+  * [Faceplate does not clip in or does not stay clipped in when installed](--faceplate-does-not-clip-in-or-does-not-stay-clipped-in-when-installed--)
+* [**Game Boy Micro Mods**](--game-boy-micro-mods--)
+<!--te-->
+
+Last Content Revision: 2021-08-05
 
 ## **Game Boy Micro Problems**
 
 Don't forget that [the common problems section](commonissues) also has more info, such as failure to power on, speaker issues, or battery issues. 
 
-* Faceplate does not clip in or does not stay clipped in when installed. 
+* Faceplate does not clip in or does not stay clipped in when installed
 
   * What is it? The plastic frame of some Game Boy Micro consoles are made with defective plastics that tend to get extremely brittle over time. This issue seems most prevalent with Silver colored consoles but may affect or other units as well. [See this imgur album](https://imgur.com/a/dhfax) for more information. 
   * How do I fix it? Well, unfortunately, there is know currently known fix for this issue. If the console is already broken, you can try to use double-sided tape or other adhesives to hold the faceplate on but the structural damage to the plastic has already been done and any fixes will likely be temporary at best. The only way to "fix" this is to replace the front internal frame of the console with a salvaged OEM frame from another console. Update 2021-08-04: Someone made a 3D scan of the Micro front frame. With some cleanup, this may be 3D printable with a service such as shapeways. Standby for testing. 
