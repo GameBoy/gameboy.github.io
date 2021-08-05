@@ -24,7 +24,7 @@ Table of Contents:
 * [**Game Boy Micro Mods**](--game-boy-micro-mods--)
 <!--te-->
 
-Last Content Revision: 2021-08-05
+Last Content Revision: 2021-08-04
 
 ## **Game Boy Micro Problems**
 
