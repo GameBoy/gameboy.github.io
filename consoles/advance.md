@@ -10,6 +10,14 @@ model: AGB
 ---
 Nintendo’s first 32-bit system in handheld format. In addition to the change to a landscape format, the system also added L and R buttons. Like the [Game Boy Color](color), the Game Boy Advance was fully backwards compatible and can play all official [Game Boy](gameboy) and [Game Boy Color](color) games. Some later Game Boy Color games even added Game Boy Advance enhancements in the form of changed palettes and extra features. The Game Boy Advance and Game Boy Color however run on different voltages. To make the system backwards compatible the system actually has much of the hardware of a Game Boy Color, with a switch in the cartridge slot determining which hardware will run when the system is turned on.
 
+Table of Contents:
+<!--ts-->
+* [**Game Boy Advance Problems**](--game-boy-advance-problems--)
+  * [Cannot load games after AGS-101 screen install (or other backlight kit)](--cannot-load-games-after-ags-101-screen-install--)
+  * [Game Boy Advance power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted](--game-boy-advance-power-led-is-always-read-even-on-new-batteries-or-led-will-flicker--)
+* [**Game Boy Advance Mods**](--game-boy-advance-mods--)
+<!--te-->
+
 Last Content Revision: 2020-12-16
 
 ## **Game Boy Advance Problems**
@@ -21,9 +29,7 @@ Don't forget that [the common problems section](index) also has more info, such 
   * What is it? The Game Boy will freeze upon booting and will refuse to load any games after installing a backlit LCD (AGS-101). This is caused by the metal shielding on the back of the LCD making contact with the pins on the cartridge connector on the front of the motherboard.
   * How do I fix it? Simply add some insulating material between the LCD and the motherboard itself. A small piece of electrical tape is usually enough to physically separate the components.
  
-* Game Boy Advance power LED is always RED even on new batteries or LED will flicker
- 
-* Game Boy Advance will restart randomly or if jolted
+* Game Boy Advance power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted
  
   * What is it? Both of these issues are usually caused by the same problem. The power switch on the console tends to accumulate dirt and gunk and will make poor contact. This will result in your Game Boy getting worse battery life and it will significantly decrease the reliability.
   * How do I fix it? You'll need to clean or replace the power switch. Please see the "Common Problems" section for more info.

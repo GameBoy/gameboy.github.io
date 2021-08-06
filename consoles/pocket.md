@@ -10,6 +10,15 @@ model: MGB
 ---
 This model is a much smaller redesign of the original [Game Boy](gameboy). It uses two AAA batteries and has a slightly improved screen with a grey reflection film compared to the original Game Boy's green. Early models of the Game Boy Pocket lacked the battery indicator LED found next to the screen.
 
+Table of Contents:
+<!--ts-->
+* [**Game Boy Pocket Problems**](--game-boy-pocket-problems--)
+  * [Lost game saves](--lost-game-saves--)
+  * [Flash carts do not work](--flash-carts-do-not-work--)
+  * [Splotchy circles in LCD (after backlight/bivert install)](--splotchy-circles-in-lcd--)
+* [**Game Boy Pocket Mods**](--game-boy-pocket-mods--)
+<!--te-->
+
 Last Content Revision: 2020-12-16
 
 ## **Game Boy Pocket Problems**
