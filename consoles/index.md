@@ -13,11 +13,11 @@ Last Content Revision: 2020-12-16
 
 # Contents
 
-* [Games Problems and Repair](#games)
+* [Common Game Cartridge Problems](#games)
 
-* [Common issues that affect multiple systems](#commonproblems)
+* [Common System Problems](#commonproblems)
 
-* [Common mods for any system](#commonmods)
+* [Common System Mods](#commonmods)
 
 * [**Original Game Boy (DMG)**](gameboy) 
 
@@ -91,70 +91,39 @@ Each section may have multiple subsections. If using this as a troubleshooting g
 	* **Bad battery or battery connector** in some models can cause issues. In models that came with rechargeable batteries (AGS and OXY), the battery may need replacement. [AGS](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery) [OXY](https://retrogamerepairshop.com/collections/game-boy-micro/products/game-boy-micro-750mah-high-capacity-replacement-battery-by-makho?variant=37848673255596)
 On alkaline models, the connectors can get dirty or completely corroded. In cases of mild dirt or corrosion, a simple clean with a cotton swap and isopropyl will resolve the issue. In heavier cases of corrosion without physical damage, distilled vinegar and a cotton swab may be used to clean away all the corrosion. Terminals can be desoldered from the console and removed from the case shell to be soaked in vinegar for more severe corrosion. When vinegar is used, isopropyl should be used to wash away the vinegar as it is corrosive and will damage the board. In extreme cases of corrosion and battery leakage, the terminals will be corroded through and require replacement. [DMG](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-dmg-original-high-quality-replacement-battery-contact-terminals?variant=37893135794348) [MGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals?variant=37893131305132) [MGL/CGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-color-high-quality-replacement-battery-contact-terminals?variant=37508302799020) [AGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/gba-game-boy-advance-high-quality-replacement-battery-contact-terminals?variant=37893117411500)
  
-* Yellowing of the shell and/or battery cover
+ * **Yellowing of the shell and/or battery cover** is caused by UV light, smoke, and general pollutants in the air over time. The degree of this yellowing varies but most used systems have at least a little bit. Retrobrite (retr0brite) is a solution you can make at home from easily sourced materials. There are tons of recipes and how-to videos on the internet about this stuff but if you want to KISS (Keep It Simple, Stupid!) Check out these videos and you should get good results. [Guide](https://www.youtube.com/watch?v=3PImZt5km9s)[Detailed information](https://www.youtube.com/watch?v=xWZ_TKLSxXw)
  
-  * What is it? Over time, UV light, smoke, and general pollutants in the air will give your console a more yellowed appearance. The degree of this yellowing varies but most used systems have at least a little bit.
-  * How do I fix it? With Retrobrite! Retrobrite is a solution you can make at home from easily sourced materials. There are tons of recipes and how-to videos on the internet about this stuff but if you want to KISS (Keep It Simple, Stupid!) Then follow [this](https://www.youtube.com/watch?v=3PImZt5km9s) video and you should get good results.
- 
-* Fuzz or static when using headphones
- 
-  * What is it? Sometimes when using headphones, you will hear crackling or static noise in the headphones. It is especially noticeable when twisting the plug in the jack. It’s a pretty rare problem but generally easy to fix.
-  * How do I fix it? What you will need:
- 
-      * [QD Electronics Cleaner](https://www.homedepot.com/catalog/productImages/1000/6d/6d55c965-a581-4507-900a-aee92f61c94e_1000.jpg) -- found at Home Depot and most auto parts stores -- referred to generically as "contact cleaner" (not the stuff for corrective lenses, but the stuff for electronics)
-      * Pipe cleaners -- found at some grocery stores and sometimes the Wal-Mart craft aisle
-      * Spray the end of a pipe cleaner and stick it in the jack, moving it back and forth in the jack. This will clean the jack and help free any stuck parts in there. You also want to make sure that the headphone detect switch inside the jack gets a cleaning. 
+* **Fuzz or static when using headphones** is especially noticeable when twisting the plug in the jack. It’s a pretty rare problem but generally easy to fix. Usually the headphone jack becomes dirty or corroded from moisture. Contact cleaners such as [CRC/QD Contact Cleaner](https://www.crcindustries.com/products/qd-174-contact-cleaner-11-wt-oz-02130.html) or [DeoxIT](https://caig.com/deoxit-d-series/) can help clean out the port. For heavier cases, applying the contact cleaner to a cotton swap or pipe cleaner and thoroughly clean out the headphone jack. If corrosion is too severe, it may cause speaker issues as well.
   
-  * This issue could also be caused by a dirty volume wheel (or slider on the SP, it's the same thing). You can try to clean the volume wheel by spraying contact cleaner inside it but for best, long term results, replacement may be required. 
-  
-* Speaker does not work but headphones do
-  
-  * What is it? No sound on Game Boy Pocket, Color, or Advance out of the internal speaker. 
-  * How do I fix it? This is a complicated situation as this is a symptom of multiple different causes
+* **Common audio issues** are caused by a few possibilities.
 
-      * The speaker itself may be bad: You can test this by desoldering the speaker and measuring the resistance across the contacts with a multimeter. You should get 8 ohms on a good speaker. Anything else (or open circuit) means a bad speaker. You can also just try a known good speaker instead. Do note that in most cases, the electrolytic capacitors in the console may have also gone bad and it is a good idea to service those at the same time or else a replacement speaker may also die. 
-	  * The headphone jack is dirty or bad: Every Game Boy headphone jack has a [physical switch](https://imgur.com/Q34epck) that is actuated by inserting headphones. When this switch is open circuit, the Game Boy switches the internal speaker off. You may have luck just trying to clean the headphone jack or you may have to bridge the circuit or install your own switch. The jack may be replaced but a donor would need to be sourced as this is a custom part. 
-	  * Corrosion or other liquid damage: Neither the jack nor the speaker is bad. On Game Boy Color consoles in particular, corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. 
- 
-* Corroded Battery Contacts
- 
-  * What are they? Sometimes alkaline batteries will leak when left in systems for too long. Cheaper batteries tend to puke up their guts quicker. This will cause the nickel plating on the battery contacts to corrode, leading to a greyish/blue crust on the contacts.
-  * How do I fix it? This depends on how far gone the contacts are. If there’s only a little bit of corrosion, you can use a Q-tip and a bit of vinegar and water and scrub the contacts with it. For more advanced cases, the contacts may need to be removed and soaked:
- 
-      * Use a tripoint screwdriver to open the case. This driver can be found on Amazon or from sites like [Mortoff Games](https://www.mortoffgames.com/gameboy-original/repair-replacement-parts/system-repair-parts/triwing-security-screw-driver) though getting a full toolkit from [ifixit](https://www.ifixit.com/Store/Tools/Mako-Driver-Kit--64-Precision-Bits/IF145-299?o=4) or the like is not a bad idea either. 
-      * Using a small screwdriver, press on the tab holding each of the 3 larger contacts (DMG, other systems only have one contact plate) in place and push down while pressing to push the contacts out of the shell.
-      * Give them a bath in a 50/50 vinegar and water solution for about 15 minutes.
- 
-  If the nickel plating is eaten through, then the contacts will need to be replaced.
-  
-  [Retro Game Repair Shop](https://retrogamerepairshop.com/search?q=battery+contacts) seems to sell battery contacts for all the Game Boy models (that take alkaline batteries). Removing and replacing contacts can be a lot easier than trying to salvage contacts that have had the plating dissolved. [Kitsch-Bent](http://store.kitsch-bent.com/product/battery-contacts) also sells some exact fit replacement contacts for the original Game Boy (DMG) and the Game Boy Color (CGB). The only issue is they’re plated with zinc. This means that you will have to take a bit of sandpaper and remove the zinc plating from the two PCB mount contacts where a solder joint needs to be made. Either that or set your soldering iron to 750 F to melt the zinc plating and hope you don't damage the board. Other than that, they’re great contacts which will last a long time.
+	* The headphone jack is dirty or bad: Every Game Boy headphone jack has a [physical switch](https://imgur.com/Q34epck) that is actuated by inserting headphones. When this switch is open circuit, the Game Boy switches the internal speaker off. Corrosion or physical damage can cause the physical switch to be always open, meaning the console never switches the speaker on. Clean the headphone jack as thoroughly as possible. If a replacement is required, these parts are custom for Game Boys and will have to be sourced from donor consoles. There are very limited new-old-stock parts available. [DMG] (https://retrogamerepairshop.com/products/game-boy-dmg-headphone-jack-interface-oem-new-replacement) [AGB/CGB/MGB]()
 
-* Speaker Wire Replacement
+	* The speaker itself may be bad You can test this by desoldering the speaker and measuring the resistance across the contacts with a multimeter. You should get 8 ohms on a good speaker. Anything else (or open circuit) means a bad speaker. Speakers can be replaced as there are OEM-fit aftermarket replacemnents. However, speakers that go bad are usually a sign that the capacitors should be changed. BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) it, and while it is specific to the CGB, the concept still applies to other consoles. [DMG](https://funnyplaying.com/collections/product/products/clear-dmg-speaker) [MGB/CGB](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) [AGB](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
  
-  If you need to replace the speaker wire, use 26 AWG stranded wire with PTFE or Silicone insulation. Solid core wire is not recommended as it will not bend easily to fit in the tight space allowed for the speaker.
-  
-  
-The Game Boy community has one of the largest modding communities out of other retro gaming communities. Mods are simply any modifications to the Game Boy system to change it from stock. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here on [discord](https://discord.gg/gameboy) happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but submit a pull request ([here](https://github.com/GameBoy/gameboy.github.io)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
+ 	* Dirty volume wheels can also be the cause of low volume or fuzzy/crackling sound. The wheel cannot be disassembled for cleaning. Cleaning involves spraying contact cleaner such as [CRC/QD Contact Cleaner](https://www.crcindustries.com/products/qd-174-contact-cleaner-11-wt-oz-02130.html) or [DeoxIT](https://caig.com/deoxit-d-series/) and working the potentiometer through its full range multiple times to wash out contaminants. For fully corroded volume wheels, replacement is the only option. New-old-stock replacements are available, but limited. The only reliable source is from a working console. Schematics for all systems are available, and verifying the value of the potentiometer is possible. 
   
 # commonmods
  
-## **Common Mods**
+## **Common Mods**  
 
+The Game Boy community has one of the largest modding communities out of other retro gaming communities. Mods are simply any modifications to the Game Boy system to change it from stock. They can be simple or complex. The most popular modifications add light to the screens of the older Game Boy systems that relied on external light to be seen or even retrofit a newer screen into the console. Other popular mods include painting systems for a custom look, adding rechargeable batteries to systems that didn’t have it, clearing up the fuzzy sound, or even speeding up and slowing down games. Some modders want lots of mods in their systems, some only want one or two. Whatever your preference, there are a lot of experienced modders here on [discord](https://discord.gg/gameboy) happy to help when you run into trouble. For some of the more popular system specific mods, see below. Not all consoles are listed because not all consoles have mod kits available. Not all mod kits are listed either but submit a pull request ([here](https://github.com/GameBoy/gameboy.github.io)) to correct this. Some kits may have generic versions or may be acquired through less than legitimate channels. Where applicable, the legitimate source for these kits is what is listed.
+  
  Items in this section apply to all consoles or otherwise don't fit into one of the sections this page is split in to. 
- 
 
-* How to reverse shell discoloration (works also for clear consoles!) – [Instructables](http://www.instructables.com/id/Retr0bright-how-to-turn-a-yellow-Gameboy-white-aga/)  
-    * Works on carts too! – [Youtube](https://www.youtube.com/watch?v=s3uMlDgVbVw)
+* Backlighting the console. Early consoles are hard to see at night without a worm light. Now we have great backlight kits available for all consoles. But this needs its own [section](#backlightmods).
+
+* Shell, button, and lens swaps. Want to completely change the look of your console? Theme your console to match your favorite show? Check the vendors section for all the current reputable sources. 
+
+* How to reverse shell discoloration (works also for clear consoles!) Retrobrite (retr0brite) is a solution you can make at home from easily sourced materials. There are tons of recipes and how-to videos on the internet about this stuff but if you want to KISS (Keep It Simple, Stupid!) Check out these videos and you should get good results. [Guide](https://www.youtube.com/watch?v=3PImZt5km9s) [Detailed information](https://www.youtube.com/watch?v=xWZ_TKLSxXw) [Instructables]http://www.instructables.com/id/Retr0bright-how-to-turn-a-yellow-Gameboy-white-aga/) Works on carts too. [Video](https://www.youtube.com/watch?v=s3uMlDgVbVw)
 
 * Spray painting the console (there are many different ways of doing this, worth a quick google!) – [Written guide](https://www.reddit.com/r/customcontrollers/comments/583jv1/how_to_paint_a_custom_controller_a_step_by_step/)/[Step by step image guide](http://caseydmg.tumblr.com/post/38063928433/my-guide-to-painting-your-dmg-gameboy)/[Video Guide](https://www.youtube.com/watch?v=34I45k71Vys)  
 
-* Spray painting clear consoles from the inside – same as normal but from the inside! [Here](http://imgur.com/gallery/92za8) is the inspiration! (credit to /u/kemakill)  
+* Spray painting clear consoles from the inside. [Here](http://imgur.com/gallery/92za8) is the inspiration! (credit to /u/kemakill)  
 
 * LED in game cartridge – [Video Guide]( https://www.youtube.com/watch?v=CK7t0WsVTL8)  
 
 * Tetris logo lit up on cartridge – [Step by step guide](https://www.reddit.com/r/Koji_Kendo/comments/69su2p/tetris_led_lit_logo_ver_2/)    
-
-* Rechargeable game battery – [Step by step guide](https://imgur.com/a/Sn0U7)    
 
 * Batteryless saving for original Game Boy games (SRAM -> FRAM) - [Thread with more info](https://www.reddit.com/r/Gameboy/comments/fe3tec/non_volatile_fram_replacement_for_game_boy_with/)
 
