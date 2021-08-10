@@ -75,3 +75,4 @@ Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 * [Funny Playing](https://funnyplaying.com) - LCD replacement mods, custom builds (China based)
 * [Natalie The Nerd](https://www.nataliethenerd.com/shop) - LED Bling kits 
 * [Yesterday's Tech](https://yesterdaystech.com.au/) - Official Retromodding distributor in AU and full custom epoxy resin cast parts
+* [Retro Game Store](https://www.retrogamestore.com.au/) - Another AU-based distributer. Sells replacement parts and some brand products like Funny Playing and Everdrive
