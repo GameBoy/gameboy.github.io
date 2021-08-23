@@ -14,6 +14,9 @@ To-Do: Actually populate this page.
 
 Some people like to remove the top screen from a Nintendo DS or DS Lite, to create a larger Game Boy Micro we affectionately named "Macro". While this obviously isn't an official product, we've compiled some videos, guides, and mods here to help consolidate information. If you're okay with emulation, you can even perform these mods on a DSi or 3DS as well.
 
+<img src="front.png" width="30%" height="30%">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg" width="30%" height="30%">
+
+
 ## **Game Boy Macro Mods**
 
 * [The Retro Future - Giving the Nintendo DS one screen for no reason](https://www.youtube.com/watch?v=_xaj4wa4l54)
