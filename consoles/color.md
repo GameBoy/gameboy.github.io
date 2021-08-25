@@ -16,72 +16,65 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
-Table of Contents:
-<!--ts-->
-* [**Game Boy Color Problems**](--game-boy-color-problems--)
-  * [Game Boy Color Speaker Replacement](--game-boy-color-speaker-replacement--)
-* [Game Boy Color Mods](--game-boy-color-mods--)
-<!--te-->
-
-Last Content Revision: 2020-12-16
+Last Content Revision: 2021-08-24
 
 ## **Game Boy Color Problems**
 
-Don't forget that [the common problems section](index) also has more info, such as failure to power-on or speaker issues. 
- 
-* [Game Boy Color Speaker Replacement](https://www.youtube.com/watch?v=oTU46y6HnrA) Do note that speaker failures are often accompanied by the capacitors failing. See [this video and the description](https://www.youtube.com/watch?v=hD1J6rPH40E) for more information. 
+Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues. 
 
-* Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. 
+* **No audio**. Refer to the common problems section on how to check the headphone jack and speaker. Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacemnents. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) [[Replacement Speakers]](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028) Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+
+* Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. Please refer to the **[Board Scans](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/).**
 
 * 
 
 ## **Game Boy Color Mods**
 
-* Absolutely flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Not all backlight kits available are listed below.
- 
-* Backlight OEM LCD – [Written Guide](https://docs.google.com/document/d/1Ht5q3zw1vCoMdFDzFzgIKOSc5ckwd9W1ylegf8JsnnA/edit) (This method is rather out of date and yields sub optimal results and [as of 2019-10-31, BennVenn is working on improving this process](https://www.facebook.com/BennVennElectronics/posts/2513453608768077))
+* **Backlight Kits - Summer 2021**
+*
+* Absolutely flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below.
 
-* Frontlight OEM LCD - [Video Guide (LOCA highly recommended)](https://www.youtube.com/watch?v=jWZhsYP9IZQ)/[Instructables Guide](http://www.instructables.com/id/How-to-add-a-frontlight-to-your-Gameboy-Color/) or [Video Guide V2 (no LOCA required)](https://www.youtube.com/watch?v=rrmoYjko0i0)
+	* **One Chip OSD Q5 IPS Kit.** 25% larger than stock viewing window using the Q5 LCD panel and includes lens with larger viewing window. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Soldering is required for the OSD controls. Very noticable larger viewing window. OSD allows for vertical and horizontal alignment, allowing less than perfect shell cuts to recenter image. 3D printed centering brackets are available from [Retro Modding]()  [[Video Guide]](https://youtu.be/6u5ol_wDfp0)
+		* Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd)
 
-* One Chip transflective LCD kit (**AIO kit**, similar to Freckleshack v2, parts from [aliexpress](https://www.aliexpress.com/item/33060031573.html) -- if link is dead, search "gameboy color backlight" on aliexpress or parts from [RGRS](https://retrogamerepairshop.com/products/nintendo-gameboy-color-backlight-mod-gbc-game-boy)) – [Video Guide](https://youtu.be/CUzda_H1Hks)
+	*  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** 25% larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. As of summer 2021, this is the latest kit. [[Video Install]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
+		*  Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit). [Shell from RGRS](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell). 
 
-* BennVenn transflective LCD kit (**Freckleshack v1/v2** discontinued in favor of v2.5 and v3) – [Video guide](https://www.youtube.com/watch?v=NbHfXdoiW-Q)
+	* **FunnyPlaying IPS kit.** Stock sized viewing window using the 9380 LCD panel. Requires shell cuts to fit. No soldering required. This is a manually centered screen. If cut correctly, the image will be centered to the lens viewing window. 3D printed brackets are available to assist centering.
+		* Sold at [Funnyplaying](https://funnyplaying.com/collections/gameboy-color/products/for-gbc-ips-high-light-backlight-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-gbc-ips-game-boy-color-backlight-mod?variant=32012192055370) and [Retro Modding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-ips-lcd). [Video install](https://www.youtube.com/watch?v=PySvT126Loo)
 
-* BennVenn transflective LCD kit (**Freckleshack v2.5 - Aioli** parts from [BennVenn](https://bennvenn.myshopify.com/collections/aftermarket-lcds/products/freckleshack-pre-orders-batch-7?variant=29881069535335)) – [Video](https://www.youtube.com/watch?v=lqXpkfmXV60)
+	* **One Chip TFT LCD kit.** Noticably smaller viewing window using the 690 TFT panel. No shell cuts are required and no soldering is required. This is a manually centered screen with a noticeably smaller viewing window. A replacement lens with a smaller viewing window is included. [[Video Guide]](https://www.youtube.com/watch?v=OgxSKhU1sOk)
+		* Sold at[Aliexpress](https://www.aliexpress.com/item/33060031573.html), [RGRS](https://retrogamerepairshop.com/products/nintendo-gameboy-color-backlight-mod-gbc-game-boy)
 
-* McWill transflective LCD kit (**McWill v1.1**, similar to Freckleshack v1/v2, parts from [Retromodding (US)](https://www.retromodding.com/products/mcwills-game-boy-color-lcd-upgrade) or [Dragonbox Shop (EU)](https://www.dragonbox.de/en/spare-parts-tools/console-mods/gameboy-color-lcd-mod-incl-glass-cover-and-usb-mod-mcwill)) - [PDF Instructions](https://cdn.shopify.com/s/files/1/1309/0597/files/Quick_Guide_GBC_REV1_1.pdf?8757)
-
-* Midwest Embedded transflective LCD kit (**Midwest Embedded**, similar to Freckleshack v2, parts from [MWE](https://www.mw-embedded.com/product/gameboy-color-replacement-lcd-module/)) - [Video Guide](https://www.youtube.com/watch?v=6aQMkU88j_M)
-
-* "Galaxy Screen" IPS kit. Nearly full size, parts from [taobao](https://item.taobao.com/item.htm?id=543848183473)) – [Video](https://youtu.be/RSlGifwcrtU)
-
-* FunnyPlaying IPS kit. Stock sized viewing window using the 9380 LCD panel. Requires shell cuts to fit. Sold at [Funnyplaying](https://funnyplaying.com/collections/gameboy-color/products/for-gbc-ips-high-light-backlight-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-gbc-ips-game-boy-color-backlight-mod?variant=32012192055370) and [Retro Modding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-ips-lcd). [Video install](https://www.youtube.com/watch?v=PySvT126Loo)
-
-* FunnyPlaying Game Boy Color Q5 XL 1.0 IPS Kit. 25% larger than stock viewing window using the Q5 LCD panel. Requires multiple shell cuts to fit. Sold at [Retro Modding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-retro-pixel-ips-lcd). [Video Install]()
-
-*  FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit. 25% larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit). [Shell from RGRS](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell). [Video Install]()
-
-* One Chip IPS LCD Kit. Stock sized viewing window using the 9380 LCD panel. Requires shell cuts identical to the FunnyPlaying IPS kit. This kit has switchable color palletes. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color-backlights/products/game-boy-color-ips-backlight-with-colored-palettes?variant=32102468026442). [Video Guide](https://www.youtube.com/watch?v=-fw7zpxhU8I)
-	
-* One Chip OSD Q5 IPS Kit. 25% larger than stock viewing window using the Q5 LCD panel. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd)) - [Video Guide](https://youtu.be/6u5ol_wDfp0)
-
-* Prosound. A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod depends on a clean volume wheel for optimal results
+* **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
 	* [Written guide](http://www.littlesounddj.com/lsd/prosound/)/[Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
 	* [Helder's alternative wiring](https://imgur.com/a/68JkSrJ). This method removes RA2 and joins a set of vias with jumper wires. As there is fine soldering, this mod is considered more difficult. Like the standard Prosound mod, this bridges the volume wheel to the headphone jack and bypasses the onboard amplifier.
 
-* LED Case/button mod – [Instructables guide](http://www.instructables.com/id/LED-Mod-Your-Gameboy-Color/)  
+* **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
+	* [Instructables guide](http://www.instructables.com/id/LED-Mod-Your-Gameboy-Color/)  
+	* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
 
-* USB rechargeable batteries – [Instructables guide](http://www.instructables.com/id/how-to-make-a-gameboy-color-rechargeable/)  
+* **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. **TP4056 modules do not support play and charge** and caution should be taken with lithium batteries.
+	* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
+	* [Giltesa's USB-C Charging Kit](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
 
-* DC jack rechargeable batteries – [Written Guide](https://imgur.com/a/6VTvh)
+* **DC jack rechargeable batteries.** Keeping the classic ports and feel but adding a modern twist. Requires caution as the board and batteries generate heat.
+	* [Written Guide](https://imgur.com/a/6VTvh). An advanced method of charging specific lithium batteries in a Game Boy Color. Caution should be taken. Requires shell modification and high level soldering skills and moderate electronics understanding.
+	* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should never charged.
 
-* Game Boy Pocket buttons in GBC – [Written guide](http://imgur.com/a/02CZU)  
+* **Game Boy Pocket buttons in a Color.** Don't like the A/B imprint on the stock buttons? Try Pocket buttons!
+	* [Written guide](http://imgur.com/a/02CZU). Minor shell modifications are required. 
 
-* Overclock (speeding up console) – [Instructables Guide](http://www.instructables.com/id/Overclock-your-Game-Boy-Color/)  
+* **Plastic Start/Select buttons.** Want the start and select to be plastic to match the other buttons like a SP? Try this mod. These mods require trimming of the membrane
+	*   [Written Guide](https://imgur.com/a/Pu1gk#0). Requires donor plastic to create a button. No longer the preferred method.
+	*   [B23N's Start/Select Nubs](https://www.shapeways.com/product/TX49QTD4B/cgb-start-select-nubs). Can be 3D printed in different materials, but designed to compliment RetroCNC or Boxy Pixel GBC buttons. 
+	*   Alternatively RetroCNC and ExtremeRate button kits include matching material start select buttons. [RetroCNC](https://retrogamerepairshop.com/collections/retrocnc/products/game-boy-color-anodized-concave-aluminum-buttons-by-retrocnc) buttons are all aluminum and require separate membraes and requires the start/select membranes to be trimmed. [ExtremeRate](https://www.amazon.com/eXtremeRate-Chameleon-Replacement-Buttons-Gameboy/dp/B09BYZLCX8/r) buttons are high quality molded plastic and include membranes with a trimmed start/select membrane to compliment the included plastic start/select nubs.
 
-* Plastic Start/Select buttons – [Written Guide](https://imgur.com/a/Pu1gk#0)
+* **Boxy Pixel Machined Aluminum Shell.** An all-aluminum replacement shell alternative to the aftermarket plastic shells. Requires moderate modding skills to assemble.
+	*  [Video Guide](https://www.youtube.com/watch?v=TeRV4qI20uA)
 
-* Boxy Pixel aluminum shell ([parts](https://www.boxypixel.com/collections/game-boy-color/products/game-boy-color-ags-101-machined-aluminum-shells-anodized-colored)) - [Assembly Guide for El Clono modded CGB](https://www.boxypixel.com/pages/game-boy-color-assembly-ags-101) (no guides available for other supported mods but install process is very similar)
-
-* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)) 
+* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper clean, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+	* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
+	* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
+	
 
