@@ -23,7 +23,7 @@ Table of Contents:
 * [**Game Boy Advance SP Mods**](--game-boy-advance-sp-problems--)
 <!--te-->
 
-Last Content Revision: 2020-12-16
+Last Content Revision: 2021-08-25
  
 ## **Game Boy Advance SP Problems**
 
@@ -87,11 +87,13 @@ Looking for a backlight mod? Why not check out [this guide](../wiki/backlightmod
 
 * Replace hinge pins (shell swap) – [Written Guide](https://imgur.com/a/z21z1) or [this thread/video guide](https://www.reddit.com/r/Gameboy/comments/bxzub8/how_to_easily_remove_the_hinges_from_a_gba_sp/)
     * [Tips on Game Boy [Advance] SP hinge replacement](https://www.reddit.com/r/Gameboy/comments/f6f2z1/tips_on_game_boy_sp_hinge_replacement/)
+    * 3D printable SP Hinge Removal Tool from makho: [Thingiverse](https://www.thingiverse.com/thing:3671526) and [Video](https://youtu.be/wZjhYxQeKxU)
 
 * Internal headphone jack mod – [Github repo with multiple installs documented](https://github.com/rorosaurus/gba-sp-headphone-jack)
 	
 * USB Type C Charge Port Mod - [Design files/instructions](https://github.com/rorosaurus/gba-sp-usb-c) - [Purchase (USA)](https://smile.amazon.com/dp/B08L72TZWD) - [Purchase (non-USA)](https://www.tindie.com/products/rorosaurus/usb-c-mod-for-game-boy-advance-sp/)
     * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
+    * Audio version (note -- does not support USB C host mode charging): [Github Repo](https://github.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit)
 	
 * Makho/RetroCNC Machined Aluminum replacement shell - [coming soon^tm](https://retro-cnc.com/products/game-boy-advance-sp)
 
