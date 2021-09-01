@@ -20,7 +20,12 @@ Last Content Revision: 2021-08-24
 
 ## **Game Boy Color Problems**
 
-Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues. 
+Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues.
+
+* **Game Boy won’t power on** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
+ 	* **Dirty or damaged switches**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
+ 	* **Burnt Fuses**. A common problem please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+ 	* **Corroded DC Jack**. Like other consoles this may prevent a the console from powering on. Please refer to the [the common problems section](..\wiki\commonissues).
 
 * **No audio**. Refer to the common problems section on how to check the headphone jack and speaker. Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacemnents. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) [[Replacement Speakers]](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028) 
 
