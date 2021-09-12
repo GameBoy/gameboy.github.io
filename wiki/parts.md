@@ -10,4 +10,4 @@ Replacement parts for your childhood consoles!
  
 # Contents
 
-* [Game Boy Advance (AGB)](/parts/index/agb.md)
+* [Game Boy Advance (AGB)](/wiki/parts/agb)
