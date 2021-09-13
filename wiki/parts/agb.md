@@ -1,6 +1,6 @@
 <link href="table.css" rel="stylesheet">
 <script src="jquery-3.2.1.min.js"></script>
-<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+<script type="text/javascript" charset="utf8" src="jquery.dataTables.js"></script>
 <script>
 $(document).ready( function () {
     $('#AGBTable').DataTable( {
