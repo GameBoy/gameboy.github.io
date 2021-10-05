@@ -12,7 +12,7 @@ This model is a much smaller redesign of the original [Game Boy](gameboy). It us
 
 Table of Contents:
 <!--ts-->
-* [**Game Boy Pocket Problems**](--game-boy-pocket-problems--)
+* [**Game Boy Pocket Problems**](#problems)
   * [Lost game saves](--lost-game-saves--)
   * [Flash carts do not work](--flash-carts-do-not-work--)
   * [Splotchy circles in LCD (after backlight/bivert install)](--splotchy-circles-in-lcd--)
@@ -21,7 +21,7 @@ Table of Contents:
 
 Last Content Revision: 2020-12-16
 
-## **Game Boy Pocket Problems**
+# Problems
 
 Don't forget that [the common problems section](index) also has more info, such as failure to power on or speaker issues. 
  
