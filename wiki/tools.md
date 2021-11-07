@@ -22,7 +22,7 @@ Looking to get started modding or repairing Game Boys? This page is to serve as 
 * [Electric Tools](#electrictools)
     * [Soldering Irons](#solderingtools)
     * [Cutting Tools](#electriccuttingtools)
-	* [Power Supplies](#powersupploes)
+	* [Power Supplies](#powersupplies)
 
 * [Consumables](#consumables)
 
@@ -69,7 +69,20 @@ Runs on angry pixies. Either the plug in variant or the spicy pillow variant. Yo
 
 # SolderingTools
 
-You've got quite a few options here. Most people just need a basic, temperature controlled iron, and for most onsies and twosies jobs, nearly anything will do. If you want something quality that will not give you hassle or help you destroy your electronics, take a look at [this video from Voultar.](https://www.youtube.com/watch?v=cGdHJ3BTh_c) There is very solid advice in there from an experienced modder and even a recommendation for a specific iron. Voultar will never lead you astray. If nothing else, your takeaway should be to look for something with easy to find, name brand tips (like Hakko or Weller) and temperature control. 
+You've got quite a few options here. Most people just need a basic, temperature controlled iron, and for most onsies and twosies jobs, nearly anything will do. If you want something quality that will not give you hassle or help you destroy your electronics, take a look at [this video from Voultar.](https://www.youtube.com/watch?v=cGdHJ3BTh_c) There is very solid advice in there from an experienced modder and even a recommendation for a specific iron. Voultar will never lead you astray. If nothing else, your takeaway should be to look for something with easy to find, name brand tips (like Hakko or Weller) and temperature control.
+
+Quick summary of affordable irons suitable for enthusiasts:
+ - [KSGER T12](https://www.amazon.com/shop/voultar) (affiliate link through Voultar's shop - see Soldering Station / Soldering Equipment section) - ~$55
+     - Internals may vary so it's difficult to guarantee that the item you will receive is of the same quality
+     - Tips widely and cheaply available - e.g. [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=t12+tip)
+ - [Miniware TS-100](https://retrogamerepairshop.com/collections/soldering/products/miniware-ts100-digital-oled-programable-interface-bc2-ku-two-tips-soldering-iron-dc5525-1) - ~$70
+     - Does not include power supply - you will need to purchase one in addition, but a laptop power supply offering 12-24V with a 5.5mm barrel jack will work.
+     - Has a wide range of tips available affordably - available on [AliExpress](https://www.aliexpress.com/wholesale?SearchText=ts100+tip) or [RGRS](https://retrogamerepairshop.com/products/ts100-soldering-iron-tips)
+ - [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - $25 / $35 @ [Amazon](https://www.amazon.com/PINECIL-Smart-Mini-Portable-Soldering/dp/B096X6SG13)
+     - Currently pre-retail release via Pinecil site; as such may not ship to all countries and warranty is limited to 30 days. Buying from Amazon instead may help with logistics; if warranty is a concern, wait for full release or purchase a different iron
+     - Also does not include power supply - compatible with 12-21V 5.5mm barrel jack supplies similar to the TS-100. Also supports USB-C PD, so any USB-C charger with USB-C PD capable of providing enough power will work
+     - You will need to buy a stand too - [Pine64](https://pine64.com/product/pinecil-portable-mini-stand/) sell a small one cheaply but options for the TS-100 should fit this too
+     - Uses the same tips as the TS-100 - tips / power supply / USB-C cables also available from Pine64 site directly
 
 Hot air is also an option for soldering. While not useful for battery mods, battery replacements, or backlight installs, they are a fantastic option or may even be required for custom PCB mods or flash cart builds. If you want the best available option for hot air, [check out this video from Louis Rossmann.](https://www.youtube.com/watch?v=wYCmU6jMLo8) He may be a little bit biased because he's cheap and because he sells them, but these stations still seem highly regarded. Otherwise [eevblog has quite a few different videos on hot air.](https://www.youtube.com/results?search_query=eevblog+hot+air)
 
