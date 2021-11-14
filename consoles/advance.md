@@ -18,7 +18,7 @@ Table of Contents:
 * [**Game Boy Advance Mods**](--game-boy-advance-mods--)
 <!--te-->
 
-Last Content Revision: 2020-12-16
+Last Content Revision: 2021-11-14
 
 ## **Game Boy Advance Problems**
 
@@ -33,6 +33,11 @@ Don't forget that [the common problems section](index) also has more info, such 
  
   * What is it? Both of these issues are usually caused by the same problem. The power switch on the console tends to accumulate dirt and gunk and will make poor contact. This will result in your Game Boy getting worse battery life and it will significantly decrease the reliability.
   * How do I fix it? You'll need to clean or replace the power switch. Please see the "Common Problems" section for more info.
+  
+* Original screen or AGS-101 LCD colors are washed out	
+  
+  * What is it? OEM Game Boy screens (all of them, including the Micro) must be calibrated to the console by adjusting the trimpot on the motherboard.
+  * How do I fix it? Remove the rear cover or the sticker directly adjacent the battery cover and right next to the cart slot, you should see a small trimpot that looks like a large cross head screw. Adjust that slowly and check to see if the image on screen improves. The trimpot is very delicate and highly succeptible to damage so extreme care must be taken. GO SLOW. If you have access to a flash cart, running the "AGS AGING" ROM (search on TCRF) will make things significantly easier. Nintendo has an internal test tool that can be loaded and one of the images displayed by the tool will cause the LCD to flicker if it is not calibrated. [Simply display this image on screen and adjust the trim pot until the image stops flickering.](https://imgur.com/ttIFmOw) Note that this does NOT apply to any IPS kits that include their own LCD power regulators. This only applies to OEM screens and mods that use OEM screens. 
  
  
 ## **Game Boy Advance Mods**
@@ -49,12 +54,12 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 
 * C LCD Backlight kit (from [aliexpress](https://www.aliexpress.com/item/1005001446765017.html) and [taobao](https://2.taobao.com/item.htm?id=624478927621)) - [Youtube](https://youtu.be/ieJb4AnIPqE)
 
-* BennVenn TFT Replacement NDSL LCD kit (From BennVenn, smaller than stock): [coming soon^^^TM](https://www.facebook.com/BennVennElectronics/posts/2448976045215834)
+* Funnyplaying 'ITA' NDSi LCD kit ([From FP](https://funnyplaying.com/products/itas-new-agb-tft-backlight-kit), same size as stock) - [Youtube](https://www.youtube.com/watch?v=ZYzEtZ7WUjE)
 
 * USB rechargeable batteries – [DIY guide](http://imgur.com/a/2653q)  
-	* Do this mod at your own caution. Be sure to familiarize yourself with proper Lithium Ion safety tips and proper handling. Also be aware that when using this mod, you should never let your console run flat as it will take the battery down well past normal safe limits. 
+	* Do this mod at your own caution. Be sure to familiarize yourself with proper Lithium-Ion safety tips and proper handling. Also be aware that when using this mod, you should never let your console run flat as it will take the battery down well past normal safe limits. 
 
-* Rechargeable Battery (listed vendors ship NA only, parts: [Retromodding kit](https://www.retromodding.com/collections/gameboy-advance/products/gameboy-advance-rechargeable-battery-pack) or [Modmatic kit](https://handheldlegend.com/products/powerup-advance-rechargeable-gba-battery-module)) – [Image Guide](https://www.retromodding.com/blogs/tutorials/gameboy-advance-rechargeable-battery-pack-installation-guide)
+* Rechargeable Battery (listed vendors ship NA only, parts: [Retromodding kit](https://www.retromodding.com/collections/gameboy-advance/products/gameboy-advance-rechargeable-battery-pack) – [Image Guide](https://www.retromodding.com/blogs/tutorials/gameboy-advance-rechargeable-battery-pack-installation-guide)
 
 * Speaker upgrade – [Very detailed guide](https://www.ifixit.com/Guide/Game+Boy+Advance+Speakers+Replacement/2004)  
 
@@ -64,8 +69,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 
 * Audio amplifier / loud speaker (parts from [Retromodding](https://www.retromodding.com/collections/gameboy-advance/products/game-boy-advance-audio-amplifier)) – [Image Guide](https://www.retromodding.com/blogs/tutorials/game-boy-advance-audio-amplifier-installation-guide) or [Video Guide / TDNC Review](https://www.youtube.com/watch?v=VIJyj_X38cI)
 
-* Internal NiMh battery charger (parts from BennVenn) – [coming soon^^^TM](https://www.facebook.com/BennVennElectronics/photos/a.945926408854146/2455812317865540)
-    * alternative method: [Youtube](https://www.youtube.com/watch?v=pMQQno4l_vs)
+* Internal NiMh battery charger – [Youtube](https://www.youtube.com/watch?v=pMQQno4l_vs)
 
 * Boxy Pixel aluminum shell ([parts](https://www.boxypixel.com/collections/game-boy-advance/products/game-boy-advance-aluminum-machined-shell-free-3d-holder-pcb-anodize)) – [AGB-101 or FIPS Picture Guide](https://www.boxypixel.com/pages/assembly-guide-backlight-your-game-boy-advance)
 
@@ -74,6 +78,8 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 * HDMI out (**Woozle's Consolizer**, parts from [GameTech](https://www.game-tech.us/product/gba-consolizer/)) – [Video Guide (LONG)](https://youtu.be/_TxVRt-11B0)
 
 * HDMI out (**gbaHD** from zwenergy) - [Text Guide from Mogi_codemasterv](https://www.reddit.com/r/Gameboy/comments/kzgrjw/full_guide_gbahd_build/)
+
+* Micro HDMI out (OC internal MITM LCD board, available soon) – [Video Guide (LONG)](https://www.youtube.com/watch?v=cuqqzCpvwaM)
 
 * LED Battery Gauge (for LiPo modded consoles) – [Youtube](https://www.youtube.com/watch?v=7A705K_WF-E)
 
