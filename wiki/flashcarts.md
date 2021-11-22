@@ -28,7 +28,7 @@ Most bootlegs can be flashed with normal Game Boy games as long as the game is c
 
 # External Memory Multi ROM Carts
 
-These are carts that use an external memory card, usually Micro SD, for the game and save storage. The hardware is not at all reminiscent of OEM games but it allows you to build and coordinate a library of all the games you want to play and is much more reliable than the internal memory versions. Common vendors for these types of carts are [Krikzz Everdrive (GB and GBA)](https://krikzz.com/store/), [EzFlash (GB and GBA)](http://www.ezflash.cn/), and [BennVenn's El Cheapo (GB only).](https://bennvenn.myshopify.com/collections/flash-carts) These carts are the easist to use, offer the greatest compatibility, and the most features. They are, however, more expensive and can use quite a bit more battery life compared to playing the original game on original hardware. 
+These are carts that use an external memory card, usually Micro SD, for the game and save storage. The hardware is not at all reminiscent of OEM games but it allows you to build and coordinate a library of all the games you want to play and is much more reliable than the internal memory versions. Common vendors for these types of carts are [Krikzz Everdrive (GB and GBA)](https://krikzz.com/), [EzFlash (GB and GBA)](http://www.ezflash.cn/), and [BennVenn's El Cheapo (GB only).](https://bennvenn.myshopify.com/collections/flash-carts) These carts are the easist to use, offer the greatest compatibility, and the most features. They are, however, more expensive and can use quite a bit more battery life compared to playing the original game on original hardware. 
 
 
 # Internal Memory Single ROM Carts
