@@ -8,7 +8,7 @@ logo: logos/GameBoyColor.png
 photo: consoles/GameBoyColor.jpg
 model: CGB
 ---
-The Game Boy Color was the first major hardware revision to the Game Boy line, with improved hardware and a full colour screen. This system had full backward compatibility with all original [Game Boy](gameboy) games, with the ability to apply some basic **colour palettes** to different elements. When starting original Game Boy games, the player can use different button combinations to change the colours on the screen, or to the original greyscale. This does not apply to Game Boy Color games. Below is a list of combinations:
+The Game Boy Color was the first major hardware revision to the Game Boy line, with improved hardware and a full colour screen. This system was more a hardware refresh than a subsequent model and had full backward compatibility with all original [Game Boy](gameboy) games, with the ability to apply some basic **color palettes** to different elements. When starting original Game Boy games, the player can use different button combinations to change the colours on the screen, or to the original greyscale. This does not apply to Game Boy Color games. Below is a list of combinations:
 
 |**D-Pad**|**None (Default)**|**A**|**B**|
 |Up|Brown|Red|Dark Brown|
@@ -16,7 +16,7 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
-Last Content Revision: 2021-08-24
+Last Content Revision: 2021-12-20
 
 ## **Game Boy Color Problems**
 
@@ -37,13 +37,13 @@ Don't forget that [the common problems section](..\wiki\commonissues) also has m
 
 ## **Game Boy Color Mods**
 
-* **Backlight Kits - Summer 2021**
-Absolutely flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below.
+* **Backlight Kits - Winter 2021**
+Flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below.
 
 	* **One Chip OSD Q5 IPS Kit.** 25% larger than stock viewing window using the Q5 LCD panel and includes lens with larger viewing window. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Soldering is required for the OSD controls. Very noticable larger viewing window. OSD allows for vertical and horizontal alignment, allowing less than perfect shell cuts to recenter image. 3D printed centering brackets are available from [Retro Modding]()  [[Video Guide]](https://youtu.be/6u5ol_wDfp0)
 		* Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd)
 
-	*  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** 25% larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. As of summer 2021, this is the latest kit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
+	*  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** 25% larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. As of Winter 2021, this is the latest kit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
 		*  Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit) [(Shell from RGRS)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell), and [RetroModding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-retro-pixel-ips-with-laminated-lens) [(Shell from RM)](https://www.retromodding.com/collections/game-boy-color/products/funny-playing-game-boy-color-shells-with-logo). 
 
 	* **FunnyPlaying IPS kit.** Stock sized viewing window using the 9380 LCD panel. Requires shell cuts to fit. No soldering required. This is a manually centered screen. If cut correctly, the image will be centered to the lens viewing window. 3D printed brackets are available to assist centering.  [[Video Guide]](https://www.youtube.com/watch?v=PySvT126Loo)
@@ -60,6 +60,7 @@ Absolutely flustered by this backlight list? Why not check out [this more compre
 * **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
 	* [Instructables guide](http://www.instructables.com/id/LED-Mod-Your-Gameboy-Color/)  
 	* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
+	* [Funnyplaying RGB LED Button boards](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-gbc-button-led-kit). Preassembled boards that light up the buttons and and have minimal animations. Very simple installation requiring moderate soldering skills. 
 
 * **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. **TP4056 modules do not support play and charge** and caution should be taken with lithium batteries.
 	* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
