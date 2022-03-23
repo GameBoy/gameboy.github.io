@@ -141,23 +141,23 @@ Like the DMG section, I have three different recommendations for "best" kit as e
 
 This is going to be a long section. There are a lot of kits. My pick for ease of install, performance, and function is definitely the 'One Chip' version of the AIO TFT kit (item #8) but if you can solder, the funyplaying 'Retro Pixel 2.0' Laminated Q5 kit (#12) is better in nearly every single way. The former kit is pretty light on features but requires absolutely zero permanent modification to your CGB and is one of the cheapest in the list (of total replacement kits). It requires no shell modding, no permanent adhesive, and no soldering. The latter kit is arguably easier to install as it requires no brackets and technically no custom lens but does require soldering of at least one wire for power (and three more for full features). Cutting an OEM shell is rather difficult for this mod but when combined with funnyplaying's custom CGB housings, no trimming is required and the install is one of the easiest of all the consoles and kits. While power usage is extremely high with this kit, the performance and appearance is second to none. It comes highly recommended. Neither of these kits are stock sized (but both should come with the proper sized lens). Those two kits exist on total opposite ends of the spectrum but if you want something nicely balanced in the middle with more of the higher performance features with less of the performance cost, the CGS 2.6" kit (#9) is absolutely fantastic. It's bigger than stock like the Q5 kit but much easier to install in a stock shell. It's not as bright but the power usage is much lower. It's like "AIO" kit but with a physically larger screen. You'll still need a custom lens but the kit should come with one anyway. If, for whatever reason, you need a stock sized screen or a screen that's otherwise compatible with a stock sized lens, any of the 9380 kits are a good option but among those options, the 'one chip' kit (#13) may be the only one available. Install will be more difficult than ether of the afore mentioned kits due to the trimming requirement but it will perform as expected and look good while doing it. 
 
-|CGB|Full Size|Custom Lens|Soldering|Cutting|Integer Scaling|Pixel Grid|Color Palettes|Adjustable Brightness|Stuttering or Tearing|
+|CGB														|Full Size		|Custom Lens|Soldering|Cutting|Integer Scaling|Pixel Grid|Color Palettes|Adjustable Brightness|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
-|1. Backlighting the OEM LCD|Yes|No|Required|No|1x|Yes|No|No|No|
-|2. AGS-101 / El Clono TFT adapter|Much Smaller|Recommended|No|Shell Milling Required|1x|Yes|No|Button|No|
-|3. Taobao kit IPS LCD kit ("Galaxy Screen")|Yes|No|Required|Yes|2x|No|No|Button|No|
-|4. Freckleshack v1/v2 690 TFT kit|Much Smaller|Recommended|No|Yes|2x|No|No|Button|v1 yes, v2 no|
-|5. McWill 690 TFT kit|Much Smaller|Recommended|V1, Yes, V1.1, No|No|2x|No|No|No|Frame Drops|
-|6. MidWest Embedded 690 TFT kit|Much Smaller|Recommended|Recommended|Yes|2x|No|No|Button|Screen Jitter|
-|7. HiVision 690 TFT kits (AIO)|Much Smaller|Recommended|No|No|2x|No|Yes|Button or Touch|Frame Drops|
-|8. One Chip 690 TFT kits (AIO)|Much Smaller|Recommended|No|No|2x|No|Yes|Button or Touch|No|
-|9. CGS 2.6" IPS Kit|Larger|Required|No|Yes|2x|No|No|Touch|No|
-|10. Funnyplaying 9380 IPS kit v1|Yes|No|No|Yes|2x|No|No|Touch|See notes|
-|11. Funnyplaying 'Retro Pixel 1.0' Q5 IPS kit|Larger|Yes|Required|Yes|4x|Yes - x5|No|Touch|No|
-|12. Funnyplaying 'Retro Pixel 2.0' Laminated Q5 IPS kit|Larger|Yes|Required|Yes|4x|Yes - x5|No|Touch|No|
-|13. One Chip 9380 IPS kit v1|Yes|No|No|Yes|2x|No|Yes|Button or Touch|Frame Drops|
-|14. Freckleshack v2.5 "Aioli" 690 TFT kit|Much Smaller|Recommended|No|No|2x|No|No|Button|No|
-|15. One Chip OSD IPS Backlight Kit Q5 Version|Much Larger|Required|Recommended|Yes|4x|Yes|Yes|Button or Touch|No|
+|1. Backlighting the OEM LCD								|Yes			|No|Required|No|1x|Yes|No|No|No|
+|2. AGS-101 / El Clono TFT adapter							|Much Smaller	|Recommended|No|Shell Milling Required|1x|Yes|No|Button|No|
+|3. Taobao kit IPS LCD kit ("Galaxy Screen")				|Yes			|No|Required|Yes|2x|No|No|Button|No|
+|4. Freckleshack v1/v2 690 TFT kit							|Much Smaller	|Recommended|No|Yes|2x|No|No|Button|v1 yes, v2 no|
+|5. McWill 690 TFT kit										|Much Smaller	|Recommended|V1, Yes, V1.1, No|No|2x|No|No|No|Frame Drops|
+|6. MidWest Embedded 690 TFT kit							|Much Smaller	|Recommended|Recommended|Yes|2x|No|No|Button|Screen Jitter|
+|7. HiVision 690 TFT kits (AIO)								|Much Smaller	|Recommended|No|No|2x|No|Yes|Button or Touch|Frame Drops|
+|8. One Chip 690 TFT kits (AIO)								|Much Smaller	|Recommended|No|No|2x|No|Yes|Button or Touch|No|
+|9. CGS 2.6" IPS Kit										|Larger			|Required|No|Yes|2x|No|No|Touch|No|
+|10. Funnyplaying 9380 IPS kit v1							|Yes			|No|No|Yes|2x|No|No|Touch|See notes|
+|11. Funnyplaying 'Retro Pixel 1.0' Q5 IPS kit				|Larger			|Yes|Required|Yes|4x|Yes - x5|No|Touch|No|
+|12. Funnyplaying 'Retro Pixel 2.0' Laminated Q5 IPS kit	|Larger			|Yes|Required|Yes|4x|Yes - x5|No|Touch|No|
+|13. One Chip 9380 IPS kit v1								|Yes			|No|No|Yes|2x|No|Yes|Button or Touch|Frame Drops|
+|14. Freckleshack v2.5 "Aioli" 690 TFT kit					|Much Smaller	|Recommended|No|No|2x|No|No|Button|No|
+|15. One Chip OSD IPS Backlight Kit Q5 Version				|Much Larger	|Required|Recommended|Yes|4x|Yes|Yes|Button or Touch|No|
 
 
 
@@ -375,3 +375,5 @@ edit 2021-10-05: added DMG TV out kit section, cleaned up agb tv out notes for a
 edit 2021-11-22: updated popsicle kit notes, added OC HDMI interposer notes, updated DMG tv out notes, and added 2.6 cgb cgs kit
 
 edit 2022-01-08: updated fp gba ita kit section and fp cgb ver 2 lammy kit section and added sections for oc lammy kit and cgs dmg kit
+
+edit 2022-03-23: ~~added info on game boy color kits from cloud game store, revised 2.6" IPS and 2.45" TN kits~~ test table formatting
