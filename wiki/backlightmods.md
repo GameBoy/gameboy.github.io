@@ -152,12 +152,18 @@ For the below table, note that there are some liberties taken. For example, meas
 |14. Freckleshack v2.5 "Aioli" 690 TFT kit		|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|No				|Button					|No|
 |5. McWill 690 TFT kit							|Smaller (2.2")		|Recommended|Varies			|No			|2x					|No			|No				|No						|Frame Drops|
 |6. MidWest Embedded 690 TFT kit				|Smaller (2.2")		|Recommended|Recommended	|Yes		|2x					|No			|No				|Button					|Screen Jitter|
+
+
 |**Second Gen Kits**							|Full Size (2.4")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |7. HiVision 690 TFT kits (AIO)					|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|Yes			|Button or Touch		|Frame Drops|
 |8. One Chip 690 TFT kits (AIO)					|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|Yes			|Button or Touch		|No|
 |9. Cloud Game Store 2.6" IPS Kit				|Larger	(2.6")		|Required	|No				|Yes		|2x					|No			|No				|Touch					|No|
 |10. Funnyplaying 9380 IPS kit					|Yes (2.4")			|No			|No				|Yes		|2x					|No			|No				|Touch					|See notes|
+
+
 |**Third/Current Gen Kits**						|Full Size (2.4")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |11. FP 'Retro Pixel 1.0' Q5 IPS kit			|Larger	(2.6")		|Yes		|Required		|Yes		|4x					|Yes - x5	|No				|Touch					|No|
 |12. FP 'Retro Pixel 2.0' Laminated Q5 IPS kit	|Larger	(2.6")		|Yes		|Required		|Yes		|4x					|Yes - x5	|No				|Touch					|No|
 |13. One Chip 9380 IPS kit v1					|Yes (2.4")			|No			|No				|Yes		|2x					|No			|Yes			|Button or Touch		|Frame Drops|
