@@ -367,9 +367,9 @@ I could leave this section empty because the GBA SP already comes in both frontl
 11. insideGadgets Micro TFT adapter ([console](https://shop.insidegadgets.com/wp-content/uploads/2020/02/IMG_6392.jpg) and [kit](https://shop.insidegadgets.com/wp-content/uploads/2020/02/IMG_6425-2.jpg)) -- Yeah, that's pretty much exactly what it looks like. 100% reversable and when all is said and done, probably the cheapest backlight kit right now. It does require using a Game Boy Micro LCD, but those are still available on the aftermarket and for reasonably cheap. This kit would go well with a custom screen lens to hide the massive gaps with bezels. The install is rather difficult due to the extreme thickness of the stacked components. It requires bending ribbon cables to a degree that makes most people (well, me at least) uncomfortable. The brightness is very low to start but it can be modded to be brighter. When installed in an AGS-001, the system power consumption actually went down which means using this LCD in place of the frontlit screen (with the light on) will result in better battery life. This is the only kit on the list that you can say that with. For installing, you probably want [this bracket/bezel](https://www.thingiverse.com/thing:4581497) and one of these [ribbon cables.](https://www.aliexpress.com/item/32531674174.html)(see [my install here](https://youtu.be/0Sy1KXxUtWM))
 
 
-Sorry about the pillar of text but don't act like you have anything better to do than talk about Game Boy mods ;)
+## Update History
 
-tl;dr I spend too much money on mod kits. Each section has a summary for a better tl;dr
+Just for quick reference. Ever since moving to github, full history is available there but most commits will consist of formatting/spelling corrections without actually updating the content. 
 
 edit 2020-02-04: added notes on DMG "one chip" IPS kit
 
