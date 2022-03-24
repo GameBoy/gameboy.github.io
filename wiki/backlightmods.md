@@ -234,6 +234,8 @@ My pick for overall best balanced kit is definitely the Cloud Game Store 2.45" T
 
 ## Game Boy Advance
 
+(Section pending restructure soon^tm)
+
 There are a few options here that work on both GBA and GBA SP but I'm going to keep these sections separate as there are some different considerations for certain mods I believe. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS v2 kit (item #8). It does require a bit of shell modification but pre modified shells are available from several vendors now. I don't think the AGS-101 TFT LCD (item #2) really holds up compared to a more modern LCD, especially with the release of FP's "ITA" kit (item #9) but it is still a worthwhile mention. On that note, FP's "ITA" kit (item #9) is actually a really nice option both for visual appearance, power usage, and price. I prefer the look of their older 9380 kit (#8) but with the price, power usage, and as soon as the new shells start rolling out, it will be difficult to make a valid argument against this kit. The 'One Chip' 'drop in' IPS kit (item #14) is pretty good, especially if you absolutely must not cut up your console, and there are very few downsides that make it difficult to recommend over the Funnyplaying kit. The 'Drop in' IPS kit does not require shell modification (or a replacement shell) and the image quality is very good in comparison to the Funnyplaying 9380 kits but the 9380 LCD (even toppoly) is still better and cutting is highly recommended so the LCD can sit flat against the shell. Install will be significantly improved if you don't mind cutting up the shell a little bit (not nearly as much as the 9380 cuts) but this is not required. 
 
 |AGB|Full Size|Custom Lens|Soldering|Cutting|Integer Scaling|Pixel Grid|Color Palettes|Adjustable Brightness|Stuttering or Tearing|
@@ -293,6 +295,8 @@ There are a few options here that work on both GBA and GBA SP but I'm going to k
 # AGS
 
 ## Game Boy Advance SP
+
+(Section pending restructure soon^tm)
 
 I could leave this section empty because the GBA SP already comes in both frontlit and backlit variants. Nonetheless, there are still some mods that I know about or have done so I can still talk about them. Though, I guess I do have a lot to say about SP consoles. I like the Funnyplaying SP IPS kits  (item #4) because the 9380 LCDs (even the Toppoly ones) just look that good, especially when fully laminated. A unique feature of a newer kit is TV Out functionality that makes option #8, the One Chip Tv Version kit, really compelling. Those kits use a higher quality LCD than funnyplaying but since they're not fully laminated, the quality is not as good as it can be. If you're not a fan of the Tv Out function, the OC 2 in 1 kit (#7) is also pretty compelling as it's basically the TV version kit but without the TV Out feature and for quite a bit cheaper. I also like just (clean) stock AGS-001s. Yeah, that's right. I like the frontlit ones. I think the AGS-101 consoles are highly over-rated. All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS kit.
 
