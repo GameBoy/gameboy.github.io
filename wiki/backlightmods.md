@@ -60,7 +60,7 @@ I have several different recommendations for "best" kit as each kit seems to hav
 |13. OC IPS "TV Version"						|Yes (2.5")			|No			|Speaker/TV		|Required	|2x					|No			|Contrast Wheel	|Contrast Wheel			|No|
 |14. CGS 2.6" IPS								|Larger (2.6")		|No			|Unk			|Unk		|2x					|No			|Contrast Wheel	|Contrast Wheel			|Unk|
 
-|Cat 1 (Obsolete) DMG Kits						|Full Size (2.6")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+|Cat 1 (Obsolete) DMG Kits						|Full Size (2.5")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1. BennVenn 3.0" LCD kit						|Larger (3.0")		|Required	|Speaker Only	|Required	|1x					|Yes		|No				|No						|No|
 |2. BennVenn "Aioli" TFT kit					|Smaller (2.2")		|Recommended|Required		|No			|2x					|No			|No				|Button					|No|
@@ -69,7 +69,7 @@ I have several different recommendations for "best" kit as each kit seems to hav
 |5. "Rainbow Screen" IPS Backlight 				|Yes (2.5")			|No			|Required		|No			|3x					|No			|Yes			|Yes					|No|
 |6. OC IPS Backlight kit ("RIPS v1")			|Yes (2.5")			|No			|Speaker Only	|Required	|2x					|No			|Contrast Wheel	|Contrast Wheel			|No|
 
-|Cat 2 (Outdated) DMG Kits						|Full Size (2.6")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+|Cat 2 (Outdated) DMG Kits						|Full Size (2.5")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |7. "Moon Screen" IPS Backlight					|Smaller (2.4")		|No			|Speaker Only	|No			|3x					|Emulation	|Contrast Wheel	|Contrast Wheel			|No|
 |8. OC IPS Backlight kit ("RIPS v2")			|Yes (2.5")			|No			|Speaker Only	|Required	|2x					|No			|Contrast Wheel	|Contrast Wheel			|No|
