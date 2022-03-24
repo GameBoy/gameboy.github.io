@@ -58,7 +58,7 @@ I have several different recommendations for "best" kit as each kit seems to hav
 |11. FP Q5 IPS "Retro Pixel" Backlight			|Larger	(2.6")		|Required	|Speaker Only	|Required	|4x					|Emulation	|Contrast Wheel	|Contrast Wheel			|No|
 |12. OC Q5 IPS "DMG Backlight OSD"				|Larger	(2.6")		|Required	|Speaker Only	|Required	|4x					|Emulation	|Contrast Wheel	|Contrast Wheel			|No|
 |13. OC IPS "TV Version"						|Yes (2.5")			|No			|Speaker/TV		|Required	|2x					|No			|Contrast Wheel	|Contrast Wheel			|No|
-|14. CGS 2.6" IPS								|Larger (2.6")		|No			|Unk			|Unk		|2x					|No			|Contrast Wheel	|Contrast Wheel			|Unk|
+|14. CGS 2.6" IPS								|Larger (2.6")		|No			|No				|Required	|2x					|No			|Touch Sensor	|Touch Sensor			|No|
 
 |Cat 1 (Obsolete) DMG Kits						|Full Size (2.5")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
