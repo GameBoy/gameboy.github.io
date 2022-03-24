@@ -143,7 +143,7 @@ This is going to be a long section. There are a lot of kits. My pick for ease of
 
 For the below table, note that there are some liberties taken. For example, measurements are approximated to the image size on the LCD and not the actual size of the LCD. Soldering is recommended for all kits that require additional power and even for touch sensors (copper tape sensors tend to work better than integrated ribbon style ones). Cuts are presumed to be for OEM style housings but there are aftermarket no-cut housings available for some models (marked with asterisk, see section in full list below for more info). Some cuts are significantly more difficult than others (marked with bold or caps or both). All LCDs have a screen door effect (or pixel grid) but some some LCDs are less prominant than others due to pixel density. Some kits emulate this by blacking out columns or rows of pixels. No distinction is made in the table below. Adjustable brightness can be achieved for every kit, even when not natively supported though some DIY will be required. Rows are divided into groups by kit generation, which, while somewhat arbitrary, is distinguished by features, compatibility, inherent problems, fitment, or availability. Only kits that fall into later sections are recommended. 
 
-|CGB											|Full Size (2.4")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+|First Gen GBC Kits								|Full Size (2.4")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1. Backlighting the OEM LCD					|Yes (2.4")			|No			|Required		|No			|1x					|Yes		|No				|No						|No|
 |2. AGS-101 / El Clono TFT adapter				|Smaller (2.2")		|Recommended|No				|**YES**	|1x					|Yes		|No				|Button					|No|
@@ -152,12 +152,12 @@ For the below table, note that there are some liberties taken. For example, meas
 |14. Freckleshack v2.5 "Aioli" 690 TFT kit		|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|No				|Button					|No|
 |5. McWill 690 TFT kit							|Smaller (2.2")		|Recommended|Varies			|No			|2x					|No			|No				|No						|Frame Drops|
 |6. MidWest Embedded 690 TFT kit				|Smaller (2.2")		|Recommended|Recommended	|Yes		|2x					|No			|No				|Button					|Screen Jitter|
-:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|**Second Gen Kits**| | | | | | | | | |
 |7. HiVision 690 TFT kits (AIO)					|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|Yes			|Button or Touch		|Frame Drops|
 |8. One Chip 690 TFT kits (AIO)					|Smaller (2.2")		|Recommended|No				|No			|2x					|No			|Yes			|Button or Touch		|No|
 |9. Cloud Game Store 2.6" IPS Kit				|Larger	(2.6")		|Required	|No				|Yes		|2x					|No			|No				|Touch					|No|
 |10. Funnyplaying 9380 IPS kit					|Yes (2.4")			|No			|No				|Yes		|2x					|No			|No				|Touch					|See notes|
-:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|**Third/Current Gen Kits**| | | | | | | | | |
 |11. FP 'Retro Pixel 1.0' Q5 IPS kit			|Larger	(2.6")		|Yes		|Required		|Yes		|4x					|Yes - x5	|No				|Touch					|No|
 |12. FP 'Retro Pixel 2.0' Laminated Q5 IPS kit	|Larger	(2.6")		|Yes		|Required		|Yes		|4x					|Yes - x5	|No				|Touch					|No|
 |13. One Chip 9380 IPS kit v1					|Yes (2.4")			|No			|No				|Yes		|2x					|No			|Yes			|Button or Touch		|Frame Drops|
