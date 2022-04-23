@@ -42,13 +42,9 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 	* **Cloud Game Store 2.45" kit** TN panel that retains the original viewing window. Requires no shell cuts and fits in the original screen opening. Requires one soldering point for power. Brightness and pixel grid effect are controlled by onboard touch sensor. Superior to the 690 TFT kit as it retains the original viewing window and easier to align. [[Video Guide]](https://www.youtube.com/watch?v=jfWIQ6S8efY)
 		* Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003963450304.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-45-drop-in-backlight-lcd-kit).
 
-
 * **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
 	* [Written guide](http://www.littlesounddj.com/lsd/prosound/) and [Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
 	* [Helder's alternative wiring](https://imgur.com/a/4lPGhab). This method removes RA2 and joins a set of vias with jumper wires. As there is fine soldering, this mod is considered more difficult. Like the standard Prosound mod, this bridges the volume wheel to the headphone jack and bypasses the onboard amplifier. For best results, the volume wheel should be cleaned out with isopropyl alcohol or contact cleaner.
-
-* **Amplifiers** are not typically recommended. As with other consoles, amplifiers amplify system noise. If the speaker is not working or low, please refer to [**Common Problems**](#problems).
-	* These are sold by various vendors. [RetroModding](https://www.retromodding.com/products/game-boy-advance-audio-amplifier), [Cloud Game Store](https://www.aliexpress.com/item/1005003592170031.html), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-audio/products/game-boy-color-audio-amp).
 
 * **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
 	* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
@@ -77,18 +73,23 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 	* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
 	* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
 
+* **Amplifiers** are not typically recommended. As with other consoles, amplifiers amplify system noise. If the speaker is not working or low, please refer to [**Common Problems**](#problems).
+	* These are sold by various vendors. [RetroModding](https://www.retromodding.com/products/game-boy-advance-audio-amplifier), [Cloud Game Store](https://www.aliexpress.com/item/1005003592170031.html), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-audio/products/game-boy-color-audio-amp).
+
 ## Problems
 
 Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues.
+* **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+* **[Game Boy Color Schematics and Board Scan](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/)**
 
 * **Game Boy won’t power on** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
- 	* **Dirty or damaged switches**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
+	* **Dirty or damaged switches**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
  	* **Burnt Fuses**. A common problem please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
  	* **Corroded DC Jack**. Like other consoles this may prevent a the console from powering on. Please refer to the [the common problems section](..\wiki\commonissues).
 	* **Troubleshooting [Guide](https://cdn.discordapp.com/attachments/332487991383687169/927769085918474290/unknown.png)**
 
 * **No audio**. Refer to the common problems section on how to check the headphone jack and speaker. Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacements. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) [[Replacement Speakers]](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028) 
 
-	Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+	* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
 
-* Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. Please refer to the **[Board Scans](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/).**
+	* Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. Please refer to the **[Board Scans](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/).**
