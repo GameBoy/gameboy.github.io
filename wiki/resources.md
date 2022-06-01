@@ -11,11 +11,11 @@ Shamelessly stolen from the Game Boy Discord
 
 Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
 
-Game Boy dev Discord: [https://discord.gg/gpBxq85](https://discord.gg/gpBxq85)
+Game Boy development Website: [https://gbdev.io/](https://gbdev.io/)
 
-GBDev Website: [https://gbdev.io/](https://gbdev.io/)
+Game Boy development Discord: [https://discord.gg/gpBxq85](https://gbdev.io/chat)
 
-GBDev Resources: [https://gbdev.io/list.html](https://gbdev.io/list.html)
+GB Dev development Resources: [https://gbdev.io/list.html](https://gbdev.io/resources.html)
 
 InsideGadgets Discord: [http://discord.gg/X2wS8eh](http://discord.gg/X2wS8eh)
 
