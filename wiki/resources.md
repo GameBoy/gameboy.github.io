@@ -13,7 +13,7 @@ Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
 
 Game Boy development Website: [https://gbdev.io/](https://gbdev.io/)
 
-Game Boy development Discord: [https://discord.gg/gpBxq85](https://gbdev.io/chat)
+GB Dev development Discord: [https://discord.gg/gpBxq85](https://gbdev.io/chat)
 
 GB Dev development Resources: [https://gbdev.io/list.html](https://gbdev.io/resources.html)
 
