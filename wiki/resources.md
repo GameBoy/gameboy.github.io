@@ -13,9 +13,11 @@ Our Subreddit: [https://reddit.com/r/gameboy](https://reddit.com/r/gameboy)
 
 Game Boy development Website: [https://gbdev.io/](https://gbdev.io/)
 
-GB Dev development Discord: [https://discord.gg/gpBxq85](https://gbdev.io/chat)
+GB Dev development Discord: [https://gbdev.io/chat](https://gbdev.io/chat)
 
-GB Dev development Resources: [https://gbdev.io/list.html](https://gbdev.io/resources.html)
+GB Dev development Resources: [https://gbdev.io/resources.html](https://gbdev.io/resources.html)
+
+Collection of free Game Boy homebrew games: [hh.gbdev.io](https://hh.gbdev.io)
 
 InsideGadgets Discord: [http://discord.gg/X2wS8eh](http://discord.gg/X2wS8eh)
 
