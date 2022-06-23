@@ -10,7 +10,7 @@ model: MGB
 ---
 Released in 1996, this model is a much smaller redesign of the original [Game Boy](gameboy). It uses two AAA batteries and has a slightly improved screen with a grey reflection film compared to the original Game Boy's green. The Game Boy Pocket was released without a power LED, but was added in soon after launch. The Pocket can only play DMG games and cannot play Color-only games.
 
-Last Content Revision: 2022-02-17
+Last Content Revision: 2022-06-23
 
 Table of Contents:
 <!--ts-->
@@ -49,9 +49,14 @@ Table of Contents:
 
 Don't forget that the **[common problems section](commonissues)** also has additional information. Common issues such as no-audio or failure to power-on.
 * **[Game Boy Pocket Schematics](https://github.com/Gekkio/gb-schematics/blob/main/MGB-xCPU/schematic/MGB-xCPU.pdf)** and **[Board Scan](https://www.dropbox.com/sh/33886pwfi08kvxg/AABhk8nVWuMBbUJaHSL7lKtQa/NINTENDO/GAMEBOY_DMG_MGB_CGB_SGB)**.
+* **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)
 
 * **Power Issues** - Flash carts, backlight kits, amp kits cause the Pocket not to power on
 	* **Dirty or damaged switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. MGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
 		* Typical behavior: Everdrive/EZFlash boot loops with low battery, some IPS kits show no image on startup or turns off before the system on low battery.
 	* **Low battery life after mods**. This is common and especially with IPS kits. The capacity limit of two AAAs can't be worked around. Energy density at this size is difficult to improve without taking on the risk of lithium ion batteries. Typical scenario: Alkaline ~2600mWh, NiMH ~1920mWh, AAA Lithium ~2000mWh, 102045 Lithium ~3300mWh. **Perform these mods at your own risk**.
 	* **Lost game saves**. Occassionally game saves become corrupted or lost after playing on modified consoles. The original DC-DC converter on the console has notable voltage sag on startup and can possibly cause the system to draw power from the coin cell of the cartridge. A clean power switch and fully charged batteries should mitigate this issue. Further information from [BennVenn](https://bennvenn.myshopify.com/pages/gameboy-pocket-flash-carts-backlights).
+
+* **Audio Issues** - Refer to the **[common problems section](commonissues)** page for additional information
+	* Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacements. BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. 
+	* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
