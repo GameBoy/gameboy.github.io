@@ -16,7 +16,7 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
-Last Content Revision: 2022-03-26
+Last Content Revision: 2022-06-23
 
 Table of Contents:
 <!--ts-->
@@ -35,6 +35,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 	* **Cloud Game Store 2.6" IPS Kit.** Larger than stock viewing window that requires a matching lens. Shell cutting is required to fit into OEM shells, but a matching shell is available and does not require cutting. Soldering is required for power. brightness control and pixel grid effects are controlled by onboard touch sensor. [[Video Guide]](https://www.youtube.com/watch?v=wYnBbBHx9SY)
 		* Shell note. The matching shell is a smooth, glossy texture, unlike original Nintendo shells or FunnyPlaying shells. Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003769287847.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-color-high-quality-replacement-shell).
 		* IPS kit sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003797293674.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-6-ips-backlight-lcd-kit).
+		* A laminated version with a matching shell is currently available. [Cloud Game Store](https://www.aliexpress.com/item/3256803778273625.html)
 
 	* **One Chip OSD Q5 IPS Kit.** Larger than stock viewing window using the Q5 LCD panel and includes lens with larger viewing window. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Soldering is required for the OSD controls. OSD allows for vertical and horizontal alignment, allowing less than perfect shell cuts to recenter image. 3D printed centering brackets are available from [Retro Modding](https://www.thingiverse.com/thing:4788780).  [[Video Guide]](https://youtu.be/6u5ol_wDfp0)
 		* Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd) and [AliExpress](https://www.aliexpress.com/item/1005001836773840.html).
@@ -57,6 +58,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 * **DC jack rechargeable batteries.** Keeping the classic ports and feel but adding a modern twist. Requires caution as the board and batteries generate heat.
 	* [Written Guide](https://imgur.com/a/6VTvh). An advanced method of charging specific lithium batteries in a Game Boy Color. Caution should be taken. Requires shell modification and high level soldering skills and moderate electronics understanding.
 	* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should never charged.
+	* [Funnyplaying Rechargable Mod](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-battery-mod?variant=41495870406828). This mod removes components on the GBC board in order to repurpose the DC jack to allow for 5V input to Funnyplaying's custom charge board. This board is [[TP4056 based]](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). [Video Guide](https://www.youtube.com/watch?v=62dikpr2PXQ)
 
 * **Game Boy Pocket buttons in a Color.** Don't like the A/B imprint on the stock buttons? Try Pocket buttons!
 	* [Written guide](http://imgur.com/a/02CZU). Minor shell modifications are required. 
@@ -83,7 +85,7 @@ Don't forget that [the common problems section](..\wiki\commonissues) also has m
 * **[Game Boy Color Schematics and Board Scan](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/)**
 
 * **Game Boy won’t power on** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
-	* **Dirty or damaged switches**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
+	* **Dirty or damaged power switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
  	* **Burnt Fuses**. A common problem please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
  	* **Corroded DC Jack**. Like other consoles this may prevent a the console from powering on. Please refer to the [the common problems section](..\wiki\commonissues).
 	* **Troubleshooting [Guide](https://cdn.discordapp.com/attachments/332487991383687169/927769085918474290/unknown.png)**
