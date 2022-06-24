@@ -26,7 +26,7 @@ Table of Contents:
 
 ## Mods
 
-* **Backlight Kits - Spring 2022**
+* **Backlight Kits - Summer 2022**
 Flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below, sorted by desirable features.
 
 	*  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
@@ -39,9 +39,12 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 
 	* **One Chip OSD Q5 IPS Kit.** Larger than stock viewing window using the Q5 LCD panel and includes lens with larger viewing window. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Soldering is required for the OSD controls. OSD allows for vertical and horizontal alignment, allowing less than perfect shell cuts to recenter image. 3D printed centering brackets are available from [Retro Modding](https://www.thingiverse.com/thing:4788780).  [[Video Guide]](https://youtu.be/6u5ol_wDfp0)
 		* Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd) and [AliExpress](https://www.aliexpress.com/item/1005001836773840.html).
+		* A new variant with HDMI out has been released. Soldering is required and shell modifications are required. Sold at [AliExpress](https://www.aliexpress.com/item/3256803144683433.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-ips-backlight-tv-version-hdmi-out-mod-1). [[Video Guide]](https://www.youtube.com/watch?v=Q7yilPpq5ag)
 
 	* **Cloud Game Store 2.45" kit** TN panel that retains the original viewing window. Requires no shell cuts and fits in the original screen opening. Requires one soldering point for power. Brightness and pixel grid effect are controlled by onboard touch sensor. Superior to the 690 TFT kit as it retains the original viewing window and easier to align. [[Video Guide]](https://www.youtube.com/watch?v=jfWIQ6S8efY)
 		* Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003963450304.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-45-drop-in-backlight-lcd-kit).
+
+* **GameBox Systems GBHD Color.** An advanced mod that requires a board cut and soldering. This is a great mod for Colors that have corroded bottom halfs due to battery corrosion. Offers 720p 5x scaling with controller support over the SNES port. [GameBox Systems](https://gamebox.systems/product/gbhd-color-gameboy-consolization-kit/) [[Video Guide]](https://www.youtube.com/watch?v=1J9cxigDAcc)
 
 * **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
 	* [Written guide](http://www.littlesounddj.com/lsd/prosound/) and [Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
