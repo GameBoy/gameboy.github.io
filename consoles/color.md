@@ -46,43 +46,39 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 		* Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003963450304.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-45-drop-in-backlight-lcd-kit).
 
 	* **Shell Note. ExtremeRate** makes a unique shell that accomodates 3 different screens: OEM, 9380, Q5. These shells have cut points that allow for this versatility. The shells are high quality, but the solid color shells are painted or plated and may possibly fade over time. Sold on Amazon [Clear](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/) and [Solid](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/). [[Video Guide]](https://www.youtube.com/watch?v=E3C0O8729LY).
-	
-* **GameBox Systems GBHD Color.** An advanced mod that requires a board cut and soldering. This is a great mod for Colors that have corroded bottom halfs due to battery corrosion. Offers 720p 5x scaling with controller support over the SNES port. [GameBox Systems](https://gamebox.systems/product/gbhd-color-gameboy-consolization-kit/) [[Video Guide]](https://www.youtube.com/watch?v=1J9cxigDAcc)
 
-* **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
-	* [Written guide](http://www.littlesounddj.com/lsd/prosound/) and [Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
-	* [Helder's alternative wiring](https://imgur.com/a/4lPGhab). This method removes RA2 and joins a set of vias with jumper wires. As there is fine soldering, this mod is considered more difficult. Like the standard Prosound mod, this bridges the volume wheel to the headphone jack and bypasses the onboard amplifier. For best results, the volume wheel should be cleaned out with isopropyl alcohol or contact cleaner.
 
-* **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
-	* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
-	* [Funnyplaying RGB LED Button boards](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-gbc-button-led-kit). Preassembled boards that light up the buttons and and have minimal animations. Very simple installation requiring moderate soldering skills. [Video Guide](https://www.youtube.com/watch?v=6aGCXr1hc7w)
+* **Audio Mods**
+	* **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
+		* [Written guide](http://www.littlesounddj.com/lsd/prosound/) and [Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
+		* [Helder's alternative wiring](https://imgur.com/a/4lPGhab). This method removes RA2 and joins a set of vias with jumper wires. As there is fine soldering, this mod is considered more difficult. Like the standard Prosound mod, this bridges the volume wheel to the headphone jack and bypasses the onboard amplifier. For best results, the volume wheel should be cleaned out with isopropyl alcohol or contact cleaner.
+	* **Amplifiers** are not typically recommended. As with other consoles, amplifiers amplify system noise. If the speaker is not working or low, please refer to [**Common Problems**](#problems).
+		* These are sold by various vendors. [RetroModding](https://www.retromodding.com/products/game-boy-advance-audio-amplifier), [Cloud Game Store](https://www.aliexpress.com/item/1005003592170031.html), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-audio/products/game-boy-color-audio-amp).
 
-* **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. Note that is is based on the [TP4056 and **this does not support play and charge**](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). Caution should be taken with lithium batteries.
-	* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
-	* [Giltesa's USB-C Charging Kit](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
+* **Battery and Power Mods**
+	* **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. Note that is is based on the [TP4056 and **this does not support play and charge**](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). Caution should be taken with lithium batteries.
+		* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
+		* [Giltesa's USB-C Charging Kit](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
 
-* **DC jack rechargeable batteries.** Keeping the classic ports and feel but adding a modern twist. Requires caution as the board and batteries generate heat.
-	* [Written Guide](https://imgur.com/a/6VTvh). An advanced method of charging specific lithium batteries in a Game Boy Color. Caution should be taken. Requires shell modification and high level soldering skills and moderate electronics understanding.
-	* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should never charged.
-	* [Funnyplaying Rechargable Mod](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-battery-mod?variant=41495870406828). This mod removes components on the GBC board in order to repurpose the DC jack to allow for 5V input to Funnyplaying's custom charge board. This board is [[TP4056 based]](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). [Video Guide](https://www.youtube.com/watch?v=62dikpr2PXQ)
+	* **DC jack rechargeable batteries.** Keeping the classic ports and feel but adding a modern twist. Requires caution as the board and batteries generate heat.
+		* [Written Guide](https://imgur.com/a/6VTvh). An advanced method of charging specific lithium batteries in a Game Boy Color. Caution should be taken. Requires shell modification and high level soldering skills and moderate electronics understanding.
+		* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should never charged.
+		* [Funnyplaying Rechargable Mod](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-battery-mod?variant=41495870406828). This mod removes components on the GBC board in order to repurpose the DC jack to allow for 5V input to Funnyplaying's custom charge board. This board is [[TP4056 based]](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). [Video Guide](https://www.youtube.com/watch?v=62dikpr2PXQ)
 
-* **Game Boy Pocket buttons in a Color.** Don't like the A/B imprint on the stock buttons? Try Pocket buttons!
-	* [Written guide](http://imgur.com/a/02CZU). Minor shell modifications are required. 
+* **Other Mods**
+	* **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
+		* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
+		* [Funnyplaying RGB LED Button boards](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-gbc-button-led-kit). Preassembled boards that light up the buttons and and have minimal animations. Very simple installation requiring moderate soldering skills. [Video Guide](https://www.youtube.com/watch?v=6aGCXr1hc7w)
+	* **GameBox Systems GBHD Color.** An advanced mod that requires a board cut and soldering. This is a great mod for Colors that have corroded bottom halfs due to battery corrosion. Offers 720p 5x scaling with controller support over the SNES port. [GameBox Systems](https://gamebox.systems/product/gbhd-color-gameboy-consolization-kit/) [[Video Guide]](https://www.youtube.com/watch?v=1J9cxigDAcc)
+	* **Game Boy Pocket buttons in a Color.** Don't like the A/B imprint on the stock buttons? Try Pocket buttons!
+		* [Written guide](http://imgur.com/a/02CZU). Minor shell modifications are required. 
+	* **Plastic Start/Select buttons.** Want the start and select to be plastic to match the other buttons like a SP? Try this mod. These mods require trimming of the membrane
+		*   [Written Guide](https://imgur.com/a/Pu1gk#0). Requires donor plastic to create a button. No longer the preferred method.
+		*   [B23N's Start/Select Nubs](https://www.shapeways.com/product/TX49QTD4B/cgb-start-select-nubs). Can be 3D printed in different materials, but designed to compliment RetroCNC or Boxy Pixel GBC buttons. 
+		*   Alternatively RetroCNC and ExtremeRate button kits include matching material start select buttons. [RetroCNC](https://retrogamerepairshop.com/collections/retrocnc/products/game-boy-color-anodized-concave-aluminum-buttons-by-retrocnc) buttons are all aluminum and require separate membraes and requires the start/select membranes to be trimmed. [ExtremeRate](https://www.amazon.com/eXtremeRate-Chameleon-Replacement-Buttons-Gameboy/dp/B09BYZLCX8/r) buttons are high quality molded plastic and include membranes with a trimmed start/select membrane to compliment the included plastic start/select nubs.
+	* **Boxy Pixel Machined Aluminum Shell.** An all-aluminum replacement shell alternative to the aftermarket plastic shells. Requires moderate modding skills to assemble.
+		*  [Video Guide](https://www.youtube.com/watch?v=TeRV4qI20uA)
 
-* **Plastic Start/Select buttons.** Want the start and select to be plastic to match the other buttons like a SP? Try this mod. These mods require trimming of the membrane
-	*   [Written Guide](https://imgur.com/a/Pu1gk#0). Requires donor plastic to create a button. No longer the preferred method.
-	*   [B23N's Start/Select Nubs](https://www.shapeways.com/product/TX49QTD4B/cgb-start-select-nubs). Can be 3D printed in different materials, but designed to compliment RetroCNC or Boxy Pixel GBC buttons. 
-	*   Alternatively RetroCNC and ExtremeRate button kits include matching material start select buttons. [RetroCNC](https://retrogamerepairshop.com/collections/retrocnc/products/game-boy-color-anodized-concave-aluminum-buttons-by-retrocnc) buttons are all aluminum and require separate membraes and requires the start/select membranes to be trimmed. [ExtremeRate](https://www.amazon.com/eXtremeRate-Chameleon-Replacement-Buttons-Gameboy/dp/B09BYZLCX8/r) buttons are high quality molded plastic and include membranes with a trimmed start/select membrane to compliment the included plastic start/select nubs.
-
-* **Boxy Pixel Machined Aluminum Shell.** An all-aluminum replacement shell alternative to the aftermarket plastic shells. Requires moderate modding skills to assemble.
-	*  [Video Guide](https://www.youtube.com/watch?v=TeRV4qI20uA)
-
-* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper clean, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
-	* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
-	* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
-
-* **Amplifiers** are not typically recommended. As with other consoles, amplifiers amplify system noise. If the speaker is not working or low, please refer to [**Common Problems**](#problems).
-	* These are sold by various vendors. [RetroModding](https://www.retromodding.com/products/game-boy-advance-audio-amplifier), [Cloud Game Store](https://www.aliexpress.com/item/1005003592170031.html), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-audio/products/game-boy-color-audio-amp).
 
 ## Problems
 
@@ -90,12 +86,15 @@ Don't forget that [the common problems section](..\wiki\commonissues) also has m
 * **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
 * **[Game Boy Color Schematics and Board Scan](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/)**
 
-* **Game Boy won’t power on** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
-	* **Dirty or damaged power switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc) 
+* **Power Issues** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
+	* **Dirty or damaged power switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
+		* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper clean, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+			* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
+			* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
  	* **Burnt Fuses**. A common problem please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
  	* **Corroded DC Jack**. Like other consoles this may prevent a the console from powering on. Please refer to the [the common problems section](..\wiki\commonissues).
 	* **Troubleshooting [Guide](https://cdn.discordapp.com/attachments/332487991383687169/927769085918474290/unknown.png)**
-
+	
 * **No audio**. Refer to the common problems section on how to check the headphone jack and speaker. Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacements. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) [[Replacement Speakers]](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028) 
 
 	* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
