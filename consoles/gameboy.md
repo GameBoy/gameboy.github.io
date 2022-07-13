@@ -95,7 +95,7 @@ Looking for a backlight mod? Why not check out [this guide](../wiki/backlightmod
 
 * RGB colour changing backlight – [Documented project](https://imgur.com/a/dUaim#0DwYjRw)  
 
-* Prosound mod (parts: [Retromodding](https://www.retromodding.com/collections/gameboy/products/gameboy-pcb-mount-pro-sound-v3) or [Kitsch-Bent](https://store.kitsch-bent.com/product/prosound-kits)) – [Simple to follow tutorial](https://snapguide.com/guides/mod-your-dmg-gameboy-with-prosound-stereo-jack/)/[Video Guide](https://www.youtube.com/watch?v=FGlY0quuHGw)  
+* Prosound mod (parts: [Retromodding](https://www.retromodding.com/collections/gameboy/products/gameboy-pcb-mount-pro-sound-v3) or [Kitsch-Bent](https://store.kitsch-bent.com/product/prosound-kits)) – [Simple to follow tutorial](https://web.archive.org/web/20210308122142/https://guides.brit.co/guides/mod-your-dmg-gameboy-with-prosound-stereo-jack)/[Video Guide](https://www.youtube.com/watch?v=FGlY0quuHGw)  
 
 * USB rechargeable batteries – [Step by step guide](http://imgur.com/a/uIpq4)  
 
