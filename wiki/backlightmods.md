@@ -123,11 +123,11 @@ Like the DMG section, I have three different recommendations for "best" kit as e
 |8. CGS 2.6" IPS Kit							|Yes				|No			|Recommended	|Required\*	|2x					|No			|Button or Touch|Button or Touch		|No|
 
 
-|Cat 1 (Obsolete) MGB Kits						|Full Size (2.5")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+|Cat 1 (Obsolete) MGB Kits						|Full Size (2.6")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |Despite the staggering amount of GBC kits, the MGB list is much smaller and thus this table shall remain empty for now.| | | | | | | | | |
 
-|Cat 2 (Outdated) MGB Kits						|Full Size (2.5")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
+|Cat 2 (Outdated) MGB Kits						|Full Size (2.6")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |2. HiVision 690 TFT kit (AIO)					|Much Smaller		|Recommended|Recommended	|No			|2x					|No			|Button or Touch|Button or Touch		|Frame Drops|
 |3. One Chip 690 TFT kit (AIO)					|Much Smaller		|Recommended|Recommended	|No			|2x					|No			|Button or Touch|Button or Touch		|No|
