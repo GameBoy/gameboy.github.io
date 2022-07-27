@@ -10,24 +10,75 @@ model: AGS
 ---
 The first major redesign of the [Game Boy Advance](advance) changed the system to a clamshell design and also added a rechargeable lithium-ion battery. The biggest difference however was the addition of a front light to the screen. Excluding the somewhat rare Japanese exclusive [Game Boy Light](light), this was Nintendo’s first handheld with an internally lit screen. This system also switched from rubber membrane buttons, common on almost all Nintendo systems to this point, to dome tact switches. One common complaint about this system has been the removal of the headphone jack and the need of an adapter which plugs into the charger port, similar to modern smartphones.
 
-## 101 Revision
+**101 Revision**
 Nearly Identical to the original Game Boy Advance SP, the revised 101 model finally added the much sought after backlit screen to the Game Boy line. Interestingly, this model debuted almost a full year after the release of the Nintendo DS but mainly in North America, European/Australian systems are extremely rare and Japan never got the revision. Although sold in large numbers, the backlit screen of this SP makes this model one of the most sought-after models of Game Boy, consequently its current price is usually higher than that of other Game Boy models. Exacerbating this price increase is the fact that many systems have been taken apart for their valuable screens.
 
 Table of Contents:
 <!--ts-->
-* [**Game Boy Advance SP Problems**](--game-boy-advance-sp-problems--)
-  * [One or both shoulder buttons do not work](--one-or-both-shoulder-buttons-do-not-work--)
-  * [Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted](--game-boy-advance-sp-power-led-is-always-red-even-on-new-batteries-or-led-will-flicker--)
-  * [When charging the console, the charge light does not come on at all/ only comes on for a second before turning off](--when-charging-the-console,-the-charge-light--)
-  * [Shell is cracked or broken in multiple places](--the-shell-is-cracked-or-broken-in-multiple-places--)
-* [**Game Boy Advance SP Mods**](--game-boy-advance-sp-problems--)
+* [**Mods**](#mods)
+* [**Common Problems**](#problems)
 <!--te-->
 
-Last Content Revision: 2021-08-25
+Last Content Revision: 2022-06-23
+
+## Mods
+
+* **Backlight Kits - Spring 2022**
+The below list shows only the current or relevant backlight kits for the GBA SP. For a more information visit the [comprehensive guide](..\wiki\backlightmods#ags) from /u/Admiral_Butter_Crust (makho).
+	* **FunnyPlaying Laminated IPS Kit.** Laminated 9380 panel with brightness control via the original brightness button. Soldering is required for brightness control. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=amRFG-DqP2w).
+		* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-ips-laminated-display-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/funnyplaying-gba-sp-ips-game-boy-advance-sp-backlight-mod), [RetroModding](https://www.retromodding.com/products/game-boy-advance-sp-ips-lcd).
+	* **Hispeedido Laminated IPS TV-out Kit.** Laminated 9380 panel with brightness control, color palette, **composite video out** through a custom cable. Soldering is required for this kit. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=FErJgdeh4SI)
+		* Sold at [AliExpress](https://www.aliexpress.com/item/2251832813397628.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/game-boy-advance-sp-ips-backlight-tv-version-av-out-mod-kit).
+	* **Cloud Game Store Laminated IPS Kit.** Laminated custom panel with brightness control, color palette, **pixel grid effects**. Soldering is required for this kit. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=DQT_303eAa0&t=1877s).
+		* Sold at [Cloud Game Store](https://www.aliexpress.com/item/3256802151569181.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/gba-sp-game-boy-advance-sp-backlight-kit-with-colored-lens-options).
+
+	* **Shell Note:** For the above kits,IPS-ready shells are available from multiple manufacturers. No shell modifications are required for the IPS panel to fit. [ExtremeRate Clear](https://www.amazon.com/Upgraded-eXtremeRate-Emerald-Replacement-Housing/dp/B09XB6QR9Q), [ExtremeRate Solid Colors](https://www.amazon.com/Upgraded-eXtremeRate-Replacement-Housing-Gameboy/dp/B09WMQKS2D), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-shells/products/game-boy-advance-sp-ips-ready-housings-shells-no-cut), [AliExpress](https://www.aliexpress.com/item/3256802835054431.html).
+
+* **Battery and Charge Mods**.
+	* **Replacement Batteries**. Note many replacement batteries have misleading or completely false capacity ratings. Below have been tested and confirmed.
+		* **Mahko Battery**. Based around a custom PCB that allows the use of 603048 pouch lithium polymer battery. Soldering is required and may be purchased in several ways. Self assembly using gerbers from the [Github](https://github.com/makhowastaken/AGS_LIPO) repo, self assembly using parts from [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/makho/products/gba-sp-game-boy-advance-sp-rechargeable-850mah-lipo-battery-mod-by-makho), pre-assembled with a 3D printed frame from [RetroModding](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery). [[Video Guide]](https://www.youtube.com/watch?v=ykxxOpwzhuU)
+		* **Helder MegaBat800**. A fully assembled battery that can be dropped in without modification.. The battery is shorter than the original cell so the included spacer is required. Sold by [Helder](https://heldergametech.com/shop/batteries/game-boy-advance-sp-megabat800/), [RetroModding](https://www.retromodding.com/products/angry-helders-game-boy-advance-sp-battery), and [ZedLabz](https://www.zedlabz.com/products/replacement-battery-for-nintendo-game-boy-advance-sp-by-helder-800-mah-zedlabz).
+		* **"High Capacity Battery Pack"**. A drop-in battery that fits like OEM. The quality of this battery is better than most aftermarket cells. The capacity has varied, but still is consistently higher than OEM. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-power/products/gba-sp-game-boy-advance-sp-real-750mah-replacement-battery).
+		* **Batteries from other Nintendo consoles** should not be done any longer. There are no new stock of these cells and they are too old to be considered safe and reliable. Only for the sake of documentation, Nintendo DS batteries are the same shape and rating as the SP but with alignment pegs in the wrong place. The pegs may be cut off. DSi batteries are a possible solution, but extensive shell cuts are required. **This is not a recommended mod**. Full drop in batteries with respectable capacities are still manufactured.
+		* **[Batteries added to the top shell](https://www.reddit.com/r/Gameboy/comments/fc3or4/1640mah_gba_sp/)**. This fits two additional cells of different sizes into the top shell in the space gained by using an IPS kit. This method should be done with caution as there is no balance charging of these multiple cells. 
+	* **EXT2/ Charge port replacement**. The EXT2 port on the SP handles charging and headphone audio via a dongle. As the original charger is a nominal 5V, it has become common to replace the port completely with a USB-C port. All mods require a [filler spacer](https://www.printables.com/model/141221-ags-usb-type-c-mod-bezel).
+		* **[rorosaurus](https://github.com/rorosaurus/gba-sp-usb-c)** has an open source design that simply allows for charging. Includes the necessary CC1/CC2 pulldown resistors for USB-C to C cable compatibilty. [[Video Guide]](https://www.youtube.com/watch?v=gBLHvdre-Xg)
+			* Alternatively sold on [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-power/products/gba-sp-game-boy-advance-sp-usb-c-mod) 
+    	* **[Alternate centered version](https://oshpark.com/shared_projects/sET5JmVX)**. This version places the port in a more centered location to the shell opening. Requires manual assembly of the two boards as well as reusing parts of the original port. Follow the instructions and reference on the OSHPark page for ordering. An [alternate filler](https://github.com/nMinhBang/GBA-SP_USB-C/blob/master/GBAUSBC.stl) is required. The filler can be printed by JLCPCB in nylon for a smooth OEM-look.
+    	* **[Giltesa version with analog audio](https://github.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit)**. This version connects the charge and audio lines through to the USB-C port. As the SP does not support the USB-C standard of digital audio output, this board uses the Audio Accessory Mode standard of USB-C. **DAC adapters are not supported** and only passive analog adapters work. As the CC pins for headphone detect are re-used, this **does not support USB-C to C cables**. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-usb-c-mod-with-audio-support). [[Video Guide]](https://www.youtube.com/watch?v=G94K4Pv6rGY)
+
+* **Audio Mods**. A note that applies to all consoles. Amplifiers will amplify noise that is inherent to the system.
+	* **[Internal headphone jack mod](https://github.com/rorosaurus/gba-sp-headphone-jack)**. As the AGS did not have a headphone jack, this can be added back. Please note that there are several methods listed in this repository, some that have a misunderstanding of the DC bias and blocking AGND capacitor. Keep in mind to prevent damage to headphones.
+	* **[Helder SP Flex Amp](https://heldergametech.com/shop/gba/gba-sp-flex-amp/)**. A unique board design that offers 1.5W of output. As there are different board revisions of the AGS/AGT, follow the instructions on the listing for your board revision.
+
+* **Other Mods**
+	* **Shell Replacements**
+		* **Shell Replacments**. The AGS has a complex design that makes manufacturing accurate shells incredibly complex. The typical issues are notable gaps around the body seams or general warping that requires overtightening of screws. In general, solid color shells or replica limited edition shells have these issues and poor quality.
+			* **"IPS Ready" Shells**. These are new mold shells that have the top shell pre-molded to accept IPS screens. These are still compatible with original 001 and 101 screens. Sold at [AliExpress](), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-shells/products/game-boy-advance-sp-ips-ready-housings-shells-no-cut), and [RetroModding](https://www.retromodding.com/collections/game-boy-advance-sp/products/copy-of-copy-of-game-boy-advance-sp-shell). [[Video Guide]](https://www.youtube.com/watch?v=RVD5y8RstsE&t=1762s)
+			* **ExtremeRate** makes a IPS-ready shell with very good tolerances and body seams. The colors are limited and the solid color shells are either soft touch or painted. [Solid Color](https://www.amazon.com/Upgraded-eXtremeRate-Replacement-Housing-Gameboy/dp/B09WMQKS2D) and [Transparent](https://www.amazon.com/Upgraded-eXtremeRate-Emerald-Replacement-Housing/dp/B09XB6QR9Q). [[Video Guide]](https://www.youtube.com/watch?v=61uwKbkGHPI)
+		* **[Makho/RetroCNC SLATE](https://retrogamerepairshop.com/collections/slate)**. A hingless **aluminum** front shell replacement. The end formfactor is similar to a Game Boy Pocket. This mod requires the use of a matching **laminated** IPS kit. The rear shell can be reused from the original console or various aftermarket shells. The design also allows the use of OEM or aftermarket buttons. [[Video Guide]](https://www.youtube.com/watch?v=wLqeFlKbvU8)
+		* **[XIPHER Slab](https://www.thingiverse.com/thing:5022969)**. A fully 3D printable hingeless SP designed to flip the motherboard to have the cartridge removed from the top. A very unique concept and design that requires intermediate level modding skill. This can be FDM and SLA printed. [[Video Guide]](https://www.youtube.com/watch?v=yff5gHApMy0)
+		* **[Boxy Pixel Unhinged](https://www.boxypixel.com/collections/game-boy-advance-sp)**. There are two versions currently available. The design requires the use of mostly Boxy Pixel parts and accessories. The end formfactor is similar to a Game Boy DMG. [[Video Guide]](https://www.youtube.com/watch?v=n3sJBIPn-wo)
+	* **LED Mods**
+		* **[Larvesta GBA SP Flex LED](https://larvesta10.hatenablog.com/entry/GBASP_Flex_LED)**
+		* **[LED Button/Emblem Mod](https://imgur.com/a/dhLK4)**
+		* **[LED Emblem Mod](https://imgur.com/a/JXCUR)**
+	* **"AGS-010"** is an older mod done to AGS-001 SPs to increase the brightness of the front light. [[Written Guide]](https://imgur.com/a/rApGw)
+	* **AGS-101 into a -001** is an older mod to replace the frontlight screen with the AGS-101 backlit screen. A voltage regulator and brightness controller is required to make the system perform as original. This has been largely made obsolete by modern IPS replacements. This mod may also be used with the ["IPS-101"](https://retrogamerepairshop.com/collections/gba-sp-displays/products/gba-sp-game-boy-advance-sp-ags-101-replacement-lcd-panel) clone screen. [[Video Guide]](https://www.youtube.com/watch?v=Z0ttua-EDDk)
+	* **BennVenn NDSL LCD Kit** Update 03/2019. A prototype design for the Nintendo DS Lite lower screen has been worked on. Soon^^TM
+	* **CPU Overclock**. As with other consoles, the clock can be overclocked to speed up slow movement games.
+		* **[InsideGadgets ClkxCtrl](https://shop.insidegadgets.com/product/gba-clockxcontrol/)**. Requires fine soldering and complex wire routing. [[Video Guide]](https://www.youtube.com/watch?v=HP2U07UMuvk)
+		* **Dual Clock Switch Mod**. Using two crystals and a toggle switch to change between them. [Written Guide](https://imgur.com/a/vfyhe)
  
 ## **Game Boy Advance SP Problems**
 
 Don't forget that [the common problems section](index) also has more info, such as failure to power on, speaker issues, or battery issues.
+
+* Replace hinge pins (shell swap) – [Written Guide](https://imgur.com/a/z21z1) or [this thread/video guide](https://www.reddit.com/r/Gameboy/comments/bxzub8/how_to_easily_remove_the_hinges_from_a_gba_sp/)
+    * [Tips on Game Boy [Advance] SP hinge replacement](https://www.reddit.com/r/Gameboy/comments/f6f2z1/tips_on_game_boy_sp_hinge_replacement/)
+    * 3D printable SP Hinge Removal Tool from makho: [Thingiverse](https://www.thingiverse.com/thing:3671526) and [Video](https://youtu.be/wZjhYxQeKxU)
+
+* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gba/gbasp-power-switch/)) 
  
 * One or both shoulder buttons do not work
  
@@ -55,48 +106,3 @@ Don't forget that [the common problems section](index) also has more info, such 
 
   * What is it? The shells of some late model AGS consoles are made with defective plastics that tend to get extremely brittle over time. This issue seems most prevalent with Pearl Blue AGS-101 consoles but may affect Graphite AGS-101 consoles or other late model units. [See this imgur album](https://imgur.com/a/dhfax) for more information. 
   * How do I fix it? Well, unfortunately, there is no currently known fix for this issue. If the console is already broken, you can try to glue it back together but the structural damage to the plastic has already been done and this will likely be temporary at best. The only way to "fix" this is to reshell the console in either a new aftermarket shell or with a salvaged OEM shell from another SP. 
-  
-
-## **Game Boy Advance SP Mods**
-
-Looking for a backlight mod? Why not check out [this guide](../wiki/backlightmods#ags) from /u/Admiral_Butter_Crust on all the different backlight kits for AGS. 
- 
-* AGS-001 increased brightness mod ("AGS-010") and extended life battery – [Written Guide](https://imgur.com/a/5Ptdh)
-
-* Funnyplaying Replacement IPS LCD kit (Funnyplaying v1, based on AGB v2 mod, works on both models of AGS, parts from [Funnyplaying](https://funnyplaying.com/products/gbasp-ips-laminated-display-lcd-kits) – [Video Guide](https://www.youtube.com/watch?v=PH3Pzn24smc)
-
-* One Chip Replacement IPS LCD kit (v1, similar to funnyplaying mod, parts from [RGRS](https://retrogamerepairshop.com/products/game-boy-advance-sp-backlight-mod-kit)) – [Video](https://youtu.be/fR3bml4oqTo)
-
-* Replacement NDSL LCD kit (From BennVenn, smaller than stock, same as AGB kit) – coming soon^^^TM
-
-* AGS-101 LCD (for AGS-001 models, required parts: [a voltage regulator](https://bennvenn.myshopify.com/collections/cheap-stuff/products/backlit-sp-lcd-101-led-driver-board) and, optionally, [a brightness controller.](https://bennvenn.myshopify.com/collections/cheap-stuff/products/digital-backlight-brightness-controller-for-gbc-and-gba-101-lcds?variant=48320644564)) – [Video Guide](https://www.youtube.com/watch?v=Z0ttua-EDDk) (deprecated)
-
-* DSi Battery Mod – [Written Guide](https://imgur.com/a/1KNWp)
-    * A note on these mods, DSi batteries are 12+ years old at this point and aftermarket replacements often lie about the capacity. This was a better mod when Nintendo still sold newly manufactured DSi batteries. Beware. 
-
-* "Makho Battery Mod," a cheap, high capacity (~950mAh), and 100% reversable battery mod – [Youtube](https://www.youtube.com/watch?v=VjnONhSVvpA)
-    * Want to bump it up to 1640mAh? If your console is IPS modded, [there should be room behind the LCD for two more batteries to install in parallel with the original.](https://imgur.com/a/wZgPfAe) You'll need a 303030 and a 303450 sized battery. Put all three batteries in parallel (red to red to + and black to black to - ). Pics from /u/jeeper5150 and [mod](https://www.reddit.com/r/Gameboy/comments/fc3or4/1640mah_gba_sp/) from /u/jeff93063 
-
-* LED Button/Emblem Mod – [Pictures](https://imgur.com/a/dhLK4) and [Video](https://www.youtube.com/watch?v=V8zDdRCFC-o)
-
-* LED Emblem – [Written Guide](https://imgur.com/a/JXCUR)
-
-* Overclock switch – [Written Guide](https://imgur.com/a/vfyhe)
-
-* Install a new shell – [Written Guide](https://imgur.com/a/7iYbx)
-
-* Replace hinge pins (shell swap) – [Written Guide](https://imgur.com/a/z21z1) or [this thread/video guide](https://www.reddit.com/r/Gameboy/comments/bxzub8/how_to_easily_remove_the_hinges_from_a_gba_sp/)
-    * [Tips on Game Boy [Advance] SP hinge replacement](https://www.reddit.com/r/Gameboy/comments/f6f2z1/tips_on_game_boy_sp_hinge_replacement/)
-    * 3D printable SP Hinge Removal Tool from makho: [Thingiverse](https://www.thingiverse.com/thing:3671526) and [Video](https://youtu.be/wZjhYxQeKxU)
-
-* Internal headphone jack mod – [Github repo with multiple installs documented](https://github.com/rorosaurus/gba-sp-headphone-jack)
-	
-* USB Type C Charge Port Mod - [Design files/instructions](https://github.com/rorosaurus/gba-sp-usb-c) - [Purchase (USA)](https://smile.amazon.com/dp/B08L72TZWD) - [Purchase (non-USA)](https://www.tindie.com/products/rorosaurus/usb-c-mod-for-game-boy-advance-sp/)
-    * Alternate (centered) version - [Github repo](https://github.com/nMinhBang/GBA-SP_USB-C)
-    * Audio version (note -- does not support USB C host mode charging): [Github Repo](https://github.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit)
-	
-* Makho/RetroCNC Machined Aluminum replacement shell - [coming soon^tm](https://retro-cnc.com/products/game-boy-advance-sp)
-
-* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gba/gbasp-power-switch/)) 
-	
- 
