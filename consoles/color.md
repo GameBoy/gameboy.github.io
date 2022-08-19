@@ -85,6 +85,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues.
 * **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
 * **[Game Boy Color Schematics and Board Scan](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/)**
+* **Game Boy Color Interactive BOM by [skimzor](https://skimzor.github.io/CGB-IBOM/) based on the CGB-CPU-04**
 
 * **Power Issues** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
 	* **Dirty or damaged power switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
