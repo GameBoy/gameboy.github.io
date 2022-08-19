@@ -50,6 +50,7 @@ Table of Contents:
 Don't forget that the **[common problems section](commonissues)** also has additional information. Common issues such as no-audio or failure to power-on.
 * **[Game Boy Pocket Schematics](https://github.com/Gekkio/gb-schematics/blob/main/MGB-xCPU/schematic/MGB-xCPU.pdf)** and **[Board Scan](https://www.dropbox.com/sh/33886pwfi08kvxg/AABhk8nVWuMBbUJaHSL7lKtQa/NINTENDO/GAMEBOY_DMG_MGB_CGB_SGB)**.
 * **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+* **Game Boy Pocket Interactive BOM by [skimzor](https://skimzor.github.io/CGB-IBOM/)**
 
 * **Power Issues** - Flash carts, backlight kits, amp kits cause the Pocket not to power on
 	* **Dirty or damaged switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean all the oxidation and buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. MGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
