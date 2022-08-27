@@ -89,7 +89,7 @@ Don't forget that [the common problems section](..\wiki\commonissues) also has m
 
 * **Power Issues** - Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. 
 	* **Dirty or damaged power switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
-		* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper clean, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+		* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
 			* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
 			* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
  	* **Burnt Fuses**. A common problem please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
