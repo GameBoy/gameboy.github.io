@@ -37,10 +37,6 @@ Open Game Boy Documentation Project(Has a lot of info on the hardware side of co
 
 GB/GBC Cartridge label template (by HappyCloud): [https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd](https://github.com/GameBoy/Stuff/raw/master/GB_Label_OVERSIZED_43mmx38mm_real_is_42x37.psd)
 
-/r/gameverifying for verifying if your games are genuine [http://reddit.com/r/gameverifying](http://reddit.com/r/gameverifying)
-
-GameVerifying Discord: [https://discord.gg/Pshfpza](https://discord.gg/Pshfpza)
-
 Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 
 # Stores
