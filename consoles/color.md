@@ -21,7 +21,13 @@ Last Content Revision: 2022-06-23
 Table of Contents:
 <!--ts-->
 * [**Game Boy Color Mods**](#mods)
-* [**Common Problems**](#problems)
+	* [Backlight Kits - Summer 2022](#backlight-kits---summer-2022)
+	* [Audio Mods](#audio-mods)
+	* [Battery and Power Mods](#battery-and-power-mods)
+	* [Other Mods](#other-mods)
+* [**Problems**](#problems)
+	* [Power Issues](#power-issues)
+	* [Audio Issues](#audio-issues)
 <!--te-->
 
 # Mods
@@ -29,8 +35,8 @@ Table of Contents:
 ## Backlight Kits - Summer 2022
 Flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below, sorted by desirable features.
 
-*  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
-	*  Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit) [(Shell from RGRS)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell), and [RetroModding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-retro-pixel-ips-with-laminated-lens) [(Shell from RM)](https://www.retromodding.com/collections/game-boy-color/products/funny-playing-game-boy-color-shells-with-logo). 
+* **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
+	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit) [(Shell from RGRS)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell), and [RetroModding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-retro-pixel-ips-with-laminated-lens) [(Shell from RM)](https://www.retromodding.com/collections/game-boy-color/products/funny-playing-game-boy-color-shells-with-logo). 
 
 * **Cloud Game Store 2.6" IPS Kit.** Larger than stock viewing window that requires a matching lens. Shell cutting is required to fit into OEM shells, but a matching shell is available and does not require cutting. Soldering is required for power. brightness control and pixel grid effects are controlled by onboard touch sensor. [[Video Guide]](https://www.youtube.com/watch?v=wYnBbBHx9SY)
 	* Shell note. The matching shell is a smooth, glossy texture, unlike original Nintendo shells or FunnyPlaying shells. Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003769287847.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-color-high-quality-replacement-shell).
