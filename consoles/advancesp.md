@@ -23,7 +23,7 @@ Last Content Revision: 2022-08-27
 
 ## Mods
 
-### **Backlight Kits - Spring 2022**
+### **Backlight Kits - Summer 2022**
 The below list shows only the current or relevant backlight kits for the GBA SP. For a more information visit the [comprehensive guide](..\wiki\backlightmods#ags) from /u/Admiral_Butter_Crust (makho).
 * **FunnyPlaying Laminated IPS Kit.** Laminated 9380 panel with brightness control via the original brightness button. Soldering is required for brightness control. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=amRFG-DqP2w).
 	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-ips-laminated-display-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/funnyplaying-gba-sp-ips-game-boy-advance-sp-backlight-mod), [RetroModding](https://www.retromodding.com/products/game-boy-advance-sp-ips-lcd).
@@ -31,8 +31,16 @@ The below list shows only the current or relevant backlight kits for the GBA SP.
 	* Sold at [AliExpress](https://www.aliexpress.com/item/2251832813397628.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/game-boy-advance-sp-ips-backlight-tv-version-av-out-mod-kit).
 * **Cloud Game Store Laminated IPS Kit.** Laminated custom panel with brightness control, color palette, **pixel grid effects**. Soldering is required for this kit. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=DQT_303eAa0&t=1877s).
 	* Sold at [Cloud Game Store](https://www.aliexpress.com/item/3256802151569181.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/gba-sp-game-boy-advance-sp-backlight-kit-with-colored-lens-options).
+* **Hispeedido HDMI-Out Add-on Board.** Using an additional board held in the top screen shell, this kit allows for micro-HDMI out from the top shell. This requires shell cuts and is only compatible with a specific set of backlight kits.
+	* Sold at [AliExpress](https://www.aliexpress.com/item/3256804448710425.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-hdmi-out-kit?variant=41943098032300). 
 
 * **Shell Note:** For the above kits, IPS-ready shells are available from multiple manufacturers. No shell modifications are required for the IPS panel to fit. [ExtremeRate Clear](https://www.amazon.com/Upgraded-eXtremeRate-Emerald-Replacement-Housing/dp/B09XB6QR9Q), [ExtremeRate Solid Colors](https://www.amazon.com/Upgraded-eXtremeRate-Replacement-Housing-Gameboy/dp/B09WMQKS2D), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-shells/products/game-boy-advance-sp-ips-ready-housings-shells-no-cut), [AliExpress](https://www.aliexpress.com/item/3256802835054431.html).
+
+### Consolizer Mods
+The portable Game Boy Advance SP can be converted to a TV connected console for HD game play. These are considered advanced mods.
+* **GBAHD** from [zwenergy](https://github.com/zwenergy/gbaHD). This project utilizes a Spartan Edge Accelerator FPGA development board and outputs scaled 720p or 1080p image out of the onboard micro-HDMI. The repo lists information for manual wiring.
+	* [Mancloud](https://github.com/gbaHD/GBAHD-Shield) has a shield design that allows for a more streamlined build. A matching shell from [jotheripper](https://www.printables.com/model/145881-gba-sp-case-for-manclouds-gbahd-shield) is also available to print. A complete kit is sold by [Retro Upgrades UK](https://www.retroupgrades.co.uk/product/gbahd-shield/) without the shell.
+* GBHD Advance SP from [GameBox Systems](https://gamebox.systems/product-category/gameboy/). Utilizing a custom FPGA board, this kit can be purchased as a DIY parts kit or fully assembled.
 
 ### Battery and Charge Mods
 * **Replacement Batteries**. Note many replacement batteries have misleading or completely false capacity ratings. Below have been tested and confirmed.
