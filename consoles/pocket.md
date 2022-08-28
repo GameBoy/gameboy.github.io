@@ -15,7 +15,13 @@ Last Content Revision: 2022-06-23
 Table of Contents:
 <!--ts-->
 * [**Game Boy Pocket Mods**](#mods)
+	* [Screen Mods](#backlight-mods---winter-2021)
+	* [Audio Mods](#audio-mods)
+	* [Power Mods](#battery-and-power-mods)
+	* [Other Mods](#other-mods)
 * [**Common Problems**](#problems)
+	* [Power Issues](#power-issues)
+	* [Audio Issues](#audio-issues)
 <!--te-->
   
 # Mods
@@ -42,6 +48,7 @@ Are not substitues for actually cleaning the power switch. However, the mods may
 	* The regulator can be installed as directed, taking note to follow the instructions and disconnecting or cutting the VDD5 output of the original DC-DC. This keeps the VEE power rail in-place so it may continue to operate the original screen. This configuration is preferred for bivert-backlight installations or Funnyplaying IPS installations as the Funnyplaying kit uses the VEE circuit and contrast wheel as a brightness control signal. 
 	* In installations where the VEE circuit is not required, the original DC-DC should be removed completely when installing this regulator. This allows the Pocket to operate only on VDD5 and does not let the original DC-DC operate without a load and remains unregulated.
 * **[Pololu S7V7F5](https://www.pololu.com/product/2119)** is a very common small form factor SMPS voltage regulator. These add-on voltage regulators can be used to power LED backlights so they do not put additional load on the original Pocket DC-DC regulator. Sold at [RetroModding](https://www.retromodding.com/products/5v-game-boy-backlight-voltage-regulator) and other various hobbyist electronics stores. **This should not be installed in parallel on the original DC-DC board.**
+
 ## Other Mods
 * **[NatalieTheNerd LED backlit button kit](https://www.nataliethenerd.com/product-page/gbp-led-boards)**. A neatly designed flex PCB with LEDs placed under each button to back light them in various colors. This adds load to the VDD5 rail, so please take note when installing with other modifications. [[Video Guide]](https://www.youtube.com/watch?v=dJp4c1SbDcI)
 * **Adding LED to non-LED**. This mod requires drilling into the PCB of the Pocket to accomodate the 3mm LED. This mod simply ties the LED to the power switch with a current limiting resistor. [[Image Guide]](https://media.discordapp.net/attachments/332487777986019337/770318606222884914/HoZy_3mmLED.jpg)	
@@ -55,12 +62,25 @@ Don't forget that the **[common problems section](commonissues)** also has addit
 
 ## Power Issues
 Flash carts, backlight kits, amp kits cause the Pocket not to power on
-* **Dirty or damaged switch**. The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. MGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
+* **Dirty or damaged power switch**
+The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. Pocket and Color power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
 	* Typical behavior: Everdrive/EZFlash boot loops with low battery, some IPS kits show no image on startup or turns off before the system on low battery.
+	* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+		* [CGS Replacement](https://www.aliexpress.com/item/3256801447242383.html)
+		* [Helder's Replacement](https://heldergametech.com/shop/gbp/game-boy-pocket-replacement-power-switch/)
+* **Burnt Fuses**
+	* There are several revisions of the Game Boy Pocket motherboard some having one or two fuses. Please refer to the [schematics](https://github.com/Gekkio/gb-schematics/blob/main/MGB-xCPU/schematic/MGB-xCPU.pdf) and the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**. 
+* **Corroded DC Jack**
+	* Like other consoles this may prevent a the console from powering on. Check continuity between Pin 2 and 3 of the DC jack P4. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. These can be desoldered and cleaned. Open circuit on these pins disconnects the battery circuit and switched to DC power only. Replacements are available on [AliExpress](https://www.aliexpress.com/item/3256802576074438.html).
 * **Low battery life after mods**. This is common and especially with IPS kits. The capacity limit of two AAAs can't be worked around. Energy density at this size is difficult to improve without taking on the risk of lithium ion batteries. Typical scenario: Alkaline ~2600mWh, NiMH ~1920mWh, AAA Lithium ~2000mWh, 102045 Lithium ~3300mWh. **Perform these mods at your own risk**.
 * **Lost game saves**. Occassionally game saves become corrupted or lost after playing on modified consoles. The original DC-DC converter on the console has notable voltage sag on startup and can possibly cause the system to draw power from the coin cell of the cartridge. A clean power switch and fully charged batteries should mitigate this issue. Further information from [BennVenn](https://bennvenn.myshopify.com/pages/gameboy-pocket-flash-carts-backlights).
 
 ## Audio Issues
-Refer to the **[common problems section](commonissues)** page for additional information
-* Corrosion in the physical switch in the headphone jack is a common issue. Dead speakers can be replaced as there are OEM-fit aftermarket replacements. BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed. 
-* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+* Corrosion in the physical switch in the headphone jack is a common issue. Check continuity between Pin 4 and 5 of the headphone jack. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. Thse can be desoldered to be cleaned. Open circuit on these pin mutes the speaker. 
+* Dead speakers can be replaced as there are OEM-fit aftermarket replacements. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed.
+	* Replacement speakers are available from FunnyPlaying and Cloud Game Store. FunnyPlaying speakers are clear. Cloud Game Store speakers are available in multiple colors.
+		* [FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) also sold on [RetroModding](https://www.retromodding.com/products/clear-game-boy-color-speaker), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/funnyplaying-clear-game-boy-color-speaker?variant=37728953761964), [Zedlabz](https://www.zedlabz.com/products/internal-speaker-for-nintendo-game-boy-color-console-funnyplaying).
+		* [Cloud Game Store](https://www.aliexpress.com/item/3256803825487636.html) also sold on [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbp-audio/products/high-quality-colored-speakers-for-gbp-gbc).
+	* [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-pocket-capacitor-replacement-set?variant=40705933541548).
+		* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
+* Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. Please refer to the **[Board Scans](https://github.com/Gekkio/gb-schematics/blob/main/MGB-xCPU/schematic/MGB-xCPU.pdf).**
