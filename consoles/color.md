@@ -85,20 +85,21 @@ Don't forget that [the common problems section](..\wiki\commonissues) also has m
 
 ### Power Issues
 Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. **[Troubleshooting Guide](https://cdn.discordapp.com/attachments/332487991383687169/927769085918474290/unknown.png)**
-#### Dirty or damaged power switch
+* **Dirty or damaged power switch**
 The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
-* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
-	* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
-	* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
-#### Burnt Fuses
-* There are two fuses F1 and F2 on the system of the same value. F1 is the main system fuse, F2 is a protection fuse from the DC jack. Please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**. 
-#### Corroded DC Jack
-* Like other consoles this may prevent a the console from powering on. Check continuity between Pin 2 and 3 of the DC jack P4. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. These can be desoldered and cleaned. Open circuit on these pins disconnects the battery circuit and switched to DC power only. Replacements are available on [AliExpress](https://www.aliexpress.com/item/3256802576074438.html).
-### No audio
+	* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+		* [CGS Replacement](https://www.aliexpress.com/item/1005001633557135.html)
+		* [Helder's Replacement](https://www.heldergametech.com/shop/gbc/gbc-gbp-power-switch/)
+* **Burnt Fuses**
+	* There are two fuses F1 and F2 on the system of the same value. F1 is the main system fuse, F2 is a protection fuse from the DC jack. Please refer to the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**. 
+* **Corroded DC Jack**
+	* Like other consoles this may prevent a the console from powering on. Check continuity between Pin 2 and 3 of the DC jack P4. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. These can be desoldered and cleaned. Open circuit on these pins disconnects the battery circuit and switched to DC power only. Replacements are available on [AliExpress](https://www.aliexpress.com/item/3256802576074438.html).
+
+### Audio Issues
 * Corrosion in the physical switch in the headphone jack is a common issue. Check continuity between Pin 4 and 5 of the headphone jack. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. Thse can be desoldered to be cleaned. Open circuit on these pin mutes the speaker. 
 * Dead speakers can be replaced as there are OEM-fit aftermarket replacements. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed.
 	* Replacement speakers are available from FunnyPlaying and Cloud Game Store. FunnyPlaying speakers are clear. Cloud Game Store speakers are available in multiple colors.
-		* [FunnyPlaying] also sold on [RetroModding](), [Retro Game Repair Shop](), [Zedlabz]().
+		* [FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) also sold on [RetroModding](https://www.retromodding.com/products/clear-game-boy-color-speaker), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/funnyplaying-clear-game-boy-color-speaker?variant=37728953761964), [Zedlabz](https://www.zedlabz.com/products/internal-speaker-for-nintendo-game-boy-color-console-funnyplaying).
 		* [Cloud Game Store](https://www.aliexpress.com/item/3256803825487636.html) also sold on [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbp-audio/products/high-quality-colored-speakers-for-gbp-gbc).
 	* [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028). [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) 
 		* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
