@@ -45,7 +45,7 @@ Looking for a backlight mod? Why not check out [this guide](backlightmods#agb) f
 * Funnyplaying 'ITA' NDSi LCD kit ([From FP](https://funnyplaying.com/products/itas-new-agb-tft-backlight-kit), same size as stock) - [Youtube](https://www.youtube.com/watch?v=ZYzEtZ7WUjE)
 
 ## Audio Mods
-Power Cleaners and Amps often cause more issues than they solve. Consider cleaning your power switch instead of installing these mods.
+* Note on "Power Cleaners". These mods from various vendors often result in more issues than they resolve, especially for beginner modders. Consider cleaning the power switch properly, cleaning the volume wheel with contact cleaner, and replacing the capacitors if deemed [faulty](https://console5.com/wiki/Identifying_Bad_Capacitors). These mods should not be considered unless other repairs have been performed first.
 * Speaker upgrade – [Very detailed guide](https://www.ifixit.com/Guide/Game+Boy+Advance+Speakers+Replacement/2004)
 
 * Audio amplifier / loud speaker (parts from [Retromodding](https://www.retromodding.com/collections/gameboy-advance/products/game-boy-advance-audio-amplifier)) – [Image Guide](https://www.retromodding.com/blogs/tutorials/game-boy-advance-audio-amplifier-installation-guide) or [Video Guide / TDNC Review](https://www.youtube.com/watch?v=VIJyj_X38cI)
