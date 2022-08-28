@@ -98,7 +98,7 @@ The Game Boy Advance SP power LED is always RED even on new batteries or LED wil
 	* [Cloud Game Store Replacement](https://www.aliexpress.com/item/3256802256490400.html)
 	* [Helder's Replacement](https://heldergametech.com/shop/gba/gbasp-power-switch/) also sold at [RetroModding](https://www.retromodding.com/products/angry-helders-sp-power-switch) and [ZedLabz](https://www.zedlabz.com/products/replacement-power-switch-for-game-boy-advance-sp-gba-sp-handheld-premium-thin-flex-pcb-mod-zedlabz)
 	
-### Bad Batteries.
+### Bad Batteries
 With a multimeter, check the voltage on the battery, ensuring it is over 3.4 volts. If it is under 3 volts, recycle the battery and purchase a new one. If it is over 3 volts, you likely have another issue but the console will not boot unless the battery is at least 3.4 volts. If you do not have a multimeter, you can try to purchase a new battery but do be aware that the aftermarket cells are usually only 400-700 mAh despite what they may claim. Check the [Mods](#mods) section for further explanation of the list below. 
 * **Mahko Battery**. [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/makho/products/gba-sp-game-boy-advance-sp-rechargeable-850mah-lipo-battery-mod-by-makho), or pre-assembled with a 3D printed frame from [RetroModding](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery)
 * **Helder MegaBat800**. Sold by [Helder](https://heldergametech.com/shop/batteries/game-boy-advance-sp-megabat800/), [RetroModding](https://www.retromodding.com/products/angry-helders-game-boy-advance-sp-battery), and [ZedLabz](https://www.zedlabz.com/products/replacement-battery-for-nintendo-game-boy-advance-sp-by-helder-800-mah-zedlabz).
