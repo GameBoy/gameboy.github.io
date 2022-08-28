@@ -24,9 +24,9 @@ Table of Contents:
 * [**Common Problems**](#problems)
 <!--te-->
 
-## Mods
+# Mods
 
-### Backlight Kits - Summer 2022
+## Backlight Kits - Summer 2022
 Flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below, sorted by desirable features.
 
 *  **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
@@ -47,14 +47,14 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 
 * **Shell Note. ExtremeRate** makes a unique shell that accomodates 3 different screens: OEM, 9380, Q5. These shells have cut points that allow for this versatility. The shells are high quality, but the solid color shells are painted or plated and may possibly fade over time. Sold on Amazon [Clear](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/) and [Solid](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/). [[Video Guide]](https://www.youtube.com/watch?v=E3C0O8729LY).
 
-### Audio Mods
+## Audio Mods
 * **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
 	* [Written guide](http://www.littlesounddj.com/lsd/prosound/) and [Video Guide](https://www.youtube.com/watch?v=TnVVYloUE1k)  
 	* [Helder's alternative wiring](https://imgur.com/a/4lPGhab). This method removes RA2 and joins a set of vias with jumper wires. As there is fine soldering, this mod is considered more difficult. Like the standard Prosound mod, this bridges the volume wheel to the headphone jack and bypasses the onboard amplifier. For best results, the volume wheel should be cleaned out with isopropyl alcohol or contact cleaner.
 * **Amplifiers** are not typically recommended. As with other consoles, amplifiers amplify system noise. If the speaker is not working or low, please refer to [**Common Problems**](#problems).
 	* These are sold by various vendors. [RetroModding](https://www.retromodding.com/products/game-boy-advance-audio-amplifier), [Cloud Game Store](https://www.aliexpress.com/item/1005003592170031.html), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-audio/products/game-boy-color-audio-amp).
 
-### Battery and Power Mods
+## Battery and Power Mods
 * **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. Note that is is based on the [TP4056 and **this does not support play and charge**](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). Caution should be taken with lithium batteries.
 	* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
 	* [Giltesa's USB-C Charging Kit](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
@@ -63,7 +63,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 	* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should **never** be recharged.
 	* [Funnyplaying Rechargable Mod](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-battery-mod?variant=41495870406828). This mod removes components on the GBC board in order to repurpose the DC jack to allow for 5V input to Funnyplaying's custom charge board. This board is **[TP4056 based](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/).** [[Video Guide]](https://www.youtube.com/watch?v=62dikpr2PXQ)
 
-### Other Mods
+## Other Mods
 * **LED Case/button mod.** Add some unique LED lighting to your Game Boy Color.
 	* [Natalie's LED Button boards](https://www.nataliethenerd.com/product-page/gbc-led-boards). Preassembled boards that light up the buttons and replaces the power LED. Very simple installation requiring moderate soldering skills. [Guide](https://www.nataliethenerd.com/gbc-gbp-install-guide-title)
 	* [Funnyplaying RGB LED Button boards](https://retrogamerepairshop.com/products/funnyplaying-game-boy-color-gbc-button-led-kit). Preassembled boards that light up the buttons and and have minimal animations. Very simple installation requiring moderate soldering skills. [[Video Guide]](https://www.youtube.com/watch?v=6aGCXr1hc7w)
@@ -77,13 +77,13 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 * **Boxy Pixel Machined Aluminum Shell.** An all-aluminum replacement shell alternative to the aftermarket plastic shells. Requires moderate modding skills to assemble.
 	*  [Video Guide](https://www.youtube.com/watch?v=TeRV4qI20uA)
 
-## Problems
+# Problems
 Don't forget that [the common problems section](..\wiki\commonissues) also has more info, such as failure to power-on or common audio issues.
 * **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
 * **[Game Boy Color Schematics and Board Scan](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/)**
 * **Game Boy Color Interactive BOM by [skimzor](https://skimzor.github.io/CGB-IBOM/) based on the CGB-CPU-04**
 
-### Power Issues
+## Power Issues
 Aside from dead batteries, these are the most common issues that keep all Game Boys from powering on. **[Troubleshooting Guide](https://cdn.discordapp.com/attachments/332487991383687169/927769085918474290/unknown.png)**
 * **Dirty or damaged power switch**
 The most effective method to clean the power switch is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. CGB power switches have a tricky latch when opening up the shield. [[Video]](https://youtu.be/EVTKBHR0vVw) Cleaning the power switch is the same method as AGB. [[Video]](https://www.youtube.com/watch?v=G946mQCkIQc)
@@ -95,12 +95,12 @@ The most effective method to clean the power switch is to disassemble the switch
 * **Corroded DC Jack**
 	* Like other consoles this may prevent a the console from powering on. Check continuity between Pin 2 and 3 of the DC jack P4. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. These can be desoldered and cleaned. Open circuit on these pins disconnects the battery circuit and switched to DC power only. Replacements are available on [AliExpress](https://www.aliexpress.com/item/3256802576074438.html).
 
-### Audio Issues
+## Audio Issues
 * Corrosion in the physical switch in the headphone jack is a common issue. Check continuity between Pin 4 and 5 of the headphone jack. Pins are numbered on the button side of the console. Poor continuity or high resistance is a sign of a corroded DC jack. Thse can be desoldered to be cleaned. Open circuit on these pin mutes the speaker. 
 * Dead speakers can be replaced as there are OEM-fit aftermarket replacements. For Game Boy Colors,  BennVenn [explains](https://www.facebook.com/BennVennElectronics/posts/2257279161052191) that speakers that go bad are usually a sign that the capacitors should be changed.
 	* Replacement speakers are available from FunnyPlaying and Cloud Game Store. FunnyPlaying speakers are clear. Cloud Game Store speakers are available in multiple colors.
 		* [FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gbc-mgb-speaker) also sold on [RetroModding](https://www.retromodding.com/products/clear-game-boy-color-speaker), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/funnyplaying-clear-game-boy-color-speaker?variant=37728953761964), [Zedlabz](https://www.zedlabz.com/products/internal-speaker-for-nintendo-game-boy-color-console-funnyplaying).
 		* [Cloud Game Store](https://www.aliexpress.com/item/3256803825487636.html) also sold on [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbp-audio/products/high-quality-colored-speakers-for-gbp-gbc).
-	* [[Replacement Capacitors]](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028). [[Video Guide]](https://www.youtube.com/watch?v=hD1J6rPH40E) 
+	* [Replacement Capacitors](https://retrogamerepairshop.com/collections/gbc-power/products/game-boy-color-capacitor-replacement-set?variant=40026558202028). [Video Guide](https://www.youtube.com/watch?v=hD1J6rPH40E) 
 		* Replacement capacitors can also be ordered in bulk. Specs are available in the **[Replacement Parts Sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/)**
 * Corrosion or other liquid damage when neither the jack nor the speaker is bad. Corrosion in the headphone jack area is common and this can cause a broken connection between the headphone jack and the rest of the system. This will manifest in a perfectly working switch when tested with a multimeter but the console will still not work properly. Diagnosis and repair must be done trace by trace by checking both sides of the PCB simultaneously. Please refer to the **[Board Scans](https://nintenfo.github.io/repository/systems/GBC/documentation/schematics/).**
