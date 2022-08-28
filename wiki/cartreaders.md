@@ -13,7 +13,7 @@ If you are reading this list and faced with decision paralysis, the [GBxCart RW 
 
 <img src="https://i.imgur.com/jEb1YDq.png" width="40%" height="40%">
 
-[Full size compatibility chart](https://i.imgur.com/jEb1YDq.png)
+[Full size compatibility chart](https://i.imgur.com/jEb1YDq.png) -- credit to LesserKuma, author of FlashGBX software for the insideGadgets GBX Cart RW
  
 
 ## Game Boy, Game Boy Color, and Game Boy Advance Game Pak devices: 
