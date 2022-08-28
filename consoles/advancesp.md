@@ -56,9 +56,10 @@ The portable Game Boy Advance SP can be converted to a TV connected console for 
 	* **[Giltesa version with analog audio](https://github.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit)**. This version connects the charge and audio lines through to the USB-C port. As the SP does not support the USB-C standard of digital audio output, this board uses the Audio Accessory Mode standard of USB-C. **DAC adapters are not supported** and only passive analog adapters work. As the CC pins for headphone detect are re-used, this **does not support USB-C to C cables**. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-usb-c-mod-with-audio-support). [[Video Guide]](https://www.youtube.com/watch?v=G94K4Pv6rGY)
 
 ## Audio Mods
-A note that applies to all consoles. Amplifiers will amplify noise that is inherent to the system.
+A note that applies to all consoles. Amplifiers will amplify noise that is inherent to the system. 
 * **[Internal headphone jack mod](https://github.com/rorosaurus/gba-sp-headphone-jack)**. As the AGS did not have a headphone jack, this can be added back. Please note that there are several methods listed in this repository, some that have a misunderstanding of the DC bias and blocking AGND capacitor. Keep in mind to prevent damage to headphones.
 * **[Helder SP Flex Amp](https://heldergametech.com/shop/gba/gba-sp-flex-amp/)**. A unique board design that offers 1.5W of output. As there are different board revisions of the AGS/AGT, follow the instructions on the listing for your board revision.
+* Note on **"Power Cleaners"**. These mods from various vendors often result in more issues than they resolve, especially for beginner modders. Consider cleaning the power switch properly, cleaning the volume wheel with contact cleaner, and replacing the capacitors if deemed [faulty](https://console5.com/wiki/Identifying_Bad_Capacitors). These mods should not be considered unless other repairs have been performed first.
 
 ## Other Mods
 * **Shell Replacments**. The AGS has a complex design that makes manufacturing accurate shells incredibly complex. The typical issues are notable gaps around the body seams or general warping that requires overtightening of screws. In general, solid color shells or replica limited edition shells have these issues and poor quality.
