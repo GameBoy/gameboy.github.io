@@ -81,17 +81,19 @@ Some late model AGS and early Nintendo DS consoles were made with defective plas
 
 ### Power Issues
 Charging issues, power on issues, flickering LEDs.
-* **Dirty or damaged power switch.** The Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted.
-	* The most effective method to **clean the power switch** is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. [[Video Guide]](https://www.youtube.com/watch?v=nIz7qbfCQHA)
-	* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
-		* [OEM NOS Replacement](https://retrogamerepairshop.com/products/game-boy-advance-sp-power-switch-oem-new-replacement?variant=39818838278316)
-		* [Cloud Game Store Replacement](https://www.aliexpress.com/item/3256802256490400.html)
-		* [Helder's Replacement](https://heldergametech.com/shop/gba/gbasp-power-switch/) also sold at [RetroModding](https://www.retromodding.com/products/angry-helders-sp-power-switch) and [ZedLabz](https://www.zedlabz.com/products/replacement-power-switch-for-game-boy-advance-sp-gba-sp-handheld-premium-thin-flex-pcb-mod-zedlabz)
+#### Dirty or damaged power switch. 
+The Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted.
+* The most effective method to **clean the power switch** is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. [[Video Guide]](https://www.youtube.com/watch?v=nIz7qbfCQHA)
+* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+	* [OEM NOS Replacement](https://retrogamerepairshop.com/products/game-boy-advance-sp-power-switch-oem-new-replacement?variant=39818838278316)
+	* [Cloud Game Store Replacement](https://www.aliexpress.com/item/3256802256490400.html)
+	* [Helder's Replacement](https://heldergametech.com/shop/gba/gbasp-power-switch/) also sold at [RetroModding](https://www.retromodding.com/products/angry-helders-sp-power-switch) and [ZedLabz](https://www.zedlabz.com/products/replacement-power-switch-for-game-boy-advance-sp-gba-sp-handheld-premium-thin-flex-pcb-mod-zedlabz)
 	
-* **Bad Batteries.** With a multimeter, check the voltage on the battery, ensuring it is over 3.4 volts. If it is under 3 volts, recycle the battery and purchase a new one. If it is over 3 volts, you likely have another issue but the console will not boot unless the battery is at least 3.4 volts. If you do not have a multimeter, you can try to purchase a new battery but do be aware that the aftermarket cells are usually only 400-700 mAh despite what they may claim. Check the [Mods](#mods) section for further explanation of the list below. 
-	* **Mahko Battery**. [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/makho/products/gba-sp-game-boy-advance-sp-rechargeable-850mah-lipo-battery-mod-by-makho), or pre-assembled with a 3D printed frame from [RetroModding](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery)
-	* **Helder MegaBat800**. Sold by [Helder](https://heldergametech.com/shop/batteries/game-boy-advance-sp-megabat800/), [RetroModding](https://www.retromodding.com/products/angry-helders-game-boy-advance-sp-battery), and [ZedLabz](https://www.zedlabz.com/products/replacement-battery-for-nintendo-game-boy-advance-sp-by-helder-800-mah-zedlabz).
-	* **["High Capacity Battery Pack"](https://retrogamerepairshop.com/collections/gba-sp-power/products/gba-sp-game-boy-advance-sp-real-750mah-replacement-battery)**
+#### Bad Batteries.
+With a multimeter, check the voltage on the battery, ensuring it is over 3.4 volts. If it is under 3 volts, recycle the battery and purchase a new one. If it is over 3 volts, you likely have another issue but the console will not boot unless the battery is at least 3.4 volts. If you do not have a multimeter, you can try to purchase a new battery but do be aware that the aftermarket cells are usually only 400-700 mAh despite what they may claim. Check the [Mods](#mods) section for further explanation of the list below. 
+* **Mahko Battery**. [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/makho/products/gba-sp-game-boy-advance-sp-rechargeable-850mah-lipo-battery-mod-by-makho), or pre-assembled with a 3D printed frame from [RetroModding](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery)
+* **Helder MegaBat800**. Sold by [Helder](https://heldergametech.com/shop/batteries/game-boy-advance-sp-megabat800/), [RetroModding](https://www.retromodding.com/products/angry-helders-game-boy-advance-sp-battery), and [ZedLabz](https://www.zedlabz.com/products/replacement-battery-for-nintendo-game-boy-advance-sp-by-helder-800-mah-zedlabz).
+* **["High Capacity Battery Pack"](https://retrogamerepairshop.com/collections/gba-sp-power/products/gba-sp-game-boy-advance-sp-real-750mah-replacement-battery)**
 	
 #### Charging Issues
 When attempting to charge the console, the charge light does not come on at all or only comes on for a second before turning off. Refer to the [schematics](https://github.com/Gekkio/gb-schematics/blob/main/AGS-CPU-11/schematic/AGS-CPU-11.pdf) and the [EXT2 pinout](https://imgur.com/a/4oTrmQ3).
