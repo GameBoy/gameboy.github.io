@@ -12,6 +12,7 @@ This section will go over the various methods available to interface directly wi
 If you are reading this list and faced with decision paralysis, the [GBxCart RW from insideGadgets](https://shop.insidegadgets.com/product/gbxcart-rw/) is widely regarded as the best bang/buck reader for GB. Some other readers have more specific or niche functionality but even those readers come at a premium. 
 
 <img src="https://i.imgur.com/jEb1YDq.png" width="40%" height="40%">
+
 [Full size compatibility chart](https://i.imgur.com/jEb1YDq.png)
  
 
