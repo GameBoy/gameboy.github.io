@@ -16,14 +16,25 @@ Nearly Identical to the original Game Boy Advance SP, the revised 101 model fina
 Table of Contents:
 <!--ts-->
 * [**Mods**](#mods)
+	* [Backlight Kits - Summer 2022](#backlight-kits---summer-2022)
+	* [Consolizer Mods](#consolizer-mods)
+	* [Battery and Charge Mods](#battery-and-charge-mods)
+	* [Audio Mods](#audio-mods)
+	* [Other Mods](#other-mods)
 * [**Common Problems**](#problems)
+	* [Cracked Shell](#cracked-shell)
+	* [Power Issues](#power-issues)
+	* [Bad Batteries](#bad-batteries)
+	* [Charging Issues](#charging-issues)
+	* [Bad Hinges](#bad-hinges)
+	* [Bad Shoulder Buttons](#bad-shoulder-buttons)
 <!--te-->
 
 Last Content Revision: 2022-08-27
 
 # Mods
 
-## **Backlight Kits - Summer 2022**
+## Backlight Kits - Summer 2022
 The below list shows only the current or relevant backlight kits for the GBA SP. For a more information visit the [comprehensive guide](..\wiki\backlightmods#ags) from /u/Admiral_Butter_Crust (makho).
 * **FunnyPlaying Laminated IPS Kit.** Laminated 9380 panel with brightness control via the original brightness button. Soldering is required for brightness control. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=amRFG-DqP2w).
 	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-ips-laminated-display-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/funnyplaying-gba-sp-ips-game-boy-advance-sp-backlight-mod), [RetroModding](https://www.retromodding.com/products/game-boy-advance-sp-ips-lcd).
@@ -118,7 +129,7 @@ When attempting to charge the console, the charge light does not come on at all 
 Note that there are a few revisions of the hinge. Consoles that have latches that are black or white have left/right orientation when installed. Black hinge on the left, white hinge on the right. [[Written Guide]](https://imgur.com/a/z21z1) or [[video guide]](https://www.reddit.com/r/Gameboy/comments/bxzub8/how_to_easily_remove_the_hinges_from_a_gba_sp/)
 * 3D printable hinge removal tool from **[makho](https://www.printables.com/model/141230-gba-sp-himge-removal-tool)**. [[Video Guide]](https://youtu.be/wZjhYxQeKxU)
 
-## Bad shoulder buttons
+## Bad Shoulder Buttons
 The switch componenent on the SP will become dirty or damaged under heavy use.
 * Like the power switch, the internals of the shoulder buttons tend to accumulate build-up and no longer make electrical contact when actuated. The black silicone dome is delicate and can rip when being removed. Proceed with caution.
 * Replacement switches are sold by several vendors. Check the [replacement parts sheet](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/) for options.
