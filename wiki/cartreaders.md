@@ -1,3 +1,8 @@
+<link href="css/zoom.css" rel="stylesheet">
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/zoom.js"></script>
+<script src="js/transition.js"></script>
+
 ---
 layout: wiki
 
@@ -5,6 +10,7 @@ title: Cart Readers
 category: Wiki
 
 ---
+
 Last Revision: 2022-08-27
 
 This section will go over the various methods available to interface directly with Game Boy Game Paks. Cartridge readers are useful as they allow you to back up the ROM and RAM (save data) or restore the RAM of nearly any game. This is useful because some games use a battery for save data retention and when this battery dies or is replaced, the save data will be wiped. With a cartridge reader, you can backup the save before this happens and restore the save after the battery is replaced. All Game Boy and Game Boy Color games that save use battery backed RAM (with two exceptions -- Kirby Tilt 'n' Tumble and Command Master) but [only a handful of Game Boy Advance games use a battery backed save.](https://gbatemp.net/threads/gameboy-advance-gba-games-requiring-batteries.322803/) 
