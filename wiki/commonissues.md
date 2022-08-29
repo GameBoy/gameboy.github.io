@@ -7,7 +7,8 @@ category: Wiki
 ---
 All of these issues are covered in the relevant [console page](../consoles) (most with more info) but this is just a quick document to detail the most common issues.
 
-* Table of Contents
+Table of Contents:
+* TOC
 {:toc}
 
 # Game Pak Problems
@@ -73,9 +74,9 @@ BOBdotEXE sums up these troubleshooting steps nicely](https://www.youtube.com/wa
 
 Bootleg spotting: [Check out this visual guide](gamechecker) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index)
 
-## Common problems
+# Common problems
 
-### Power LED behaves erratically
+## Power LED behaves erratically
 
 **The console's power LED flickers, low battery light comes on early or intermittently, or the console randomly resets** are all issues caused by a dirty or faulty power switch. Dirty or damaged switches can usually be fixed by cleaning out the switch.
 
@@ -84,7 +85,7 @@ The most effective method to clean the power switch is to disassemble the switch
 AGBs exhibit a flickering lower power LED and are the simplest to clean. [Video](https://www.youtube.com/watch?v=G946mQCkIQc)  
 CGBs and MGBs share a similar physical switch body and are opened the same way. Cleaning the power switch is the same method as AGB. [Video](https://youtu.be/EVTKBHR0vVw)
 
-### Game Boy won’t power on
+## Game Boy won’t power on
  
 * On an unmodded console, the most common issue is a **dirty or damaged power switch** and can usually be fixed by cleaning out the switch. See above.
  
@@ -95,7 +96,7 @@ CGBs and MGBs share a similar physical switch body and are opened the same way. 
 * **Bad battery or battery connector** in some models can cause issues. In models that came with rechargeable batteries (AGS and OXY), the battery may need replacement. [AGS](https://www.retromodding.com/products/makho-game-boy-advance-sp-battery) [OXY](https://retrogamerepairshop.com/collections/game-boy-micro/products/game-boy-micro-750mah-high-capacity-replacement-battery-by-makho)
 On alkaline models, the connectors can get dirty or completely corroded. In cases of mild dirt or corrosion, a simple clean with a cotton swap and isopropyl will resolve the issue. In heavier cases of corrosion without physical damage, distilled vinegar and a cotton swab may be used to clean away all the corrosion. Terminals can be desoldered from the console and removed from the case shell to be soaked in vinegar for more severe corrosion. When vinegar is used, isopropyl should be used to wash away the vinegar as it is corrosive and will damage the board. In extreme cases of corrosion and battery leakage, the terminals will be corroded through and require replacement. [DMG](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-dmg-original-high-quality-replacement-battery-contact-terminals) [MGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/gbp-game-boy-pocket-high-quality-replacement-battery-contact-terminals) [MGL/CGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-color-high-quality-replacement-battery-contact-terminals) [AGB](https://retrogamerepairshop.com/collections/cloud-game-store/products/gba-game-boy-advance-high-quality-replacement-battery-contact-terminals)
  
-### Common audio issues
+## Common audio issues
 There are a few potential causes for these:
 
 * Fuzz or static when using headphones is especially noticeable when twisting the plug in the jack. It’s a pretty rare problem but generally easy to fix. Usually the headphone jack becomes dirty or corroded from moisture. Contact cleaners such as [CRC/QD Contact Cleaner](https://www.crcindustries.com/products/qd-174-electronic-cleaner-4-5-wt-oz.html) or [DeoxIT](https://caig.com/deoxit-d-series/) can help clean out the port. For heavier cases, applying the contact cleaner to a cotton swap or pipe cleaner and thoroughly clean out the headphone jack. If corrosion is too severe, it may cause speaker issues as well.
