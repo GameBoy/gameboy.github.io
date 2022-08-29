@@ -7,6 +7,9 @@ category: Wiki
 ---
 All of these issues are covered in the relevant [console page](../consoles) (most with more info) but this is just a quick document to detail the most common issues.
 
+* Table of Contents
+{:toc}
+
 # Game Pak Problems
 This section only really applies to OEM Game Paks and has little bearing on bootleg or aftermarket hardware. [Check out this visual guide](gamechecker/) or even the /r/gameverifying [wiki](https://www.reddit.com/r/gameverifying/wiki/index) to find out how to spot bootleg hardware. 
 

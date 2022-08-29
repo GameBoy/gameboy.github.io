@@ -6,3 +6,5 @@ timezone: Europe/London
 
 sass:
   sass_dir: assets/css/bulma
+
+markdown: kramdown
