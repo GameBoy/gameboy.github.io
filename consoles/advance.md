@@ -66,23 +66,36 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 	* **LED Battery Gauge** for lithium modded consoles. [Youtube](https://www.youtube.com/watch?v=7A705K_WF-E)
 	* **Internal NiMH Charger** uses a unique charge board to charge NiMH batteries while still in the console. [Video Guide](https://www.youtube.com/watch?v=pMQQno4l_vs)
 
-## Other Mods
 
-* Overclock module (GBAccelerator, parts from [Retromodding](https://www.retromodding.com/collections/gameboy-advance/products/gbaccelerator) – [Install guide](https://division-6.com/learn/gbaccelerator/installation-game-boy-advance/)
+## Shell and Other Mods
 
-* Overclock module (**GBA ClockxControl**, parts from [InsideGadgets](https://shop.insidegadgets.com/product/gba-clockxcontrol/)) – currently no install guide for this module but should be similar to above
+* **Aftermarket Shells** These will vary in quality across the market. Only listing quality shells with noteworthy features.
+	* **FunnyPlaying** manufactures near OEM quality shells, buttons, and membranes. Lenses sold by FunnyPlaying are IPS-ready viewing windows. Available in a wide variety of colors. There are currently three molds from FunnyPlaying, original 9380 IPS-ready, 9380 IPS/ITA-ready, laminated. Be sure the shell you are getting matches the backlight kit you are ordering. IPS/ITA-ready shells require a [minor trim](https://cdn.shopifycdn.net/s/files/1/2481/6766/files/1_ce6fd734-08fb-4106-b828-7b845b3ce2d5.jpg) of alignment pins.
+		* Shells sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/agb-ips-coustom-shell), [RetroModding](https://www.retromodding.com/products/funny-playing-game-boy-advance-shells), and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gba/products/funnyplaying-game-boy-advance-ips-ready-housing).
+		* Buttons, membranes and lenses sold at [FunnyPlaying](https://funnyplaying.com/collections/product/) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gba).
+	* **Cloud Game Store** also manufactures near OEM quality shells, buttons, and membranes. Lenses are OEM viewing window and the highest quality reproductions. Their shells are designed for OEM screens and backlight kits that fit in the OEM opening such as their own. Note their shells are glossy and smooth, differing from OEM and other aftermarket shell textures. 
+		* Sold at [AliExpress](https://www.aliexpress.com/item/3256804156198665.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-advance-high-quality-replacement-shell).
+		* Buttons and membranes. Buttons match OEM texture. Sold at [AliExpress](https://www.aliexpress.com/store/1101358503/) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store)
+	* **Boxy Pixel** Aluminum shell with optional aluminum buttons. Designed for 9380 IPS non-laminated kits only. Sold at [Boxy Pixel](https://www.boxypixel.com/collections/game-boy-advance/products/game-boy-advance-aluminum-machined-shell-free-3d-holder-pcb-anodize) [Written Guide](https://www.boxypixel.com/pages/assembly-guide-backlight-your-game-boy-advance)
 
-* Boxy Pixel aluminum shell ([parts](https://www.boxypixel.com/collections/game-boy-advance/products/game-boy-advance-aluminum-machined-shell-free-3d-holder-pcb-anodize)) – [AGB-101 or FIPS Picture Guide](https://www.boxypixel.com/pages/assembly-guide-backlight-your-game-boy-advance)
+* **Consolized Game Boy Advance** Various methods to turn your GBA into a TV game console. Intermediate to advance modding skill may be required.
+	* [Gamebox Systems GBHD Advance](https://gamebox.systems/product/gbhd-advance-fully-assembled/) Sold as an assembled console or parts for assembly. Enclosure is FDM 3D printed. Uses SNES and SNES compatible controllers.
+	* [Woozle GBA Consolizer](https://www.game-tech.us/product/gbaconsolizer-full-case-2/) Sold as an assembled console or parts for self assembly. Enclosure is FDM 3D printed. Uses SNES and SNES compatible controllers.
+	* [zwenergy GBAHD](https://github.com/zwenergy/gbaHD) Complete self assembly and self provided enclosure. Code for the Spartan Edge Accelerator FGPA development board is provided.
+		* [Mancloud](https://github.com/gbaHD/GBAHD-Shield) has several variations for this project to include a custom shield with added features. Kits are sold by [Retro Upgrades UK](https://www.retroupgrades.co.uk/product/gbahd-shield/). Shell designs are availabe from [jotheripper](https://www.printables.com/model/145881-gba-sp-case-for-manclouds-gbahd-shield)
+		* [Zekfoo](https://github.com/Zekfoo/gbaHD-AIO-Shield) has a unique all-in-one approach for the project that requires transplanting the CPU, cart slot and other components from a GBA PCB onto a custom shield for the Spartan Edge Accelerator. [Laser Bear](https://www.laserbear.net/products/gbahd-aio-shell) has a custom shell for this project.
+	* For the above projects, InsideGadgets produces a [Wireless RX](https://shop.insidegadgets.com/product/wireless-gameboy-controller/) board that recieves inpues from their TX Carts. This allows the console to recieve inputs from another Game Boy Advance.
 
-* VGA out (parts from [InsideGadgets](https://shop.insidegadgets.com/product/advancevga/)) – Picture guide is linked in "Installation" tab of product page
+* **Video Out** Various methods of getting video out from the GBA. Differs from consolizers as they are battery powered.
+	* **OC HDMI out kit with dock** A convoluted setup with various parts to make a HDMI out capable console and a dock that allows for SNES-compatible controls. Video Guide for the [HDMI out](https://www.youtube.com/watch?v=cuqqzCpvwaM) and [dock](https://www.youtube.com/watch?v=GyT1_UnoCAI).
+		* HDMI kit sold at [Aliexpress](https://www.aliexpress.com/item/3256803383361457.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-hdmi-out-mod?pr_prod_strat=copurchase&pr_rec_id=7fbb19e86&pr_rec_pid=7075857039532).
+		* Dock sold at [Aliexpress](https://www.aliexpress.com/item/3256804319927157.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-gba-station-dock-type-c?variant=41839442493612).
+	* [OC TV out IPS kit](https://www.aliexpress.com/item/3256802390604376.html) A unique 9380 IPS kit with a special link cable that allows for composite out from the Game Boy Advance. 
+	* [InsideGadgets VGA out](https://shop.insidegadgets.com/product/advancevga/) May come in an out of stock due to demand and chip supply.
 
-* HDMI out (**Woozle's Consolizer**, parts from [GameTech](https://www.game-tech.us/product/gba-consolizer/)) – [Video Guide (LONG)](https://youtu.be/_TxVRt-11B0)
-
-* HDMI out (**gbaHD** from zwenergy) - [Text Guide from Mogi_codemasterv](https://www.reddit.com/r/Gameboy/comments/kzgrjw/full_guide_gbahd_build/)
-
-* Micro HDMI out (OC internal MITM LCD board, available soon) – [Video Guide (LONG)](https://www.youtube.com/watch?v=cuqqzCpvwaM)
-
-* Helder's replacement custom power switch (parts from [Helder's site](https://www.heldergametech.com/shop/gba/gba-power-switch/))
+* **Overclock module** will increase the clock speed of the console thus speeding up games. Useful for slower RPGs. 
+	* GBAccelerator sold at [Retromodding](https://www.retromodding.com/collections/gameboy-advance/products/gbaccelerator). [Written Guide](https://division-6.com/learn/gbaccelerator/installation-game-boy-advance/)
+	* [GBA ClockxControl](https://shop.insidegadgets.com/product/gba-clockxcontrol/) from InsideGadgets. [Video Guide](https://www.youtube.com/watch?v=HP2U07UMuvk
 
 # Problems
 
@@ -99,7 +112,7 @@ Power LED is always red, even on new batteries or LED will flicker / will restar
 * What is it? Both of these issues are usually caused by the same problem. The power switch on the console tends to accumulate dirt and gunk and will make poor contact. This will result in your Game Boy getting worse battery life and it will significantly decrease the reliability.
 * How do I fix it? You'll need to clean or replace the power switch. Please see the "Common Problems" section for more info.
   
-## Original screen or AGS-101 LCD colors are washed out	
+## Original screen or AGS-101 LCD colors are washed out
   
 * What is it? OEM Game Boy screens (all of them, including the Micro) must be calibrated to the console by adjusting the trimpot on the motherboard.
 * How do I fix it? Remove the rear cover or the sticker directly adjacent the battery cover and right next to the cart slot, you should see a small trimpot that looks like a large cross head screw. Adjust that slowly and check to see if the image on screen improves. The trimpot is very delicate and highly succeptible to damage so extreme care must be taken. GO SLOW. If you have access to a flash cart, running the "AGS AGING" ROM (search on TCRF) will make things significantly easier. Nintendo has an internal test tool that can be loaded and one of the images displayed by the tool will cause the LCD to flicker if it is not calibrated. [Simply display this image on screen and adjust the trim pot until the image stops flickering.](https://imgur.com/ttIFmOw) Note that this does NOT apply to any IPS kits that include their own LCD power regulators. This only applies to OEM screens and mods that use OEM screens. 
