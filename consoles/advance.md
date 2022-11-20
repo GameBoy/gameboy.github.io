@@ -95,7 +95,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 
 * **Overclock module** will increase the clock speed of the console thus speeding up games. Useful for slower RPGs. 
 	* GBAccelerator sold at [Retromodding](https://www.retromodding.com/collections/gameboy-advance/products/gbaccelerator). [Written Guide](https://division-6.com/learn/gbaccelerator/installation-game-boy-advance/)
-	* [GBA ClockxControl](https://shop.insidegadgets.com/product/gba-clockxcontrol/) from InsideGadgets. [Video Guide](https://www.youtube.com/watch?v=HP2U07UMuvk
+	* [GBA ClockxControl](https://shop.insidegadgets.com/product/gba-clockxcontrol/) from InsideGadgets. [Video Guide](https://www.youtube.com/watch?v=HP2U07UMuvk)
 
 # Problems
 
