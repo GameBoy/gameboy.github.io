@@ -372,29 +372,32 @@ I could leave this section empty because the GBA SP already comes in both frontl
 
 For the actual kit stuffs, I like the Funnyplaying SP IPS kits (item #5) because the 9380 LCDs just look that good, especially when fully laminated. A unique feature of a newer kit is TV Out functionality that makes option #11, the One Chip Tv Version kit, really compelling, but only if using the GBA on a TV via composite out sounds appealing to you. As the LCDs in 'one chip' kits are not fully laminated, the quality is not as good as it can be. If you're not a fan of the Tv Out function, the OC 2 in 1 kit (#10) is also pretty compelling as it's basically the TV version kit but without the TV Out feature and for quite a bit cheaper. I also like just (clean) stock AGS-001s as direct sunlight performance is second to none and nighttime performance is not blinding either. Not to mention the battery life is much higher before adding an IPS kit. I think the AGS-101 consoles are highly over-rated ([what is the difference between AGS-101 and AGS-001?](https://www.youtube.com/watch?v=y-AgJgo_A8s)). All of the kits have some downsides but between price and performance and availability, I like the Funnyplaying IPS kit.
 
+Note that nearly all SP kits come with the lens laminated to the LCD which means that using the included lens is largely mandatory.
+
 |Cat 3 / Current AGS Kits						|Full Size (3.0")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |3. Fake AGS-101 IPS LCD						|Yes				|No			|Required\*		|No			|2x					|No			|No				|Some\*					|No|
-|5. Funnyplaying 9380 IPS kit (AGS v1)			|Slightly Larger	|Recommended|Recommended	|Yes		|2x					|No			|No				|Button Control			|No|
-|6. Funnyplaying SP 'ITA' Kit					|Yes				|No			|Unk			|Yes\*		|1x					|Yes		|Unk			|Unk					|No|
-|7. Funnyplaying 'Drop In' Kit					|Unk 				|Unk 		|Unk 			|Unk		|Unk				|Unk		|Unk			|Unk					|No|
-|10. "One chip" 9380 IPS "2 in 1"				|Slightly Larger	|Recommended|No				|Yes		|2x					|No			|Yes			|Button or Touch		|No|
-|11. "One chip" 9380 IPS "TV Version"			|Slightly Larger	|Recommended|Yes			|Yes		|2x					|No			|Yes			|Button or Touch		|No|
+|5. Funnyplaying 9380 IPS kit (AGS v1)			|Slightly Larger	|Included	|Recommended	|Yes		|2x					|No			|No				|Button Control			|No|
+|6. Funnyplaying SP 'ITA' Kit					|Yes				|Included	|Unk			|Yes\*		|1x					|Yes		|Unk			|Unk					|No|
+|7. Funnyplaying 3.0 IPS Kit					|Yes 				|Included	|Recommended	|Unk		|No					|Optional	|Yes			|Unk					|No|
+|10. "One chip" 9380 IPS "2 in 1"				|Slightly Larger	|Included	|No				|Yes		|2x					|No			|Yes			|Button or Touch		|No|
+|11. "One chip" 9380 IPS "TV Version"			|Slightly Larger	|Included	|Yes			|Yes		|2x					|No			|Yes			|Button or Touch		|No|
 
 
 |Cat 1 (Obsolete) AGS Kits						|Full Size (3.0")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |4. Funnyplaying 9380 IPS kit (AGB v1)			|Slightly Larger	|Recommended|Recommended	|Yes		|2x					|No			|No				|Button Control		|Major Frame Tearing|
-|8. "One chip" 9380 IPS v1						|Slightly Larger	|Recommended|Recommended	|Yes		|2x					|No			|No				|Button Control		|Frame Dropping|
-|9. "One chip" 9380 IPS v2						|Slightly Larger	|Recommended|Recommended	|Yes		|2x					|No			|No				|Button Control			|No|
+|8. "One chip" 9380 IPS v1						|Slightly Larger	|Included	|Recommended	|Yes		|2x					|No			|No				|Button Control		|Frame Dropping|
+|9. "One chip" 9380 IPS v2						|Slightly Larger	|Included	|Recommended	|Yes		|2x					|No			|No				|Button Control			|No|
 |14. insideGadgets Micro TFT adapter			|Much Smaller		|Recommended|No				|No			|1x					|No			|No				|No						|No|
 
 |Cat 2 (Outdated) AGS Kits						|Full Size (3.0")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
 |1. AGB 32P Screen								|Yes				|No			|No				|No			|1x					|Yes		|No				|No light to adjust		|No|
 |2. AGS-101 TFT mod								|Yes				|No			|Required		|No			|1x					|Yes		|No				|Some					|No|
-|12. CGS IPS Kit								|Yes*				|Recommended|No				|Yes		|2x					|No			|No				|Button Control			|No|
+|12. CGS IPS Kit								|Yes*				|Included\*	|No				|Yes		|2x					|No			|No				|Button Control			|No|
 
+\* The CGS IPS kit comes in a laminated and non-laminated variant. I do not recommend using the non-laminated variant unless you intend to have a custom lens made. 
 
 **Current Kits** -- Can't go wrong with any of these options
 
@@ -405,9 +408,9 @@ For the actual kit stuffs, I like the Funnyplaying SP IPS kits (item #5) because
   * Update July 2022 -- Funnyplaying had new 9380s made and is now shipping another variant of newly manufactured LG LCDs. Quality is consistent with the newly manufactured LG LCDs that one chip is using. Again, YMMV depending on the age of the stock from your specific retailer though. 
   * 'IPS Ready' GBA SP shells work great with this kit and prevent the need to trim your OEM shell if you don't mind reshelling your SP. The upcoming funnyplaying SP shells should work too. 
 
-**\#6. Funnyplaying SP 'ITA' Kit** -- Like the GBA version, this is uses a DSi LCD for the backlight kit. The actual kits are not out yet (coming soon though) but if you want to jury rig something together, the GBA 'ITA' kit should work just fine with the passive adapter mentioned below (same one I used to put the GBA 9380 v1 kit in a SP). Unlike the GBA kit version though, this version should be fully laminated to a glass lens. This is a placeholder for now. Kit will be launched alongside funnyplaying's custom GBA SP shells, also coming soon 
+**\#6. Funnyplaying SP 'ITA' Kit** -- Like the GBA version, this is uses a DSi LCD for the backlight kit. The actual kits are not out yet (coming soon though) but if you want to jury rig something together, the GBA 'ITA' kit should work just fine with the passive adapter mentioned below (same one I used to put the GBA 9380 v1 kit in a SP). Unlike the GBA kit version though, this version should be fully laminated to a glass lens and will use the top LCD out of a DSi instead of the bottom LCD. This is a placeholder for now. ~~Kit will be launched alongside funnyplaying's custom GBA SP shells, also coming soon.~~ SP shells are out but ITA kit yet to release. Perhaps soon? 
 
-**\#7. Funnyplaying 'Drop In' Kit** -- I have no idea if the GBA 'Drop In' kit that funnyplaying is currently working on will be made for the SP too but just in case, here's a placeholder. 
+**\#7. Funnyplaying 3.0 IPS Kit** -- The "3.0" in the name refers to the size of the LCD. It's NOT "v3". ~~I have no idea if the GBA 'Drop In' kit that funnyplaying is currently working on will be made for the SP too but just in case, here's a placeholder.~~ This kit has launched alongside the Funnyplaying SP housings. I have one on the way but I expect it to be very similar to the AGB version. The LCD itself should be identical to the AGB version though it appears to use a slightly different ribbon cable connector with the positioning slightly different. I'm told that this version (and the AGB versions made going forward) should be feature complete and the "FRM" menu option should now be functional. We'll see. 
 
 **\#10. "One chip" 9380 IPS "2 in 1" ([kit](https://i.imgur.com/f3fUyf5.jpg))** -- This is the exact same kit as the AGB "2 in 1" version (hence the name) but with an AGS ribbon cable (34 pin) and a laminated LCD. The "2 in 1" versions of this kit may ship with [either a toppoly LCD or newly manufactured LG LCD, depending on the age of the stock.](https://youtu.be/Le97takF6Lk) The LCDs in this kit are pre-adhered to the lens but are not laminated (OCA) like the funnyplaying kits. All three LCDs are direct replacements for eachother and may be freely swapped. Install and performance are actually pretty damn similar to the funnyplaying version. Both kits will show some flickering sprites in some games and both kits even have that odd image retention on NES games. However, it looks like the frame dropping issue has been resolved on this version (from v1) and [a new color palette/filter feature](https://imgur.com/a/wYgLPUt) has been introduced. This kit comes with both wired control support and touch sensor control support for solderless installs. Unlike the funnyplaying version, this kit will store the last used brightness level and color filter and restore that next time you boot it up. If you have a choice, I think the funnyplaying version is the better buy for now but this kit is not a bad option either. (see [my install here](https://youtu.be/4gL-f7mTw5I))
   * This is the kit used for the Slate mod but with some minor changes. We have a different lens pre-applied to the LCD, the LCD itself is fully laminated (newly manufactured LG, not old stock and definitely not Toppoly), and the button controls from the AGB firmware have been enabled for GBA SP. Color palette functionality has been removed at the firmware level. 
@@ -523,3 +526,5 @@ edit 2022-09-02: Revised AGB GANi kit entry and added blurb about the dock
 edit 2022-11-09: Added (filled out placeholder) entry for Funnyplaying Laminated 3.0 IPS kit, added a few updates for Cloud Game Store GBC kits 
 
 edit 2022-11-10: Corrected FP AGB 3.0 IPS link 
+
+edit 2022-12-27: minor content revisions to the SP section to correct info on FP ITA and 3.0 IPS kits and to update quick ref chart
