@@ -16,12 +16,12 @@ The Game Boy Color was the first major hardware revision to the Game Boy line, w
 |Left|Blue|Dark Blue|Grayscale|
 |Right|Green|Dark Green|Inverted|
 
-Last Content Revision: 2022-06-23
+Last Content Revision: 2023-01-11
 
 Table of Contents:
 <!--ts-->
 * [**Game Boy Color Mods**](#mods)
-	* [Backlight Kits - Summer 2022](#backlight-kits---summer-2022)
+	* [Backlight Kits - Winter 2022](#backlight-kits---winter-2022)
 	* [Audio Mods](#audio-mods)
 	* [Battery and Power Mods](#battery-and-power-mods)
 	* [Other Mods](#other-mods)
@@ -32,26 +32,28 @@ Table of Contents:
 
 # Mods
 
-## Backlight Kits - Summer 2022
+## Backlight Kits - Winter 2022
 Flustered by this backlight list? Why not check out [this more comprehensive guide](..\wiki\backlightmods#cgb) from /u/Admiral_Butter_Crust on all the different backlight kits for CGB. Only current or relevant backlight kits are listed below, sorted by desirable features.
 
-* **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
+* **FunnyPlaying Game Boy Color 2.0 Q5 IPS Laminated IPS Kit.** Larger than stock viewing window using a custom **laminated** Q5 LCD panel. Requires a matching [FunnyPlaying shell](https://funnyplaying.com/collections/product/products/cgb-retro-pixel-laminated-coustom-shell) or extensive shell cuts to fit. Soldering is not currently required on kits sold after Summer 2022. However soldering is required for higher brightness and logo color control. [[Video Guide]](https://www.youtube.com/watch?v=o9NvRFPqGLI)
 	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbc-retro-pixel-ips-lcd-kit-1), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-2-0-q5-ips-laminated-backlight-kit) [(Shell from RGRS)](https://retrogamerepairshop.com/collections/funnyplaying-gbc/products/funnyplaying-game-boy-color-game-q5-ips-ready-shell), and [RetroModding](https://www.retromodding.com/collections/game-boy-color/products/game-boy-color-retro-pixel-ips-with-laminated-lens) [(Shell from RM)](https://www.retromodding.com/collections/game-boy-color/products/funny-playing-game-boy-color-shells-with-logo). 
 
-* **Cloud Game Store 2.6" IPS Kit.** Larger than stock viewing window that requires a matching lens. Shell cutting is required to fit into OEM shells, but a matching shell is available and does not require cutting. Soldering is required for power. brightness control and pixel grid effects are controlled by onboard touch sensor. [[Video Guide]](https://www.youtube.com/watch?v=wYnBbBHx9SY)
+* **Cloud Game Store 2.6" IPS Kit.** Larger than stock viewing window that requires a matching lens. Shell cutting is required to fit into OEM shells, but a matching shell is available and does not require cutting. Soldering is required for power. Brightness control and pixel grid effects are controlled by onboard touch sensor. [[Video Guide]](https://www.youtube.com/watch?v=wYnBbBHx9SY)
 	* Shell note. The matching shell is a smooth, glossy texture, unlike original Nintendo shells or FunnyPlaying shells. Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003769287847.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/cloud-game-store/products/game-boy-color-high-quality-replacement-shell).
 	* IPS kit sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003797293674.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-6-ips-backlight-lcd-kit).
-	* A new laminated version with a matching shell is currently available. [Cloud Game Store](https://www.aliexpress.com/item/3256803778273625.html)
+	* A new **laminated** version with a matching shell is currently available. Currently only available in one lens color and two shell colors. [Cloud Game Store](https://www.aliexpress.com/item/3256803778273625.html)
 
 * **One Chip OSD Q5 IPS Kit.** Larger than stock viewing window using the Q5 LCD panel and includes lens with larger viewing window. Required shell cuts identical to the FunnyPlaying Q5 XL kit. Soldering is required for the OSD controls. OSD allows for vertical and horizontal alignment, allowing less than perfect shell cuts to recenter image.
 	* Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/game-boy-color/products/game-boy-color-q5-ips-backlight-with-osd) and [AliExpress](https://www.aliexpress.com/item/1005001836773840.html).
 	* 3D printed centering brackets are available from [Retro Modding](https://www.thingiverse.com/thing:4788780).  [[Video Guide]](https://youtu.be/6u5ol_wDfp0)
-	* A new version with HDMI out has been released. Soldering is required and shell modifications are required. Sold at [AliExpress](https://www.aliexpress.com/item/3256803144683433.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-ips-backlight-tv-version-hdmi-out-mod-1). [[Video Guide]](https://www.youtube.com/watch?v=Q7yilPpq5ag)
+	* A new version **with HDMI** out has been released. Soldering is required and shell modifications are required. Sold at [AliExpress](https://www.aliexpress.com/item/3256803144683433.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gbc-displays/products/game-boy-color-ips-backlight-tv-version-hdmi-out-mod-1). [[Video Guide]](https://www.youtube.com/watch?v=Q7yilPpq5ag)
 
 * **Cloud Game Store 2.45" kit** TN panel that retains the original viewing window. Requires no shell cuts and fits in the original screen opening. Requires one soldering point for power. Brightness and pixel grid effect are controlled by onboard touch sensor. Superior to the 690 TFT kit as it retains the original viewing window and easier to align. [[Video Guide]](https://www.youtube.com/watch?v=jfWIQ6S8efY)
 	* Sold at [Cloud Game Store](https://www.aliexpress.com/item/1005003963450304.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-45-drop-in-backlight-lcd-kit).
+	* A **laminated** version of this kit is currently available and requires shell cutting. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-color-2-45-laminated-backlight-lcd-kit)
 
-* **Shell Note. ExtremeRate** makes a unique shell that accomodates 3 different screens: OEM, 9380, Q5. These shells have cut points that allow for this versatility. The shells are high quality, but the solid color shells are painted or plated and may possibly fade over time. Sold on Amazon [Clear](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/) and [Solid](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/). [[Video Guide]](https://www.youtube.com/watch?v=E3C0O8729LY).
+* **Shell Note. ExtremeRate** makes a unique shell that accomodates 3 different screens: **OEM, 9380, Q5**. Shells are not compatible with any laminated kit without shell cuts. These shells have cut points that allow for this versatility. The shells are high quality, but the solid color shells are painted or plated and may possibly fade over time. Sold on Amazon [Clear](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/) and [Solid](https://www.amazon.com/Upgraded-eXtremeRate-Chameleon-Replacement-Housing/dp/B092LRS5C4/). [[Video Guide]](https://www.youtube.com/watch?v=E3C0O8729LY).
+* **
 
 ## Audio Mods
 * **Prosound.** A common mod to improve the sound quality from the Game Boy Color headphone jack. This mod requires on a clean volume wheel for optimal results.
@@ -63,7 +65,7 @@ Flustered by this backlight list? Why not check out [this more comprehensive gui
 ## Battery and Power Mods
 * **USB rechargeable batteries.** Adding a modern necessity to a classic console. Longer battery life is not guaranteed, but adds some convenience. Note that is is based on the [TP4056 and **this does not support play and charge**](https://www.reddit.com/r/Gameboy/comments/ouq5by/psa_do_not_use_tp4056based_chargers_to_liion/). Caution should be taken with lithium batteries.
 	* [Video guide](https://www.youtube.com/watch?v=tGUx15ZgTeQ). Caution should be taken with the TP4056 module and lithium batteries. This mod requires significant shell cuts. Requires moderate soldering skills and electronics understanding. TP4056 modules are available with Type-C connectors.
-	* [Giltesa's USB-C Charging Kit](https://giltesa.com/en/2020/12/17/game-boy-color-usb-c-charging-kit). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
+	* [Giltesa's USB-C Charging Kit Pro](https://github.com/giltesa/Game-Boy-Color-USB-C-Charging-Kit-Pro). A very tidy custom TP4056 charge board that replaces the DC jack with a custom USB-C port. This kit removes and replaces the original DC-DC board and not compatible with OEM screens. A battery is not included and can be sized based on the cut of the battery compartment. Moderate cutting can accept a 103050 battery with about 1600mah capacity. Requires high soldering skills with fine case mods. [[Video Guide]](https://www.youtube.com/watch?v=rA7ej-SSbvo)
 * **DC jack rechargeable batteries.** Keeping the classic ports and feel but adding a modern twist. Requires caution as the board and batteries generate heat.
 	* [Written Guide](https://imgur.com/a/6VTvh). An advanced method of charging specific lithium batteries in a Game Boy Color. Caution should be taken. Requires shell modification, high level soldering skills, and moderate electronics understanding.
 	* [Esotericsean's Alternative NiMH method](https://www.youtube.com/watch?v=glz8QctjjtY). Using a different charge controller and standard NiMHs, a safer method is achieved to charge standard NiMH batteries. Alkalines should **never** be recharged.
