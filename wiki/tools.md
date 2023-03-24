@@ -76,7 +76,7 @@ Quick summary of affordable irons suitable for enthusiasts:
      - Internals may vary so it's difficult to guarantee that the item you will receive is of the same quality
      - Tips widely and cheaply available - e.g. [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=t12+tip)
  - [Miniware TS-100](https://retrogamerepairshop.com/collections/soldering/products/miniware-ts100-digital-oled-programable-interface-bc2-ku-two-tips-soldering-iron-dc5525-1) - ~$70
-     - Does not include power supply - you will need to purchase one in addition, but a laptop power supply offering 12-24V with a 5.5mm barrel jack will work.
+     - Does not include power supply - you will need to purchase one in addition, but a laptop power supply offering 12-24V with a 5.5x2.5mm barrel jack will work.
      - Has a wide range of tips available affordably - available on [AliExpress](https://www.aliexpress.com/wholesale?SearchText=ts100+tip) or [RGRS](https://retrogamerepairshop.com/products/ts100-soldering-iron-tips)
  - [Pinecil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - $25 / $35 @ [Amazon](https://www.amazon.com/PINECIL-Smart-Mini-Portable-Soldering/dp/B096X6SG13)
      - Currently pre-retail release via Pinecil site; as such may not ship to all countries and warranty is limited to 30 days. Buying from Amazon instead may help with logistics; if warranty is a concern, wait for full release or purchase a different iron
