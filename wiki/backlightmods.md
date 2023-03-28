@@ -391,10 +391,12 @@ Note that nearly all SP kits come with the lens laminated to the LCD which means
 
 |Cat 3 / Current AGS Kits						|Full Size (3.0")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+|0. OC HDMI Interposer							|N/A				|N/A		|Yes			|Yes		|3x\*				|No			|No				|No						|No|
 |12. Funnyplaying SP 'ITA' Kit					|Yes				|Included	|Yes\*			|No\*		|1x					|Yes		|Yes			|Button					|FRM|
 |13. Funnyplaying 3.0 IPS Kit					|Yes 				|Included	|Recommended	|Unk		|No					|Optional	|Yes			|Unk					|FRM|
 |26. "One chip" 720*480	OSD						|Yes				|Included	|No				|No			|3x					|Optional	|Yes			|Button or Touch		|No\*|
 |17. CGS IPS Kit (2022 Version)					|Yes*				|Included\*	|Unk.			|Unk.		|Unk.				|Optional	|Unk.			|Unk					|FRM|
+|8. Retrosix 'CleanScreen' TFT LCD				|No (2.9")			|No\*		|Recommended	|No			|2x					|Optional	|LUTs			|Button					|No|
 
 |Cat 1 (Obsolete) AGS Kits						|Full Size (3.0")	|Custom Lens|Soldering		|Cutting	|Integer Scaling	|Pixel Grid	|Color Palettes	|Adjustable Brightness	|Stuttering or Tearing|
 :--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
