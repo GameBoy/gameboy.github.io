@@ -17,7 +17,7 @@ Table of Contents:
 * TOC
 {:toc}
 
-Last Content Revision: 2022-08-27
+Last Content Revision: 2023-04
 
 # Mods
 
@@ -54,7 +54,7 @@ The portable Game Boy Advance SP can be converted to a TV connected console for 
 	* **Giltesa USB-C Charge and Audio Mod**. There are two versions of this mod; a standard version and a centered version. Both are electrically the same, but the centered version offers extra clearance for shell mods such as the Slate.
 		* Standard version sold at [Giltesa](https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit/), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-usb-c-mod-with-audio-support), [Zedlabs](https://www.zedlabz.com/products/usb-c-charging-board-mod-for-nintendo-game-boy-advance-sp-with-audio-support-giltesa). [[Video Guide]](https://www.youtube.com/watch?v=e_Pdkdgis8E)
 		* Centered version sold at [Giltesa](https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit-centered/), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/giltesa-game-boy-advance-sp-usb-c-centered-mod). [[Video Guide]](https://www.youtube.com/watch?v=PKm9SWTC8MQ)
-	* **FunnyPlaying USB-C Charge and Audio Mod**. This is a centered-port mod with a color matched shell insert to FunnyPlaying's shell colors.
+	* **FunnyPlaying USB-C Charge and Audio Mod**. This is a centered-port mod with a color matched shell insert to FunnyPlaying's shell colors. [[Video Guide]](https://www.youtube.com/watch?v=oWyz4A_g5pU)
 		* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-usb-c-w-audio-mod), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-power/products/funnyplaying-game-boy-advance-sp-usb-c-w-audio-mod).
 	* **Analog Audio USB-C adapters** are required for both Giltesa and FunnyPlaying versions of the mod. The AGS does not output digital audio, and the ports use an alternate analog audio standard of USB-C utilizing the SBU/CC pin. Therefore only analog audio out dongles are compatible and USB-C-to-C connectors only work in one orientation.
 		* Sold from various AliExpress vendors. [Audio Only](https://www.aliexpress.com/item/2251832859728883.html) and [Audio and Charge](https://www.aliexpress.com/item/3256804479013082.html).
