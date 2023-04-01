@@ -14,30 +14,19 @@ The first major redesign of the [Game Boy Advance](advance) changed the system t
 Nearly Identical to the original Game Boy Advance SP, the revised 101 model finally added the much sought after backlit screen to the Game Boy line. Interestingly, this model debuted almost a full year after the release of the Nintendo DS but mainly in North America, European/Australian systems are extremely rare and Japan never got the revision. Although sold in large numbers, the backlit screen of this SP makes this model one of the most sought-after models of Game Boy, consequently its current price is usually higher than that of other Game Boy models. Exacerbating this price increase is the fact that many systems have been taken apart for their valuable screens.
 
 Table of Contents:
-<!--ts-->
-* [**Mods**](#mods)
-	* [Backlight Kits - Summer 2022](#backlight-kits---summer-2022)
-	* [Consolizer Mods](#consolizer-mods)
-	* [Battery and Charge Mods](#battery-and-charge-mods)
-	* [Audio Mods](#audio-mods)
-	* [Other Mods](#other-mods)
-* [**Common Problems**](#problems)
-	* [Cracked Shell](#cracked-shell)
-	* [Power Issues](#power-issues)
-	* [Bad Batteries](#bad-batteries)
-	* [Charging Issues](#charging-issues)
-	* [Bad Hinges](#bad-hinges)
-	* [Bad Shoulder Buttons](#bad-shoulder-buttons)
-<!--te-->
+* TOC
+{:toc}
 
 Last Content Revision: 2022-08-27
 
 # Mods
 
-## Backlight Kits - Summer 2022
+## Backlight Kits - Spring 2023
 The below list shows only the current or relevant backlight kits for the GBA SP. For a more information visit the [comprehensive guide](..\wiki\backlightmods#ags) from /u/Admiral_Butter_Crust (makho).
-* **FunnyPlaying Laminated IPS Kit.** Laminated 9380 panel with brightness control via the original brightness button. Soldering is required for brightness control. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=amRFG-DqP2w).
-	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-ips-laminated-display-lcd-kits), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/funnyplaying-gba-sp-ips-game-boy-advance-sp-backlight-mod), [RetroModding](https://www.retromodding.com/products/game-boy-advance-sp-ips-lcd).
+* **FunnyPlaying Laminated 3.0" IPS Kit.** The successor to the reliable 9380 kit using a new IPS panel. Soldering is optional, but required for brightness button control. Shell cuts are required to fit in OEM and OEM-mold aftermarket shells. Fits IPS-ready shells from various vendors. [[Video Guide]](https://www.youtube.com/watch?v=DnyfHkz_TNo)
+	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/3-0-inch-ips-gbasp-kit), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gba-sp/products/funnyplaying-game-boy-advance-sp-3-0-ips-kit?variant=42363161968812), [Zedlabz](https://www.zedlabz.com/products/laminated-3-0-inch-ips-backlight-lcd-screen-kit-for-nintendo-game-boy-advance-sp-with-osd-ags-gba-sp-black-funnyplaying).
+* **FunnyPlaying Laminated ITA Kit.** Using the DSi panel, this kit looks very similar to an AGS-101 for a more original backlit look. Requires soldering for panel installation. Requires FunnyPlaying's shell. [[Video Guide]](https://www.youtube.com/watch?v=3ZSK9JklsKA)
+	* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/itasp-tft-backlight-laminated-kit), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gba-sp/products/funnyplaying-game-boy-advance-sp-ita-kit).
 * **Hispeedido Laminated IPS TV-out Kit.** Laminated 9380 panel with brightness control, color palette, **composite video out** through a custom cable. Soldering is required for this kit. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=FErJgdeh4SI)
 	* Sold at [AliExpress](https://www.aliexpress.com/item/2251832813397628.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-displays/products/game-boy-advance-sp-ips-backlight-tv-version-av-out-mod-kit).
 * **Cloud Game Store Laminated IPS Kit.** Laminated custom panel with brightness control, color palette, **pixel grid effects**. Soldering is required for this kit. Shell cuts are required to fit the panel. [[Video Guide]](https://www.youtube.com/watch?v=DQT_303eAa0&t=1877s).
@@ -45,13 +34,11 @@ The below list shows only the current or relevant backlight kits for the GBA SP.
 * **Hispeedido HDMI-Out Add-on Board.** Using an additional board held in the top screen shell, this kit allows for micro-HDMI out from the top shell. This requires shell cuts and is only compatible with a specific set of backlight kits.
 	* Sold at [AliExpress](https://www.aliexpress.com/item/3256804448710425.html) and [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-hdmi-out-kit?variant=41943098032300). 
 
-* **Shell Note:** For the above kits, IPS-ready shells are available from multiple manufacturers. No shell modifications are required for the IPS panel to fit. [ExtremeRate Clear](https://www.amazon.com/Upgraded-eXtremeRate-Emerald-Replacement-Housing/dp/B09XB6QR9Q), [ExtremeRate Solid Colors](https://www.amazon.com/Upgraded-eXtremeRate-Replacement-Housing-Gameboy/dp/B09WMQKS2D), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-shells/products/game-boy-advance-sp-ips-ready-housings-shells-no-cut), [AliExpress](https://www.aliexpress.com/item/3256802835054431.html).
-
 ## Consolizer Mods
 The portable Game Boy Advance SP can be converted to a TV connected console for HD game play. These are considered advanced mods.
 * **GBAHD** from [zwenergy](https://github.com/zwenergy/gbaHD). This project utilizes a Spartan Edge Accelerator FPGA development board and outputs scaled 720p or 1080p image out of the onboard micro-HDMI. The repo lists information for manual wiring.
 	* [Mancloud](https://github.com/gbaHD/GBAHD-Shield) has a shield design that allows for a more streamlined build. A matching shell from [jotheripper](https://www.printables.com/model/145881-gba-sp-case-for-manclouds-gbahd-shield) is also available to print. A complete kit is sold by [Retro Upgrades UK](https://www.retroupgrades.co.uk/product/gbahd-shield/) without the shell.
-* GBHD Advance SP from [GameBox Systems](https://gamebox.systems/product-category/gameboy/). Utilizing a custom FPGA board, this kit can be purchased as a DIY parts kit or fully assembled.
+* **GBHD Advance SP** from [GameBox Systems](https://gamebox.systems/product-category/gameboy/). Utilizing a custom FPGA board, this kit can be purchased as a DIY parts kit or fully assembled.
 
 ## Battery and Charge Mods
 * **Replacement Batteries**. Note many replacement batteries have misleading or completely false capacity ratings. Below have been tested and confirmed.
@@ -64,7 +51,13 @@ The portable Game Boy Advance SP can be converted to a TV connected console for 
 	* **[rorosaurus](https://github.com/rorosaurus/gba-sp-usb-c)** has an open source design that simply allows for charging. Includes the necessary CC1/CC2 pulldown resistors for USB-C to C cable compatibilty. [[Video Guide]](https://www.youtube.com/watch?v=gBLHvdre-Xg)
 		* Alternatively sold on [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-power/products/gba-sp-game-boy-advance-sp-usb-c-mod)
 	* **[Alternate centered version](https://oshpark.com/shared_projects/sET5JmVX)**. This version places the port in a more centered location to the shell opening. Requires manual assembly of the two boards as well as reusing parts of the original port. Follow the instructions and reference on the OSHPark page for ordering. An [alternate filler](https://github.com/nMinhBang/GBA-SP_USB-C/blob/master/GBAUSBC.stl) is required. The filler can be printed by JLCPCB in nylon for a smooth OEM-look.
-	* **[Giltesa version with analog audio](https://github.com/giltesa/Game-Boy-Advance-SP-USB-C-charging-kit)**. This version connects the charge and audio lines through to the USB-C port. As the SP does not support the USB-C standard of digital audio output, this board uses the Audio Accessory Mode standard of USB-C. **DAC adapters are not supported** and only passive analog adapters work. As the CC pins for headphone detect are re-used, this **does not support USB-C to C cables**. Sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-usb-c-mod-with-audio-support). [[Video Guide]](https://www.youtube.com/watch?v=G94K4Pv6rGY)
+	* **Giltesa USB-C Charge and Audio Mod**. There are two versions of this mod; a standard version and a centered version. Both are electrically the same, but the centered version offers extra clearance for shell mods such as the Slate.
+		* Standard version sold at [Giltesa](https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit/), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/game-boy-advance-sp-usb-c-mod-with-audio-support), [Zedlabs](https://www.zedlabz.com/products/usb-c-charging-board-mod-for-nintendo-game-boy-advance-sp-with-audio-support-giltesa). [[Video Guide]](https://www.youtube.com/watch?v=e_Pdkdgis8E)
+		* Centered version sold at [Giltesa](https://shop.giltesa.com/product/game-boy-advance-sp-usb-c-kit-centered/), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/giltesa-game-boy-advance-sp-usb-c-centered-mod). [[Video Guide]](https://www.youtube.com/watch?v=PKm9SWTC8MQ)
+	* **FunnyPlaying USB-C Charge and Audio Mod**. This is a centered-port mod with a color matched shell insert to FunnyPlaying's shell colors.
+		* Sold at [FunnyPlaying](https://funnyplaying.com/collections/product/products/gbasp-usb-c-w-audio-mod), [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/gba-sp-power/products/funnyplaying-game-boy-advance-sp-usb-c-w-audio-mod).
+	* **Analog Audio USB-C adapters** are required for both Giltesa and FunnyPlaying versions of the mod. The AGS does not output digital audio, and the ports use an alternate analog audio standard of USB-C utilizing the SBU/CC pin. Therefore only analog audio out dongles are compatible and USB-C-to-C connectors only work in one orientation.
+		* Sold from various AliExpress vendors. [Audio Only](https://www.aliexpress.com/item/2251832859728883.html) and [Audio and Charge](https://www.aliexpress.com/item/3256804479013082.html).
 
 ## Audio Mods
 A note that applies to all consoles. Amplifiers will amplify noise that is inherent to the system. 
@@ -81,6 +74,7 @@ A note that applies to all consoles. Amplifiers will amplify noise that is inher
 	* **[XIPHER Slab](https://www.printables.com/model/174622-gameboy-sp-slab-v2)**. A fully 3D printable hingeless SP designed to flip the motherboard to have the cartridge removed from the top. A very unique concept and design that requires intermediate level modding skill. This can be FDM and SLA printed. [[Video Guide]](https://www.youtube.com/watch?v=yff5gHApMy0)
 	* **[Boxy Pixel Unhinged](https://www.boxypixel.com/collections/game-boy-advance-sp)**. There are two versions currently available. The design requires the use of mostly Boxy Pixel parts and accessories. The end formfactor is similar to a Game Boy DMG. [[Video Guide]](https://www.youtube.com/watch?v=n3sJBIPn-wo)
 * **LED Mods**
+	* **[FunnyPlaying GBA SP Button LED Kit](https://funnyplaying.com/collections/product/products/gbasp-button-led-kit)**. Also sold at [Retro Game Repair Shop](https://retrogamerepairshop.com/collections/funnyplaying-gba-sp/products/funnyplaying-game-boy-advance-sp-led-kit). [[Video Guide]](https://www.youtube.com/watch?v=DnyfHkz_TNo)
 	* **[Larvesta GBA SP Flex LED](https://larvesta10.hatenablog.com/entry/GBASP_Flex_LED)**
 	* **[LED Button/Emblem Mod](https://imgur.com/a/dhLK4)**
 	* **[LED Emblem Mod](https://imgur.com/a/JXCUR)**
@@ -89,7 +83,7 @@ A note that applies to all consoles. Amplifiers will amplify noise that is inher
 * **BennVenn NDSL LCD Kit** Update 03/2019. A prototype design for the Nintendo DS Lite lower screen has been worked on. Soon^^TM
 * **CPU Overclock**. As with other consoles, the clock can be overclocked to speed up slow movement games.
 	* **[InsideGadgets ClkxCtrl](https://shop.insidegadgets.com/product/gba-clockxcontrol/)**. Requires fine soldering and complex wire routing. [[Video Guide]](https://www.youtube.com/watch?v=HP2U07UMuvk)
-	* **Dual Clock Switch Mod**. Using two crystals and a toggle switch to change between them. [Written Guide](https://imgur.com/a/vfyhe)
+	* **Dual Clock Switch Mod**. Using two crystals and a toggle switch to change between them. [[Written Guide]](https://imgur.com/a/vfyhe)
  
 # Problems
 
@@ -105,7 +99,7 @@ Charging issues, power on issues, flickering LEDs.
 ### Dirty or damaged power switch. 
 The Game Boy Advance SP power LED is always RED even on new batteries or LED will flicker/ will restart randomly or if jolted.
 * The most effective method to **clean the power switch** is to disassemble the switch and ensure everything is clean. Remove all the oxidation and carbon buildup from the inside-out. Opening the switch is the most reliable and best long term solution. Other methods may still help, but should be considered a temporary fix. [[Video Guide]](https://www.youtube.com/watch?v=nIz7qbfCQHA)
-* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [Video Guide](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
+* **Aftermarket Replacement Power Switch.** This could be an alternative to an actual proper cleaning, when the power switch is corroded beyond repair. Moderate soldering skill required. [[Video Guide]](https://www.youtube.com/watch?v=S4zM4kig6q0&t=880s)
 	* [OEM NOS Replacement](https://retrogamerepairshop.com/products/game-boy-advance-sp-power-switch-oem-new-replacement?variant=39818838278316)
 	* [Cloud Game Store Replacement](https://www.aliexpress.com/item/3256802256490400.html)
 	* [Helder's Replacement](https://heldergametech.com/shop/gba/gbasp-power-switch/) also sold at [RetroModding](https://www.retromodding.com/products/angry-helders-sp-power-switch) and [ZedLabz](https://www.zedlabz.com/products/replacement-power-switch-for-game-boy-advance-sp-gba-sp-handheld-premium-thin-flex-pcb-mod-zedlabz)
@@ -122,7 +116,7 @@ When attempting to charge the console, the charge light does not come on at all 
 	* Rule out a bad charger with a cheap USB cable. Sold on [AliExpress](https://www.aliexpress.com/item/2255800795209554.html), [Retro Game Repair Shop](https://retrogamerepairshop.com/products/gba-sp-game-boy-advance-sp-usb-charger?variant=37809424826540), [RetroModding](https://www.retromodding.com/products/game-boy-advance-sp-usb-charging-cable), and [ZedLabz](https://www.zedlabz.com/products/zedlabz-1-2m-usb-charging-cable-adapter-lead-for-nintendo-ds-original-nds-gameboy-advance-sp-gba-sp?).
 	* Replacements ports are [available](https://www.aliexpress.com/item/2251832333755807.html) but the pin spacing is incorrect. You will need to bend the pins to make fit correctly. Replacement port [video guide](https://www.youtube.com/watch?v=EnYxizt8wDE). Alternatively USB-C [mods](#mods) can replace the port completely.
 * **Charge Circuit Issues.** If neither a new battery or charger helped, you’ll need to take apart the console. If the water indicator sticker (a white square with pink dots, should be on the bottom of the PCB near the power switch) is tripped (appears solid red or pink or is missing entirely) or if you see any corrosion or other signs of water damage, you may wish to take pictures and consult help. 
-	* **EM8**. If the orange charge light does not come on at all and you’ve ruled out the power adapter, or the charge light comes on for a second and turns off and you’ve ruled out the battery, the issue may be the port itself or the EM8 filter near the charge port. You'll need to perform a visual inspection of the port itself and the PCB around the port for anything that looks off. If you do not see any obvious issues, you'll need to plug in the console while you have it disassembled and try and trace the power lines from the port with a multimeter. If you see power at the port and no where else, you should try to reflow the solder on the pins. To narrow down if the issue is with EM8, typically one can just apply pressure to the component (with your fingers) and plug the console in with a battery. The common mode choke sometimes will have cracked solder joints or have been physically damaged or cracked. Replacements are available in the [parts list](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/). [Video Guide](https://www.youtube.com/watch?v=O03_c7dS_8U)
+	* **EM8**. If the orange charge light does not come on at all and you’ve ruled out the power adapter, or the charge light comes on for a second and turns off and you’ve ruled out the battery, the issue may be the port itself or the EM8 filter near the charge port. You'll need to perform a visual inspection of the port itself and the PCB around the port for anything that looks off. If you do not see any obvious issues, you'll need to plug in the console while you have it disassembled and try and trace the power lines from the port with a multimeter. If you see power at the port and no where else, you should try to reflow the solder on the pins. To narrow down if the issue is with EM8, typically one can just apply pressure to the component (with your fingers) and plug the console in with a battery. The common mode choke sometimes will have cracked solder joints or have been physically damaged or cracked. Replacements are available in the [parts list](https://docs.google.com/spreadsheets/d/17RfgOaR-P8M0cC5BojwuY52GbZUefLFm82To7ja963o/). [[Video Guide]](https://www.youtube.com/watch?v=O03_c7dS_8U)
 	* **Fuses F1 and F2**. If the charge light comes on for a second and shuts off and you've already ruled out the battery, this could indicate a blown fuse. Does your console boot normally? If the console does not boot on a known (or at least assumed) good battery, you'll need to check the component F1. This is a surface mount fuse and it is located on the front of the PCB right underneath the A and B buttons. With your multimeter, check and see if you have continuity across the component. If not, you'll need to replace this fuse. If the charge light does not come on at all and you've ruled out the power adapter, the issue may be with the component F2. F2 is a small surface mount fuse located near the link port on the back of the PCB. With your multimeter, check and see if you have continuity across the component. If not, you'll need to replace this fuse. F2 typically blows when there is a short across the charge port or if the batteries are installed with reversed polarity.
 	*  The path of the charge circuit runs directly next to the speaker hole so it is easy for liquids to get trapped and those traces to get compromised.  You can use a multimeter to probe continuity from D1 to F2. If you identify a break in the line, a jumper wire between these two components may resolve the issue with the charge circuit. There may be additional components between D1 and F2 based on the board revision you are looking at, please refer to the [schematics](https://github.com/Gekkio/gb-schematics/blob/master/AGS-CPU-11/schematic/AGS-CPU-11.pdf) and do your own visual inspection of the traces on your board to confirm if there are any further breaks that require repair.
 
