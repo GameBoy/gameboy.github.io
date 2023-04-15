@@ -29,6 +29,8 @@ Last Content Revision: 2020-08-18
 
 * [**Flash Carts**](flashcarts)
 
+* [Save files](#savefiles)
+
 * [**Tools (hardware)**](tools)
 
 * [FAQ](#faq)
@@ -114,6 +116,17 @@ The go to section for reading and writing data to any Game Boy cart is [the cart
 The go to section [any aftermarket or custom flash carts (work in progress).](flashcarts) Your one stop for information on different hardware to play any* ROM on your actual hardware.
 
 * \*you'll need a cart reader to dump your games so you can get ROM files to actually use with your flash cart. 
+
+# Save Files
+
+You can convert save files to transfer them between different devices (MiSTer, flash carts, Retron 5, real carts, etc.) using https://savefileconverter.com/
+
+GBA save files downloaded from the Internet are often in:
+  * Gameshark format (\*.sps): https://savefileconverter.com/#/gba/gameshark
+  * Gameshark SP format (\*.gsv): https://savefileconverter.com/#/gba/gameshark-sp
+  * Action Replay format (\*.xps): https://savefileconverter.com/#/gba/action-replay
+
+Save files can be downloaded from places listed here: https://savefileconverter.com/#/download-saves
 
 # [Tools](tools)
 
