@@ -14,7 +14,9 @@ Another useful feature of a cartridge reader is that if you backup the ROM of yo
 Keep in mind that most cart readers listed here are more sensitive than original Game Boys when it comes to the quality of the game interface. This means that cleaning the edge connector of your game, usually by swabbing with IPA, can greatly increase the reliability of any cart reader. This is important because a bad connection between the game and the cart reader *can* result in bad data being read from the cart or, worse, being written to the cart. Losing your save because of 20 years worth of built up saliva inside your game would suck (and, unfortunately, has happened several times so stop blowing into your carts!).
 
 If you are reading this list and faced with decision paralysis, the [GBxCart RW from insideGadgets](https://shop.insidegadgets.com/product/gbxcart-rw/) is widely regarded as the best bang/buck reader for GB. Some other readers have more specific or niche functionality but even those readers come at a premium. 
- 
+
+More devices to copy save files to/from original GB/GBC carts can be found here: https://savefileconverter.com/#/original-hardware?sort=gb and to/from original GBA carts here: https://savefileconverter.com/#/original-hardware?sort=gba
+
 
 ## Game Boy, Game Boy Color, and Game Boy Advance Game Pak devices: 
  
