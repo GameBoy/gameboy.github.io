@@ -29,7 +29,7 @@ Last Content Revision: 2020-08-18
 
 * [**Flash Carts**](flashcarts)
 
-* [Save files](#savefiles)
+* [Save files](#save-files)
 
 * [**Tools (hardware)**](tools)
 
