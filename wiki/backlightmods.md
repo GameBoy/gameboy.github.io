@@ -7,7 +7,7 @@ category: Wiki
 
 ---
 
-# Moved to [gbwiki](https://gbwiki.org/en/other/backlightmods)
+# Moved to [GBWiki](https://gbwiki.org/en/other/backlightmods)
 
 ## **The best backlight kit is the one you already have.** Enjoy it. A new kit does not invalidate your prior build. 
 
