@@ -29,7 +29,7 @@ Last Content Revision: 2020-08-18
 
 * [**Flash Carts**](flashcarts)
 
-* [Save files](#savefiles)
+* [Save files](#save-files)
 
 * [**Tools (hardware)**](tools)
 
@@ -119,14 +119,14 @@ The go to section [any aftermarket or custom flash carts (work in progress).](fl
 
 # Save Files
 
-You can convert save files to transfer them between different devices (MiSTer, flash carts, Retron 5, real carts, etc.) using https://savefileconverter.com/
+You can convert save files to transfer them between different devices (MiSTer, flash carts, Retron 5, real carts, etc.) using [https://savefileconverter.com/](https://savefileconverter.com/)
 
 GBA save files downloaded from the Internet are often in:
-  * Gameshark format (\*.sps): https://savefileconverter.com/#/gba/gameshark
-  * Gameshark SP format (\*.gsv): https://savefileconverter.com/#/gba/gameshark-sp
-  * Action Replay format (\*.xps): https://savefileconverter.com/#/gba/action-replay
+  * Gameshark format (\*.sps): [https://savefileconverter.com/#/gba/gameshark](https://savefileconverter.com/#/gba/gameshark)
+  * Gameshark SP format (\*.gsv): [https://savefileconverter.com/#/gba/gameshark-sp](https://savefileconverter.com/#/gba/gameshark-sp)
+  * Action Replay format (\*.xps): [https://savefileconverter.com/#/gba/action-replay](https://savefileconverter.com/#/gba/action-replay)
 
-Save files can be downloaded from places listed here: https://savefileconverter.com/#/download-saves
+Save files can be downloaded from places listed here: [https://savefileconverter.com/#/download-saves](https://savefileconverter.com/#/download-saves)
 
 # [Tools](tools)
 
