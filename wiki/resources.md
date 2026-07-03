@@ -39,6 +39,8 @@ GB/GBC Cartridge label template (by HappyCloud): [https://github.com/GameBoy/Stu
 
 Game Boy Camera Club: [https://discord.gg/C7WFJHG](https://discord.gg/C7WFJHG)
 
+Game Boy Museum (online DMG-01 collection & knowledge base): [https://www.gameboymuseum.com](https://www.gameboymuseum.com)
+
 # Stores
 
 *While shops and sellers are sorted by their location, the bigger stores and some sellers usually ship internationally. Check with each store for shipping rates.*
